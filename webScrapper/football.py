@@ -8,13 +8,14 @@ from datetime import datetime, timedelta
 import os
 from concurrent.futures import ThreadPoolExecutor
 
+
 def fetch(urls):
     # Configure Selenium to use Chrome browser
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")  # Run Chrome in headless mode
     # options.add_argument("--window-size=1920x1080")
     # Replace this path with the path to your chromedriver executable
-    chromedriver_path = "chromedriver.exe"
+    chromedriver_path = "geckodriver.exe"
 
     # Initialize the Chrome driver
     driver = webdriver.Chrome(executable_path=chromedriver_path, options=options)
