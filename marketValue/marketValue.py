@@ -66,14 +66,21 @@ for chunk in team_name_chunks:
 
             # Wait for search results to load
             try:
-                # print(f"Waiting for search results for {team_name}...")
-                WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "rechts")))
-                market_value=driver.find_element(By.CLASS_NAME, "rechts")
-                if('€' in market_value.text.strip()):
-                    market_values[team_name] = market_value.text.strip().replace('€', '')
-                else:
-                    market_values[team_name] = '0'
-
+                club_element = driver.find_element(By.CSS_SELECTOR, "h2.content-box-headline")
+                if "club" in club_element.text.lower():
+                    print(f"Waiting for search results for {team_name}...")
+                    WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "rechts")))
+                    
+                    # Find the parent element of the h4 element
+                    parent_element = club_element.find_element(By.XPATH, "..")
+                    
+                    # Find the rechts element within the parent element
+                    rechts_element = parent_element.find_element(By.CLASS_NAME, "rechts")
+                    
+                    if '€' in rechts_element.text.strip():
+                        market_values[team_name] = rechts_element.text.strip().replace('€', '')
+                    else:
+                        market_values[team_name] = '0'
                 # print(market_values[team_name])
             except TimeoutException:
                 print("Timeout waiting for search results.")
