@@ -1,15 +1,7 @@
 import csv
 from collections import defaultdict
-from datetime import datetime, timedelta
-
-def calculate_form(matches):
-    # Calculate form based on the last 5 matches
-    recent_matches = matches[-5:]
-    print(matches)
-    wins = sum([1 for outcome, _ in recent_matches if outcome == "win"])
-    draws = sum([1 for outcome, _ in recent_matches if outcome == "draw"])
-    form = (wins * 3 + draws) / 15  # Normalize to 0-1 range
-    return form
+import math
+import numpy as np
 
 # Directory containing the input CSV file
 input_csv_file = "filter/output_filtered.csv"
@@ -22,38 +14,39 @@ team_matches = defaultdict(list)
 with open(input_csv_file, "r", newline="", encoding="utf-8") as input_csv:
     reader = csv.DictReader(input_csv)
     for row in reader:
-        home_team = row["Home Team"]
-        away_team = row["Away Team"]
-        home_score = row["Home Score"]
-        away_score = row["Away Score"]
-        competition_type = row["Competition_type"]
-        date = datetime.strptime(row["Date"], "%Y-%m-%d")  # Convert date string to datetime object
+        if len(row) == 9 and None not in row.values():
+            home_team = row["Home Team"]
+            away_team = row["Away Team"]
+            home_score = row["Home Score"]
+            away_score = row["Away Score"]
+            date = row["Date"]  # Get the Date value as a string
+            mv_home_team = float(row.get("MV Home Team", 1.0))  # Default value of 1.0 if not provided
+            mv_away_team = float(row.get("MV Away Team", 1.0))  # Default value of 1.0 if not provided
 
-        if home_score and home_score.isdigit() and away_score and away_score.isdigit():
-            home_score = int(home_score)
-            away_score = int(away_score)
-            
-            if home_score > away_score:
-                team_matches[home_team].append(("win", date))
-                team_matches[away_team].append(("loss", date))
-            elif home_score < away_score:
-                team_matches[home_team].append(("loss", date))
-                team_matches[away_team].append(("win", date))
-            else:
-                team_matches[home_team].append(("draw", date))
-                team_matches[away_team].append(("draw", date))
-        else:
-            pass
+            if home_score and home_score.isdigit() and away_score and away_score.isdigit():
+                home_score = int(home_score)
+                away_score = int(away_score)
 
-# Calculate the probabilities using a dynamic moving window
+                if home_score > away_score:
+                    team_matches[home_team].append(("win", date,mv_home_team,mv_away_team))
+                    team_matches[away_team].append(("loss", date,mv_home_team,mv_away_team))
+                elif home_score < away_score:
+                    team_matches[home_team].append(("loss", date,mv_home_team,mv_away_team))
+                    team_matches[away_team].append(("win", date,mv_home_team,mv_away_team))
+                else:
+                    team_matches[home_team].append(("draw", date,mv_home_team,mv_away_team))
+                    team_matches[away_team].append(("draw", date,mv_home_team,mv_away_team))
+
+
 team_probabilities = {}
 for team, matches in team_matches.items():
+
     team_probabilities[team] = []
 
     # Sort matches by date in ascending order
     matches.sort(key=lambda x: x[1])
 
-    for i, (outcome, match_date) in enumerate(matches):
+    for i, (outcome, match_date, mv_home_team, mv_away_team) in enumerate(matches):
         # Find the most recent 5 matches before the current match's date
         recent_matches = [matches[j][0] for j in range(i, max(i-10, -1), -1)]
         win_count = recent_matches.count("win")
@@ -62,11 +55,18 @@ for team, matches in team_matches.items():
         # Calculate win probability using Laplace smoothing
         win_probability = (win_count + 1) / (total_recent_matches + 3)
 
-        team_probabilities[team].append((win_probability, match_date))
+        if mv_home_team > mv_away_team:
+            weighted_win_probability = win_probability + (mv_home_team - mv_away_team) / 100
+        else:
+            weighted_win_probability = win_probability
+
+
+        team_probabilities[team].append((weighted_win_probability, match_date))
+
 
 # Write the calculated probabilities to the output CSV
 with open(output_csv_file, "w", newline="", encoding="utf-8") as output_csv:
-    fieldnames = ["Competition", "Country", "Home Team", "Home Score", "Away Team", "Away Score", "Date", "Competition_type", "Home_Win_Probability", "Away_Win_Probability"]
+    fieldnames = ["Competition", "Country", "Home Team", "Home Score", "Away Team", "Away Score",'MV Home Team', 'MV Away Team' ,"Date", "Home_Win_Probability", "Away_Win_Probability"]
     writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -75,13 +75,11 @@ with open(output_csv_file, "w", newline="", encoding="utf-8") as output_csv:
         for row in reader:
             home_team = row["Home Team"]
             away_team = row["Away Team"]
-            date = datetime.strptime(row["Date"], "%Y-%m-%d")
+            date=row['Date']
 
             # Find the matching probability for the current match's date
-            # Find the matching probability for the current match's date
-            home_win_probability = next((prob for prob, match_date in team_probabilities.get(home_team, []) if match_date == date), 0)
-            away_win_probability = next((prob for prob, match_date in team_probabilities.get(away_team, []) if match_date == date), 0)
-
+            home_win_probability = round(next((prob for prob, match_date in team_probabilities.get(home_team, []) if match_date == date), 0)*100,3)
+            away_win_probability = round(next((prob for prob, match_date in team_probabilities.get(away_team, []) if match_date == date), 0)*100,3)
 
             # Update the row dictionary with the calculated values
             row.update({"Home_Win_Probability": home_win_probability, "Away_Win_Probability": away_win_probability})
