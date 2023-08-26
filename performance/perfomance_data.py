@@ -15,8 +15,8 @@ output_csv_file = "performance/data_performance.csv"
 # mv_difference_normalized: Normalized difference in market values (MV Home Team - MV Away Team)
 def calculate_win_probability(mv_difference_normalized,home_winning_form,away_winning_form):
     # Sigmoid function parameters
-    k = 0.1  # Controls the steepness of the curve
-    x0 = -1   # Midpoint of the sigmoid
+    k = 0.3  # Controls the steepness of the curve
+    x0 = 1   # Midpoint of the sigmoid
     combined_input = mv_difference_normalized * home_winning_form / away_winning_form if (away_winning_form!=0) else mv_difference_normalized * home_winning_form / 0.01
 
     probability = 1 / (1 + math.exp(-k * (combined_input - x0)))
