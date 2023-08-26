@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 
 
-
+#run this to fix the price in output_filtered.csv
 def addDataIntoMV():
     ''' The `addDataIntoMV` function is reading data from two CSV files, `teams_market_value_fix.csv`
     and `output_filtered.csv`. It then matches the team names from the second file with the team
@@ -25,13 +25,14 @@ def addDataIntoMV():
 
     for team,value in data:
         for team_filtered in data_filtered:
-                if(team_filtered[2]==team):
+            if(len(team_filtered)>2):
+                if(team_filtered[2]==team and all(team_filtered)):
                     team_filtered.append(value)
                 
     for team,value in data:
         for team_filtered in data_filtered:
             if(len(team_filtered)>4):
-                if(team_filtered[4]==team):
+                if(team_filtered[4]==team and all(team_filtered)):
                     team_filtered.append(value)
 
     with open('filter/output_filtered.csv', 'w',encoding='utf-8',newline='') as filteredFile:
