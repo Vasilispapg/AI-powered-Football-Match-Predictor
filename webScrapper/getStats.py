@@ -14,13 +14,13 @@ import json
 if os.environ.get("RUNNING_FROM_BATCH"):
     # Running from batch, set batch-specific paths
     geckodriver_path = r'C:\Users\vasil\Downloads\football\webScrapper\geckodriver.exe'
-    temp_json_path = r'C:\Users\vasil\Downloads\football\webScrapper\temp.json'
+    temp_json_path = r'C:\Users\vasil\Downloads\football\webScrapper\temp'
     folder_path = r'C:\Users\vasil\Downloads\football\matches_detailed'
     output_folder = r'C:\Users\vasil\Downloads\football\matches_detailed_processed'
 else:
     # Running as Python script, set regular paths
     geckodriver_path = "webScrapper/geckodriver.exe"
-    temp_json_path = "webScrapper/temp.json"
+    temp_json_path = "webScrapper/temp"
     folder_path = "matches_detailed"
     output_folder = "matches_detailed_processed"
     
@@ -120,6 +120,8 @@ def importJSON(filename,data):
         json.dump(data, f)
         
 def loadJSON(filename):
+    if(os.path.exists(filename)==False):
+        return {}
     with open(filename, 'r',encoding='utf-8') as f:
         return json.load(f)
   
@@ -131,13 +133,12 @@ def proccess(file_path):
     options.set_preference("network.cookie.cookieBehavior", 0)
     driver = webdriver.Firefox(options=options, executable_path=geckodriver_path,firefox_profile=profile)
     
-    temp_file=loadJSON(temp_json_path)
 
     data=[]
     # Process each URL and store additional information
-    output_csv_filename = file_path.replace("matches_detailed","matches_detailed_processed")    
-    
-    
+    output_csv_filename = file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]
+    temp_file=loadJSON(temp_json_path+file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]+'.json')
+
     if(os.path.exists(output_csv_filename)):
         return
     counter=1
@@ -155,24 +156,26 @@ def proccess(file_path):
             row['Stats']={}
             row['Votes']=[]
 
-            iterator=0
-            while iterator < 3:
-                try:
-                    row['Stats']=getStats(driver)
-                    row['Votes']=getVotes(driver, row['Home Team'], row['Away Team'])
-                except:
-                    iterator+=1
-                    if iterator == 3:
-                        print("Maximum number of retries reached. Skipping this URL.")
-                        break
-                    else:
-                        driver.refresh()
+            # iterator=0
+            # while iterator < 3:
+            try:
+                row['Stats']=getStats(driver)
+                row['Votes']=getVotes(driver, row['Home Team'], row['Away Team'])
+            except:
+                row['Stats']={}
+                row['Votes']=[]
+                    # iterator+=1
+                    # if iterator == 3:
+                    #     print("Maximum number of retries reached. Skipping this URL.")
+                    #     break
+                    # else:
+                    #     driver.refresh()
                         
             data.append(row)
             temp_file[counter]=row
             counter+=1
             if(counter%10==0):
-                importJSON(temp_json_path,temp_file)
+                importJSON(temp_json_path+output_csv_filename+'.json',temp_file)
 
     # Close the driver
     driver.quit()
@@ -186,7 +189,7 @@ def proccess(file_path):
         csv_writer.writerows(data)
         
     temp_file={}
-    importJSON(temp_json_path,temp_file)
+    importJSON(temp_json_path+output_csv_filename+'.json',temp_file)
     # clear the temp file
 
     print(f"Data has been processed and saved to {output_csv_filename}")
