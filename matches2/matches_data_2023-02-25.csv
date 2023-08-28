@@ -1,0 +1,444 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date
+Premier League,England,Everton,0,Aston Villa,2,2023-02-25
+Premier League,England,Leeds,1,Southampton,0,2023-02-25
+Premier League,England,Leicester,0,Arsenal,1,2023-02-25
+Premier League,England,West Ham,4,Nottm Forest,0,2023-02-25
+Premier League,England,Bournemouth,1,Man City,4,2023-02-25
+Premier League,England,Crystal Palace,0,Liverpool,0,2023-02-25
+La Liga,Spain,Espanyol,2,Mallorca,1,2023-02-25
+La Liga,Spain,Cádiz,1,Vallecano,0,2023-02-25
+La Liga,Spain,Real Madrid,1,Atlético,1,2023-02-25
+La Liga,Spain,Valencia,1,Real Sociedad,0,2023-02-25
+Serie A,Italy,Empoli,0,Napoli,2,2023-02-25
+Serie A,Italy,Lecce,0,Sassuolo,1,2023-02-25
+Bundesliga,Germany,Bremen,3,Bochum,0,2023-02-25
+Bundesliga,Germany,Hertha BSC,2,Augsburg,0,2023-02-25
+Bundesliga,Germany,Hoffenheim,0,Dortmund,1,2023-02-25
+Bundesliga,Germany,Köln,0,Wolfsburg,2,2023-02-25
+Bundesliga,Germany,Leipzig,2,Frankfurt,1,2023-02-25
+Bundesliga,Germany,Schalke 04,2,Stuttgart,1,2023-02-25
+Ligue 1,France,Angers,1,Lyon,3,2023-02-25
+Ligue 1,France,Montpellier,1,Lens,1,2023-02-25
+Championship,England,Coventry,2,Sunderland,1,2023-02-25
+Championship,England,Birmingham,0,Luton,1,2023-02-25
+Championship,England,Bristol City,1,Hull,0,2023-02-25
+Championship,England,Burnley,4,Huddersfield,0,2023-02-25
+Championship,England,Norwich,2,Cardiff,0,2023-02-25
+Championship,England,Preston,2,Wigan,1,2023-02-25
+Championship,England,QPR,1,Blackburn,3,2023-02-25
+Championship,England,Reading,3,Blackpool,1,2023-02-25
+Championship,England,Sheff Utd,1,Watford,0,2023-02-25
+Championship,England,Stoke,0,Millwall,1,2023-02-25
+Championship,England,West Bromwich,2,Middlesbrough,0,2023-02-25
+Friendlies,World,Grenada,2,Barbados,2,2023-02-25
+Eredivisie,Netherlands,Groningen,3,Excelsior,0,2023-02-25
+Eredivisie,Netherlands,Heerenveen,1,Waalwijk,4,2023-02-25
+Eredivisie,Netherlands,AZ,2,Cambuur,1,2023-02-25
+Eredivisie,Netherlands,NEC,3,Volendam,0,2023-02-25
+A-League Men,Australia,Melbourne City,3,Sydney,2,2023-02-25
+A-League Men,Australia,Newcastle,1,Western United,3,2023-02-25
+A-League Men,Australia,Wanderers,4,Macarthur,0,2023-02-25
+Süper Lig,Turkey,Fenerbahçe,4,Konyaspor,0,2023-02-25
+Süper Lig,Turkey,Giresun,1,Kayseri,2,2023-02-25
+Premiership,Scotland,Aberdeen,1,Livingston,0,2023-02-25
+Premiership,Scotland,Kilmarnock,1,Motherwell,1,2023-02-25
+Premiership,Scotland,Ross County,4,Dundee Utd,0,2023-02-25
+Premiership,Scotland,St. Johnstone,1,St. Mirren,1,2023-02-25
+Liga MX,Mexico,Necaxa,1,Querétaro,1,2023-02-25
+Liga MX,Mexico,Mazatlán,1,Pumas,2,2023-02-25
+First Division A,Belgium,Seraing,0,Mechelen,2,2023-02-25
+First Division A,Belgium,Eupen,2,Cercle Brugge,2,2023-02-25
+First Division A,Belgium,Genk,3,Oostende,0,2023-02-25
+First Division A,Belgium,Westerlo,4,R. Union SG,2,2023-02-25
+Liga Profesional Argentina,Argentina,Belgrano,0,Tigre,2,2023-02-25
+Liga Profesional Argentina,Argentina,R. Central,1,Godoy Cruz,0,2023-02-25
+Liga Profesional Argentina,Argentina,San Lorenzo,1,Unión,0,2023-02-25
+Primeira Liga,Portugal,Arouca,2,Casa Pia,0,2023-02-25
+Primeira Liga,Portugal,Marítimo,3,Santa Clara,1,2023-02-25
+Primeira Liga,Portugal,Vizela,0,Benfica,2,2023-02-25
+J1 League,Japan,F Marinos,2,Urawa,0,2023-02-25
+J1 League,Japan,Avispa,2,Cerezo,1,2023-02-25
+J1 League,Japan,Consadole,1,Vissel Kobe,3,2023-02-25
+J1 League,Japan,Gamba,1,Sagan,1,2023-02-25
+J1 League,Japan,Kashima,1,Kawasaki,2,2023-02-25
+J1 League,Japan,Nagoya,1,Kyoto,0,2023-02-25
+Primera A,Colombia,Águilas D,1,Bucaramanga,0,2023-02-25
+Primera División,Uruguay,River Plate,3,Cerro,2,2023-02-25
+Primera División,Uruguay,Fénix,0,Cerro Largo,0,2023-02-25
+Primera División,Chile,Curicó Unido,1,U. de Chile,3,2023-02-25
+Bundesliga,Austria,Austria,3,Hartberg,0,2023-02-25
+Bundesliga,Austria,Sturm,1,Aus Klagenfurt,2,2023-02-25
+2. Bundesliga,Germany,Holstein,1,Paderborn,1,2023-02-25
+2. Bundesliga,Germany,Kaiserslautern,3,Greuther Fürth,1,2023-02-25
+2. Bundesliga,Germany,Nürnberg,1,Sandhausen,0,2023-02-25
+2. Bundesliga,Germany,Darmstadt 98,1,Hamburg,1,2023-02-25
+Ekstraklasa,Poland,Piast,2,Cracovia,1,2023-02-25
+Ekstraklasa,Poland,Warta Poznań,5,Kielce,1,2023-02-25
+Ekstraklasa,Poland,Lechia,1,Radomiak,3,2023-02-25
+Super League,Switzerland,Sion,0,St.Gallen,4,2023-02-25
+Super League,Switzerland,Zürich,2,Young Boys,2,2023-02-25
+Super League 1,Greece,AEK,2,Asteras,0,2023-02-25
+Super League 1,Greece,Giannina,0,PAOK,0,2023-02-25
+Super League 1,Greece,Olympiakos,0,Panathinaikos,0,2023-02-25
+League One,England,Oxford,0,Bristol Rovers,3,2023-02-25
+League One,England,Barnsley,4,Derby,1,2023-02-25
+League One,England,Bolton,2,Port Vale,1,2023-02-25
+League One,England,Burton Albion,0,Accrington,0,2023-02-25
+League One,England,Charlton,0,Sheff Wed,1,2023-02-25
+League One,England,Exeter,2,Cambridge Utd,0,2023-02-25
+League One,England,Fleetwood,1,Morecambe,0,2023-02-25
+League One,England,Forest Green,1,Lincoln,1,2023-02-25
+League One,England,MK Dons,0,Ipswich,1,2023-02-25
+League One,England,Peterborough,5,Plymouth,2,2023-02-25
+League One,England,Portsmouth,4,Cheltenham,0,2023-02-25
+League One,England,Shrewsbury,2,Wycombe,0,2023-02-25
+League Two,England,Barrow,1,Stockport,0,2023-02-25
+League Two,England,Colchester,0,Northampton,1,2023-02-25
+League Two,England,Crawley,2,Carlisle,5,2023-02-25
+League Two,England,Crewe,1,Rochdale,1,2023-02-25
+League Two,England,Doncaster,0,Bradford,1,2023-02-25
+League Two,England,Gillingham,2,Wimbledon,1,2023-02-25
+League Two,England,Grimsby,2,L Orient,2,2023-02-25
+League Two,England,Hartlepool,3,Walsall,3,2023-02-25
+League Two,England,Mansfield Town,2,Salford,5,2023-02-25
+League Two,England,Newport,0,Sutton Utd,2,2023-02-25
+League Two,England,Stevenage,0,Tranmere,1,2023-02-25
+League Two,England,Swindon,3,Harrogate,0,2023-02-25
+National League,England,Altrincham,4,Solihull,1,2023-02-25
+National League,England,Barnet,4,Aldershot,1,2023-02-25
+National League,England,Boreham Wood,2,Scunthorpe,0,2023-02-25
+National League,England,Chesterfield,0,Oldham,1,2023-02-25
+National League,England,Eastleigh,0,Bromley,0,2023-02-25
+National League,England,Halifax,0,Maidenhead Utd,1,2023-02-25
+National League,England,Maidstone Utd,1,Gateshead,1,2023-02-25
+National League,England,Torquay,1,Southend,2,2023-02-25
+National League,England,Woking,1,Wealdstone,1,2023-02-25
+National League,England,Wrexham,3,Dorking W,1,2023-02-25
+National League,England,York,2,Yeovil,1,2023-02-25
+National League,England,Notts,1,Dag & Red,2,2023-02-25
+Serie B,Italy,Brescia,0,Bari,2,2023-02-25
+Serie B,Italy,Como,5,Cosenza,1,2023-02-25
+Serie B,Italy,Reggina,2,Modena,1,2023-02-25
+Serie B,Italy,Südtirol,1,Palermo,1,2023-02-25
+Serie B,Italy,Ternana,1,Cittadella,2,2023-02-25
+Serie B,Italy,Venezia,0,Cagliari,0,2023-02-25
+Serie B,Italy,Genoa,3,SPAL,0,2023-02-25
+Ligue 2,France,Grenoble,0,Le Havre,0,2023-02-25
+Ligue 2,France,Guingamp,1,Caen,2,2023-02-25
+Ligue 2,France,Laval,0,QRM,1,2023-02-25
+Ligue 2,France,Metz,2,Nîmes,0,2023-02-25
+Ligue 2,France,Paris,3,Niort,0,2023-02-25
+Ligue 2,France,Rodez,0,Bastia,2,2023-02-25
+Ligue 2,France,Saint-Étienne,2,Pau,0,2023-02-25
+Ligue 2,France,Sochaux,5,Annecy,1,2023-02-25
+Ligue 2,France,Valenciennes,2,Dijon,2,2023-02-25
+Super League,Malaysia,Kelantan,1,Kuching FA,2,2023-02-25
+Super League,Malaysia,Sabah,4,PDRM,0,2023-02-25
+Super League,Malaysia,Kuala Lumpur,2,Pulau Pinang,2,2023-02-25
+Super League,Malaysia,Perak,1,Kedah,4,2023-02-25
+Championship,Scotland,Arbroath,0,Partick,0,2023-02-25
+Championship,Scotland,Dundee,1,Inverness,1,2023-02-25
+Championship,Scotland,Hamilton,1,Queen's Park,4,2023-02-25
+Championship,Scotland,Morton,2,Cove Rangers,1,2023-02-25
+League One,Scotland,Airdrieonians,1,Falkirk,3,2023-02-25
+League One,Scotland,Alloa Athletic,1,Montrose,0,2023-02-25
+League One,Scotland,Edinburgh City,3,Clyde,0,2023-02-25
+League One,Scotland,Peterhead,1,Kelty Hearts,1,2023-02-25
+League One,Scotland,Queen South,0,Dunfermline,2,2023-02-25
+League Two,Scotland,Albion,0,Annan,2,2023-02-25
+League Two,Scotland,Bonnyrigg RA,0,Stenhousemuir,1,2023-02-25
+League Two,Scotland,Dumbarton,1,Elgin,2,2023-02-25
+League Two,Scotland,Forfar,0,Stirling,0,2023-02-25
+League Two,Scotland,Stranraer,2,East Fife,0,2023-02-25
+Club Friendlies,World,Sivasspor,3,Sivas BS,0,2023-02-25
+Club Friendlies,World,Kasımpaşa,1,Fatih,3,2023-02-25
+Club Friendlies,World,Göztepe,0,Başakşehir,0,2023-02-25
+CAF Champions League,Africa,Vita,1,Kabylie,0,2023-02-25
+CAF Champions League,Africa,Tunis,2,Zamalek,0,2023-02-25
+CAF Champions League,Africa,Vipers,0,Simba,1,2023-02-25
+CAF Champions League,Africa,Ahly,2,Mamelodi,2,2023-02-25
+CAF Champions League,Africa,Raja,2,Horoya,0,2023-02-25
+Africa U20 Cup of Nations,Africa,Egypt,0,Senegal,4,2023-02-25
+Africa U20 Cup of Nations,Africa,Mozambique,0,Nigeria,2,2023-02-25
+Superliga,Albania,Tirana,0,Teuta,2,2023-02-25
+Superliga,Albania,Vllaznia,0,Kastrioti,1,2023-02-25
+Ligue 1,Algeria,Khenchela,0,Bayadh,1,2023-02-25
+Ligue 1,Algeria,MC Alger,2,RC Arbaâ,0,2023-02-25
+Ligue 1,Algeria,ES Sétif,2,NC Magra,0,2023-02-25
+Ligue 1,Algeria,Saoura,1,US Biskra,1,2023-02-25
+Primera Nacional,Argentina,Villa Dálmine,3,Tristán Suárez,1,2023-02-25
+Primera Nacional,Argentina,Est Caseros,1,Riestra,0,2023-02-25
+Primera Nacional,Argentina,Almagro,1,Estudiantes RC,0,2023-02-25
+Primera Nacional,Argentina,Flandria,1,Patronato,1,2023-02-25
+Primera Nacional,Argentina,Brown Adrogué,1,Ferro,1,2023-02-25
+Primera Nacional,Argentina,Dep Madryn,0,Atlanta,1,2023-02-25
+Primera Nacional,Argentina,Quilmes,2,Gimn Jujuy,1,2023-02-25
+Prim B Metro,Argentina,Acassuso,0,Villa SC,0,2023-02-25
+Prim B Metro,Argentina,Cañuelas,0,Armenio,3,2023-02-25
+Prim B Metro,Argentina,Comunicaciones,1,Merlo,1,2023-02-25
+Prim B Metro,Argentina,Dock Sud,1,A Quilmes,0,2023-02-25
+Queensland NPL,Australia,Moreton Bay,2,Olympic,1,2023-02-25
+Queensland NPL,Australia,Peninsula,1,SC Wanderers,2,2023-02-25
+Queensland NPL,Australia,Lions,1,Redlands Utd,1,2023-02-25
+Queensland NPL,Australia,Rochedale,0,Eastern Sub,1,2023-02-25
+Queensland NPL,Australia,Roar,0,Brisbane City,1,2023-02-25
+Queensland NPL Women,Australia,Lions,2,Peninsula,1,2023-02-25
+Queensland NPL Women,Australia,Mitchelton,2,Capalaba,1,2023-02-25
+Victoria NPL,Australia,Moreland City,2,Bentleigh,1,2023-02-25
+Victoria NPL,Australia,Avondale,3,Altona Magic,0,2023-02-25
+Victoria NPL,Australia,North Geelong,0,Port Melbourne,2,2023-02-25
+Victoria NPL,Australia,Dandenong,4,St. Albans,4,2023-02-25
+New South Wales NPL,Australia,Bulls,1,Wolves,1,2023-02-25
+New South Wales NPL,Australia,Mariners,0,Blacktown City,1,2023-02-25
+New South Wales NPL,Australia,Leichhardt,2,Mt Druitt Town,0,2023-02-25
+New South Wales NPL,Australia,Sutherland,1,NWS Spirit,0,2023-02-25
+New South Wales NPL,Australia,Manly Utd,2,Sydney,1,2023-02-25
+New South Wales NPL,Australia,Stallions,2,St George City,3,2023-02-25
+A-League Women,Australia,Canberra,3,Wanderers,0,2023-02-25
+A-League Women,Australia,Perth Glory,2,Roar,0,2023-02-25
+2. Liga,Austria,Amstetten,3,Dornbirn,3,2023-02-25
+2. Liga,Austria,Kapfenberg,4,Austria II,2,2023-02-25
+Jugendliga U18,Austria,RB Akademie,3,WAC,1,2023-02-25
+Premier League,Bangladesh,Bangladesh Pol,1,Abahani Chitta,1,2023-02-25
+Premier League,Bangladesh,Muktijoddha,1,Russel,0,2023-02-25
+Super Cup,Belarus,Gomel,0,Shakhtyor,1,2023-02-25
+Challenger Pro League,Belgium,Deinze,1,Genk II,3,2023-02-25
+Challenger Pro League,Belgium,Club Brugge II,3,SK Beveren,0,2023-02-25
+Primera División,Bolivia,Real Tomayapo,0,Royal Pari,2,2023-02-25
+Primera División,Bolivia,Santa Cruz,0,Guabirá,0,2023-02-25
+Paulista A1,Brazil,Água Santa,1,Botafogo SP,0,2023-02-25
+Paulista A1,Brazil,Inter Limeira,0,Guarani,5,2023-02-25
+Paulista A1,Brazil,RB Bragantino,5,Ituano,1,2023-02-25
+Carioca Série A,Brazil,Nova Iguaçu,1,Resende,0,2023-02-25
+Carioca Série A,Brazil,Fluminense,3,Portuguesa,0,2023-02-25
+Gaúcho 1,Brazil,Brasil Pelotas,1,Avenida,1,2023-02-25
+Gaúcho 1,Brazil,Grêmio,6,Novo Hamburgo,1,2023-02-25
+Gaúcho 1,Brazil,Aimoré,0,Internacional,2,2023-02-25
+Mineiro 1,Brazil,Democrata SL,1,Athletic,2,2023-02-25
+Mineiro 1,Brazil,Atl. Mineiro,1,América MG,1,2023-02-25
+Catarinense 1,Brazil,Criciúma,1,Figueirense,0,2023-02-25
+Cearense 1,Brazil,Maracanã,1,Ferroviário,3,2023-02-25
+Cearense 1,Brazil,Pacajus,1,Caucaia,1,2023-02-25
+Goiano 1,Brazil,Iporá,0,Atlético GO,1,2023-02-25
+Goiano 1,Brazil,Goiânia,3,Goiás,8,2023-02-25
+Pernambucano 1,Brazil,Retrô,1,Santa Cruz,1,2023-02-25
+Sergipano 1,Brazil,Lagarto,4,Frei Paulista,0,2023-02-25
+Maranhense 1,Brazil,Cordino,1,Chapadinha,1,2023-02-25
+Maranhense 1,Brazil,IAPE,0,Moto Club MA,3,2023-02-25
+Maranhense 1,Brazil,Pinheiro,10,São José MA,2,2023-02-25
+Maranhense 1,Brazil,Sampaio Corrêa,2,Maranhão,2,2023-02-25
+Paraibano 1,Brazil,Botafogo,1,SP Crystal,1,2023-02-25
+Piauiense,Brazil,Corí-Sabbá,1,Fluminense PI,2,2023-02-25
+Paulista A2,Brazil,Lemense,0,Ponte Preta,2,2023-02-25
+Paulista A2,Brazil,Juventus,1,Portuguesa,1,2023-02-25
+Paulista A2,Brazil,Rio Claro,3,São Caetano,1,2023-02-25
+Paulista A2,Brazil,Comercial,2,Velo,1,2023-02-25
+Paulista A2,Brazil,Oeste,0,Taubaté,0,2023-02-25
+Paulista A2,Brazil,XV Piracicaba,1,Monte Azul,0,2023-02-25
+Paulista A3,Brazil,Bandeirante,0,Matonense,1,2023-02-25
+Paulista A3,Brazil,Barretos,0,Desp. Brasil,2,2023-02-25
+Paulista A3,Brazil,Rio Preto,3,RB Brasil,1,2023-02-25
+Paulista A3,Brazil,São Bernardo,0,Capivariano,3,2023-02-25
+First League,Bulgaria,CSKA 1948,1,Arda,0,2023-02-25
+First League,Bulgaria,Spartak Varna,2,Botev Vratsa,1,2023-02-25
+First League,Bulgaria,Loko Plovdiv,1,Lokomotiv Sf,0,2023-02-25
+Primera B,Colombia,Tigres,3,Cortuluá,0,2023-02-25
+Primera B,Colombia,Quindío,1,Fortaleza,0,2023-02-25
+Liga Femenina,Colombia,Pereira,2,Tolima,1,2023-02-25
+Liga Femenina,Colombia,Dep. Cali,1,Millonarios,1,2023-02-25
+HNL,Croatia,Gorica,1,Lokomotiva,0,2023-02-25
+HNL,Croatia,Rijeka,0,Slaven,1,2023-02-25
+1. Division,Cyprus,Anorthosis,1,AEL,1,2023-02-25
+1. Division,Cyprus,Omonia,0,APOEL,2,2023-02-25
+Czech Liga,Czech Republic,Bohemians 1905,1,Zbrojovka,1,2023-02-25
+Czech Liga,Czech Republic,Mladá Boleslav,2,Dynamo CB,2,2023-02-25
+Czech Liga,Czech Republic,Zlín,2,Sparta,3,2023-02-25
+Czech Liga,Czech Republic,Viktoria Plzeň,2,Slovan,1,2023-02-25
+1. Division,Denmark,Hillerød,1,Hvidovre,1,2023-02-25
+1. Division,Denmark,Vendsyssel,3,Næstved,0,2023-02-25
+1. Division,Denmark,Nykøbing,3,Helsingør,0,2023-02-25
+Liga Pro,Ecuador,Dep. Cuenca,2,LDU Quito,0,2023-02-25
+Liga Pro,Ecuador,Ind. del Valle,3,Mushuc Runa,1,2023-02-25
+Premier League 2,England,Liverpool,7,Leicester,1,2023-02-25
+Premier League 2,England,Man City,5,Everton,0,2023-02-25
+U18 Premier League,England,Brighton,2,Norwich,1,2023-02-25
+U18 Premier League,England,Leicester,1,Aston Villa,3,2023-02-25
+U18 Premier League,England,Spurs,1,West Ham,3,2023-02-25
+U18 Premier League,England,WBA,0,Southampton,1,2023-02-25
+U18 Premier League,England,Man City,4,Liverpool,1,2023-02-25
+U18 Premier League,England,Everton,2,Nottm Forest,2,2023-02-25
+U18 Premier League,England,Man Utd,5,Derby,2,2023-02-25
+U18 Premier League,England,Newcastle,0,Blackburn,1,2023-02-25
+U18 Premier League,England,Stoke City,3,Middlesbrough,0,2023-02-25
+U18 Premier League,England,Sunderland,0,Wolves,1,2023-02-25
+League Cup,Finland,Lahti,5,KTP,1,2023-02-25
+League Cup,Finland,Ilves,1,SJK,2,2023-02-25
+League Cup,Finland,KuPS,1,VPS,1,2023-02-25
+Feminine Division 1,France,Fleury 91,6,Rodez,0,2023-02-25
+Feminine Division 1,France,Le Havre,2,Soyaux,0,2023-02-25
+Feminine Division 1,France,Montpellier,0,Guingamp,1,2023-02-25
+Feminine Division 1,France,Stade Reims,0,Paris,3,2023-02-25
+3. Liga,Germany,Bayreuth,5,Zwickau,3,2023-02-25
+3. Liga,Germany,Dortmund II,4,Waldhof,0,2023-02-25
+3. Liga,Germany,Duisburg,0,Meppen,0,2023-02-25
+3. Liga,Germany,Ingolstadt,1,RW Essen,1,2023-02-25
+3. Liga,Germany,Osnabrück,4,Wiesbaden,1,2023-02-25
+3. Liga,Germany,Verl,2,VfB Oldenburg,1,2023-02-25
+Regionalliga,Germany,Cottbus,2,BAK,1,2023-02-25
+Regionalliga,Germany,Greifswald,2,Hertha II,1,2023-02-25
+Regionalliga,Germany,Aubstadt,0,Vilzing,1,2023-02-25
+Regionalliga,Germany,Augsburg II,1,Illertissen,2,2023-02-25
+Regionalliga,Germany,Burghausen,3,Schweinfurt,0,2023-02-25
+Regionalliga,Germany,Fürth II,3,Aschaffenburg,0,2023-02-25
+Regionalliga,Germany,Hankofen,2,Ansbach,0,2023-02-25
+Regionalliga,Germany,Rain / Lech,0,Pipinsried,0,2023-02-25
+Regionalliga,Germany,Havelse,2,Holstein II,0,2023-02-25
+Regionalliga,Germany,Kickers Emden,1,Drochtersen,4,2023-02-25
+Regionalliga,Germany,Erfurt,1,Chemnitz,0,2023-02-25
+Regionalliga,Germany,Homburg,0,Hoffenheim II,0,2023-02-25
+Regionalliga,Germany,Bocholt,0,Wiedenbrück,0,2023-02-25
+Regionalliga,Germany,Alemannia,3,Wattenscheid,0,2023-02-25
+Regionalliga,Germany,Kaan,0,Fortuna Köln,0,2023-02-25
+Regionalliga,Germany,Köln II,1,Münster,2,2023-02-25
+Regionalliga,Germany,Rödinghausen,1,Düren,1,2023-02-25
+Regionalliga,Germany,Straelen,2,Wuppertal,2,2023-02-25
+Regionalliga,Germany,Jeddeloh,3,Hildesheim,1,2023-02-25
+U19 Bundesliga,Germany,Bayern,2,Augsburg,0,2023-02-25
+U17 Bundesliga,Germany,Hoffenheim,3,Bayern München,1,2023-02-25
+U17 Bundesliga,Germany,Magdeburg,1,RB Leipzig,1,2023-02-25
+Frauen Bundesliga,Germany,Turbine,0,Bayern,3,2023-02-25
+Liga Nacional,Guatemala,Santa Lucía,1,Achuapa,0,2023-02-25
+Premier League,Hong Kong,Wofoo,0,Lee Man,3,2023-02-25
+Premier League,Hong Kong,Eastern,0,Southern,1,2023-02-25
+NB I,Hungary,ZTE,2,Fehérvár,1,2023-02-25
+NB I,Hungary,Puskás,1,Paks,4,2023-02-25
+NB I,Hungary,Vasas,2,Kisvárda,2,2023-02-25
+Indian Super League,India,East Bengal,0,Mohun Bagan,2,2023-02-25
+I-League,India,Gokulam Kerala,3,Aizawl,0,2023-02-25
+Liga 1,Indonesia,PSIS,1,Persita,1,2023-02-25
+Liga 1,Indonesia,Borneo,1,Bhayangkara,3,2023-02-25
+Ligat Ha'al,Israel,Hapoel TA,1,Ashdod,2,2023-02-25
+Ligat Ha'al,Israel,Sektzia,0,Maccabi TA,2,2023-02-25
+Ligat Ha'al,Israel,Sakhnin,1,Kiryat Shmona,3,2023-02-25
+Ligat Ha'al,Israel,M Netanya,1,Hapoel Hadera,0,2023-02-25
+Ligat Ha'al,Israel,M Haifa,2,Beitar,1,2023-02-25
+Serie C,Italy,Triestina,1,Juventus II,0,2023-02-25
+Serie C,Italy,Siena,1,Recanatese,1,2023-02-25
+Serie C,Italy,Avellino,0,V. Francavilla,1,2023-02-25
+Serie C,Italy,Crotone,0,Turris,0,2023-02-25
+Serie C,Italy,Gelbison,1,Giugliano,1,2023-02-25
+Serie C,Italy,Juve Stabia,1,Catanzaro,4,2023-02-25
+Serie C,Italy,Latina,0,Messina,2,2023-02-25
+Serie C,Italy,Viterbese,1,Picerno,1,2023-02-25
+Serie C,Italy,Vicenza,1,Sangiuliano,3,2023-02-25
+Serie C,Italy,Audace Cerig.,1,Pescara,0,2023-02-25
+Serie C,Italy,Fidelis Andria,0,Foggia,1,2023-02-25
+Serie C,Italy,Monopoli,3,Monterosi,2,2023-02-25
+Serie C,Italy,Potenza,1,Taranto,0,2023-02-25
+Serie A Women,Italy,Internazionale,3,Fiorentina,1,2023-02-25
+Serie A Women,Italy,Pomigliano,0,Sassuolo,2,2023-02-25
+J2 League,Japan,Ventforet,1,Tokushima,1,2023-02-25
+J2 League,Japan,Fujieda,2,V-Varen,0,2023-02-25
+J2 League,Japan,JEF Utd,1,Montedio,3,2023-02-25
+J2 League,Japan,Omiya,2,Zweigen,0,2023-02-25
+K League 1,Korea Republic,Ulsan,2,Jeonbuk Motors,1,2023-02-25
+K League 1,Korea Republic,Seoul,2,Incheon Utd,1,2023-02-25
+K League 1,Korea Republic,Suwon,0,Gwangju,1,2023-02-25
+Liga de Expansión MX,Mexico,Alebrijes,4,Correcaminos,0,2023-02-25
+Concacaf U17,N/C America,Mexico,5,Panama,0,2023-02-25
+Concacaf U17,N/C America,Canada,0,USA,2,2023-02-25
+Tweede Divisie,Netherlands,HHC,3,Treffers,1,2023-02-25
+Tweede Divisie,Netherlands,Lisse,0,Noordwijk,0,2023-02-25
+Tweede Divisie,Netherlands,Kozakken Boys,0,Scheveningen,0,2023-02-25
+Tweede Divisie,Netherlands,Rijnsburg,4,IJsselmeervoge,1,2023-02-25
+Tweede Divisie,Netherlands,Spakenburg,3,Volendam II,1,2023-02-25
+Tweede Divisie,Netherlands,Sparta II,1,Quick Boys,0,2023-02-25
+Tweede Divisie,Netherlands,HFC,4,OFC,0,2023-02-25
+Tweede Divisie,Netherlands,Katwijk,3,AFC,1,2023-02-25
+Tweede Divisie,Netherlands,TEC,2,Maassluis,1,2023-02-25
+KNVB Beker Women,Netherlands,Saestum,0,Excelsior,0,2023-02-25
+KNVB Beker Women,Netherlands,DSS,1,Alkmaar,1,2023-02-25
+KNVB Beker Women,Netherlands,Telstar,2,PSV,4,2023-02-25
+KNVB Beker Women,Netherlands,De Tukkers,0,Heerenveen,8,2023-02-25
+Premiership,Northern Ireland,Ballymena Utd,0,Crusaders,0,2023-02-25
+Premiership,Northern Ireland,Carrick,2,Larne,3,2023-02-25
+Premiership,Northern Ireland,Cliftonville,2,Glentoran,1,2023-02-25
+Premiership,Northern Ireland,Glenavon,0,Newry City,2,2023-02-25
+Premiership,Northern Ireland,Linfield,2,Coleraine,0,2023-02-25
+Division Profesional,Paraguay,Sportivo Amel.,0,Nacional,0,2023-02-25
+Division Profesional,Paraguay,Cerro Porteño,1,Resistencia,1,2023-02-25
+Primera División,Peru,Alianza Atl.,4,Sport Huancayo,2,2023-02-25
+Primera División,Peru,Deportivo G.,2,Grau,0,2023-02-25
+I Liga,Poland,Podbeskidzie,1,Tychy,0,2023-02-25
+I Liga,Poland,Z Sosnowiec,2,GKS Katowice,1,2023-02-25
+I Liga,Poland,ŁKS Łódź,5,Chrobry,2,2023-02-25
+Segunda Liga,Portugal,Torreense,1,Viseu,2,2023-02-25
+Segunda Liga,Portugal,Leixões,1,Benfica II,1,2023-02-25
+Segunda Liga,Portugal,UD Oliveirense,2,Moreirense,2,2023-02-25
+Stars League,Qatar,Sadd,2,Qatar,0,2023-02-25
+Stars League,Qatar,Umm Salal,1,Markhiya,2,2023-02-25
+Stars League,Qatar,Shamal,0,Wakrah,0,2023-02-25
+Liga I,Romania,Sepsi,2,Hermannstadt,1,2023-02-25
+Liga I,Romania,U Cluj,2,Botoșani,0,2023-02-25
+Liga I,Romania,Rapid,2,Chindia,0,2023-02-25
+Saudi League,Saudi Arabia,Al Batin,1,Ittifaq,0,2023-02-25
+Saudi League,Saudi Arabia,Damak,0,Nassr,3,2023-02-25
+Highland / Lowland,Scotland,Buckie Thistle,5,Clachnacuddin,0,2023-02-25
+Highland / Lowland,Scotland,Keith,0,Lossiemouth,2,2023-02-25
+Highland / Lowland,Scotland,Brora Rangers,2,Strathspey,0,2023-02-25
+Highland / Lowland,Scotland,Deveronvale,1,Banks O' Dee,4,2023-02-25
+Highland / Lowland,Scotland,Formartine Utd,2,Rothes,1,2023-02-25
+Highland / Lowland,Scotland,Fraserburgh,2,Turriff Udt,3,2023-02-25
+Highland / Lowland,Scotland,Huntly,0,Brechin,1,2023-02-25
+Highland / Lowland,Scotland,Inverurie,2,Nairn,1,2023-02-25
+Highland / Lowland,Scotland,Wick,1,Forres,1,2023-02-25
+Highland / Lowland,Scotland,Berwick,3,Rangers,0,2023-02-25
+Highland / Lowland,Scotland,Cumbernauld C.,1,Cowdenbeath,0,2023-02-25
+Highland / Lowland,Scotland,East Kilbride,2,Stirling Unv,2,2023-02-25
+Highland / Lowland,Scotland,Edinburgh U,0,Braves,1,2023-02-25
+Highland / Lowland,Scotland,Fairydean,2,Bo'ness Utd,3,2023-02-25
+Highland / Lowland,Scotland,Gretna,0,Strollers,4,2023-02-25
+Highland / Lowland,Scotland,Spartans,3,East Stirling,1,2023-02-25
+Highland / Lowland,Scotland,Tranent,4,Dalbeattie,1,2023-02-25
+Super Liga,Serbia,Javor,0,Crvena Zvezda,2,2023-02-25
+Super Liga,Serbia,TSC,2,Spartak,2,2023-02-25
+Super Liga,Serbia,Novi Pazar,1,Mladost NS,0,2023-02-25
+Premier League,Singapore,Albirex,3,Young Lions,0,2023-02-25
+Premier League,Singapore,Tampines,1,Geylang,1,2023-02-25
+Super Liga,Slovakia,Banská Bystric,2,L. Mikuláš,0,2023-02-25
+Super Liga,Slovakia,DAC 1904,2,Skalica,1,2023-02-25
+Super Liga,Slovakia,Spartak,3,Trenčín,2,2023-02-25
+Super Liga,Slovakia,Zlaté Moravce,1,Slovan,1,2023-02-25
+1. SNL,Slovenia,Bravo,0,Mura,0,2023-02-25
+1. SNL,Slovenia,Radomlje,0,Tabor,0,2023-02-25
+1. SNL,Slovenia,Koper,0,Olimpija,1,2023-02-25
+PSL,South Africa,Kaizer Chiefs,1,Pirates,0,2023-02-25
+PSL,South Africa,Richards Bay,1,Stellenbosch,2,2023-02-25
+PSL,South Africa,Sekhukhune Utd,0,Cape Town City,1,2023-02-25
+PSL,South Africa,AmaZulu,1,Royal AM,1,2023-02-25
+Segunda División,Spain,Alavés,0,Cartagena,0,2023-02-25
+Segunda División,Spain,Santander,2,FC Andorra,1,2023-02-25
+Segunda División,Spain,Gijón,1,Tenerife,0,2023-02-25
+Segunda División,Spain,Mirandés,0,Leganés,0,2023-02-25
+Svenska Cupen,Sweden,Norrby,0,Hammarby,3,2023-02-25
+Svenska Cupen,Sweden,Sundsvall,0,Brage,2,2023-02-25
+Svenska Cupen,Sweden,Trollhättan,1,Häcken,6,2023-02-25
+Svenska Cupen,Sweden,Oskarshamn,1,Mjällby,2,2023-02-25
+Svenska Cupen,Sweden,Sirius,4,Dalkurd,0,2023-02-25
+Svenska Cupen,Sweden,Halmstad,3,Jönköpings S,1,2023-02-25
+Thai League 1,Thailand,Sukhothai,3,Chiangrai Utd,0,2023-02-25
+Thai League 1,Thailand,Lamphun,2,Police Tero,2,2023-02-25
+Thai League 1,Thailand,Muang Thong,1,BGPU,0,2023-02-25
+Thai League 1,Thailand,Lampang,1,Ratchaburi,0,2023-02-25
+Thai League 2,Thailand,Suphanburi,2,Udon Thani,0,2023-02-25
+Thai League 2,Thailand,Phrae,2,Uthai Thani,2,2023-02-25
+Thai League 2,Thailand,Raj Pracha,0,Chainat,1,2023-02-25
+Thai League 2,Thailand,Nakhon Si Utd,0,Samut Prakan,2,2023-02-25
+Thai League 2,Thailand,Rayong,0,Krabi,0,2023-02-25
+Super Cup,United Arab Emirates,Al Ain,0,Sharjah,1,2023-02-25
+Primera División,Venezuela,Colmenárez,0,Dep. La Guaira,0,2023-02-25
+Primera División,Venezuela,Monagas,1,Angostura,0,2023-02-25
+Premier League,Wales,TNS,1,Penybont,1,2023-02-25
+Premier League,Wales,Connah's Quay,2,Cardiff MU,1,2023-02-25
+Premier League,Wales,Newtown,3,Bala,2,2023-02-25
+Premier League,Wales,Pontypridd,2,Haverfordwest,1,2023-02-25

@@ -1,0 +1,402 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date
+Premier League,England,Tottenham,1,Wolves,0,2022-08-20
+Premier League,England,Crystal Palace,3,Aston Villa,1,2022-08-20
+Premier League,England,Everton,1,Nottm Forest,1,2022-08-20
+Premier League,England,Fulham,3,Brentford,2,2022-08-20
+Premier League,England,Leicester,1,Southampton,2,2022-08-20
+Premier League,England,Bournemouth,0,Arsenal,3,2022-08-20
+La Liga,Spain,Osasuna,2,Cádiz,0,2022-08-20
+La Liga,Spain,Mallorca,1,Betis,2,2022-08-20
+La Liga,Spain,Celta Vigo,1,Real Madrid,4,2022-08-20
+Serie A,Italy,Torino,0,Lazio,0,2022-08-20
+Serie A,Italy,Udinese,0,Salernitana,0,2022-08-20
+Serie A,Italy,Inter,3,Spezia,0,2022-08-20
+Serie A,Italy,Sassuolo,1,Lecce,0,2022-08-20
+Bundesliga,Germany,Augsburg,1,Mainz 05,2,2022-08-20
+Bundesliga,Germany,Dortmund,2,Bremen,3,2022-08-20
+Bundesliga,Germany,Leverkusen,0,Hoffenheim,3,2022-08-20
+Bundesliga,Germany,Stuttgart,0,Freiburg,1,2022-08-20
+Bundesliga,Germany,Wolfsburg,0,Schalke 04,0,2022-08-20
+Bundesliga,Germany,Union Berlin,2,Leipzig,1,2022-08-20
+Ligue 1,France,Monaco,1,Lens,4,2022-08-20
+Ligue 1,France,Marseille,2,Nantes,1,2022-08-20
+Championship,England,Birmingham,0,Wigan,1,2022-08-20
+Championship,England,Burnley,3,Blackpool,3,2022-08-20
+Championship,England,Preston,0,Watford,0,2022-08-20
+Championship,England,QPR,1,Rotherham,1,2022-08-20
+Championship,England,Reading,1,Middlesbrough,0,2022-08-20
+Championship,England,Sheff Utd,3,Blackburn,0,2022-08-20
+Championship,England,Stoke,0,Sunderland,1,2022-08-20
+Championship,England,Swansea,0,Luton,2,2022-08-20
+Championship,England,West Bromwich,5,Hull,2,2022-08-20
+MLS,USA,Galaxy,3,Sounders,3,2022-08-20
+Eredivisie,Netherlands,Vitesse,0,Heerenveen,4,2022-08-20
+Eredivisie,Netherlands,Fortuna,1,Cambuur,4,2022-08-20
+Eredivisie,Netherlands,Emmen,3,Utrecht,2,2022-08-20
+Süper Lig,Turkey,Giresun,1,Kasımpaşa,0,2022-08-20
+Süper Lig,Turkey,Hatay,1,Gaziantep,2,2022-08-20
+Süper Lig,Turkey,Antalyaspor,5,Trabzonspor,2,2022-08-20
+Premiership,Scotland,Hibernian,2,Rangers,2,2022-08-20
+Premiership,Scotland,Dundee Utd,0,St. Mirren,3,2022-08-20
+Premiership,Scotland,Motherwell,1,Livingston,0,2022-08-20
+Premiership,Scotland,Ross County,1,Kilmarnock,0,2022-08-20
+Premiership,Scotland,St. Johnstone,0,Aberdeen,1,2022-08-20
+Liga MX,Mexico,Necaxa,0,Chivas,4,2022-08-20
+First Division A,Belgium,Oostende,0,Sint-Truiden,1,2022-08-20
+First Division A,Belgium,Genk,2,Cercle Brugge,1,2022-08-20
+Serie A,Brazil,Atl. Mineiro,0,Goiás,1,2022-08-20
+Primeira Liga,Portugal,Santa Clara,1,Arouca,2,2022-08-20
+Primeira Liga,Portugal,Chaves,1,Vizela,1,2022-08-20
+Primeira Liga,Portugal,Porto,3,Sporting,0,2022-08-20
+J1 League,Japan,Consadole,1,Sagan,2,2022-08-20
+J1 League,Japan,Shimizu,1,Kashiwa,1,2022-08-20
+J1 League,Japan,Avispa,1,Kawasaki,4,2022-08-20
+J1 League,Japan,Sanfrecce,5,Gamba,2,2022-08-20
+Superliga,Denmark,Midtjylland,0,AGF,2,2022-08-20
+Primera A,Colombia,Envigado,2,Bucaramanga,1,2022-08-20
+Primera A,Colombia,Petrolera,4,Cali,4,2022-08-20
+Primera A,Colombia,Pereira,2,Cortuluá,1,2022-08-20
+Primera División,Uruguay,Cerrito,0,Cerro Largo,0,2022-08-20
+Primera División,Uruguay,Rentistas,0,Liverpool,2,2022-08-20
+Primera División,Uruguay,Fénix,1,River Plate,2,2022-08-20
+Bundesliga,Austria,Altach,1,A Lustenau,2,2022-08-20
+Bundesliga,Austria,Salzburg,2,Aus Klagenfurt,0,2022-08-20
+Bundesliga,Austria,Sturm,0,LASK,1,2022-08-20
+2. Bundesliga,Germany,Paderborn,7,Holstein,2,2022-08-20
+2. Bundesliga,Germany,Regensburg,0,Karlsruhe,6,2022-08-20
+2. Bundesliga,Germany,Sandhausen,1,Nürnberg,2,2022-08-20
+2. Bundesliga,Germany,Braunschweig,2,Düsseldorf,2,2022-08-20
+Ekstraklasa,Poland,Wisła Płock,2,Kielce,1,2022-08-20
+Ekstraklasa,Poland,Śląsk,1,Cracovia,1,2022-08-20
+Ekstraklasa,Poland,Warta Poznań,0,Widzew,1,2022-08-20
+Eliteserien,Norway,Bodø/Glimt,2,HamKam,2,2022-08-20
+Eliteserien,Norway,Odd,1,Sarpsborg,0,2022-08-20
+Allsvenskan,Sweden,Varberg,2,Djurgården,2,2022-08-20
+Super League 1,Greece,Atromitos,3,OFI,1,2022-08-20
+Super League 1,Greece,Lamia,0,AEK,3,2022-08-20
+Super League 1,Greece,PAOK,1,Panaitolikos,0,2022-08-20
+League One,England,Barnsley,0,Wycombe,3,2022-08-20
+League One,England,Bolton,0,Sheff Wed,2,2022-08-20
+League One,England,Burton Albion,0,Port Vale,2,2022-08-20
+League One,England,Charlton,1,Cambridge Utd,1,2022-08-20
+League One,England,Exeter,0,Cheltenham,1,2022-08-20
+League One,England,Fleetwood,0,Derby,0,2022-08-20
+League One,England,Forest Green,0,Plymouth,3,2022-08-20
+League One,England,MK Dons,1,Accrington,1,2022-08-20
+League One,England,Oxford,1,Morecambe,1,2022-08-20
+League One,England,Peterborough,4,Lincoln,0,2022-08-20
+League One,England,Portsmouth,3,Bristol Rovers,1,2022-08-20
+League One,England,Shrewsbury,0,Ipswich,3,2022-08-20
+League Two,England,Hartlepool,1,Bradford,3,2022-08-20
+League Two,England,Barrow,1,Harrogate,0,2022-08-20
+League Two,England,Colchester,1,L Orient,3,2022-08-20
+League Two,England,Crawley,0,Wimbledon,2,2022-08-20
+League Two,England,Crewe,2,Northampton,2,2022-08-20
+League Two,England,Doncaster,2,Salford,1,2022-08-20
+League Two,England,Gillingham,0,Walsall,0,2022-08-20
+League Two,England,Grimsby,0,Sutton Utd,0,2022-08-20
+League Two,England,Mansfield Town,2,Stockport,1,2022-08-20
+League Two,England,Newport,2,Tranmere,1,2022-08-20
+League Two,England,Stevenage,2,Carlisle,1,2022-08-20
+League Two,England,Swindon,3,Rochdale,0,2022-08-20
+National League,England,Aldershot,0,Bromley,1,2022-08-20
+National League,England,Altrincham,2,Yeovil,2,2022-08-20
+National League,England,Barnet,2,Woking,0,2022-08-20
+National League,England,Dag & Red,1,Maidenhead Utd,0,2022-08-20
+National League,England,Dorking W,2,Gateshead,1,2022-08-20
+National League,England,Scunthorpe,3,Solihull,4,2022-08-20
+National League,England,Southend,1,Oldham,0,2022-08-20
+National League,England,Torquay,0,Boreham Wood,1,2022-08-20
+National League,England,Wealdstone,1,Halifax,0,2022-08-20
+National League,England,Wrexham,5,Maidstone Utd,0,2022-08-20
+National League,England,York,0,Eastleigh,1,2022-08-20
+National League,England,Notts,2,Chesterfield,2,2022-08-20
+Serie B,Italy,Ascoli,1,SPAL,1,2022-08-20
+Serie B,Italy,Genoa,0,Benevento,0,2022-08-20
+Serie B,Italy,Perugia,0,Parma,0,2022-08-20
+Ligue 2,France,Saint-Étienne,0,Le Havre,6,2022-08-20
+Ligue 2,France,Amiens,3,Bastia,1,2022-08-20
+Ligue 2,France,Caen,4,Guingamp,1,2022-08-20
+Ligue 2,France,Dijon,2,Nîmes,1,2022-08-20
+Ligue 2,France,Laval,3,Metz,3,2022-08-20
+Ligue 2,France,Niort,2,Paris,1,2022-08-20
+Ligue 2,France,Pau,0,Sochaux,3,2022-08-20
+Ligue 2,France,Rodez,2,Annecy,2,2022-08-20
+Ligue 2,France,Valenciennes,0,QRM,0,2022-08-20
+Championship,Scotland,Arbroath,1,Queen's Park,2,2022-08-20
+Championship,Scotland,Cove Rangers,1,Ayr Utd,2,2022-08-20
+Championship,Scotland,Hamilton,0,Raith Rovers,2,2022-08-20
+Championship,Scotland,Morton,0,Dundee,0,2022-08-20
+League One,Scotland,Airdrieonians,2,Alloa Athletic,0,2022-08-20
+League One,Scotland,Edinburgh City,0,Falkirk,3,2022-08-20
+League One,Scotland,Kelty Hearts,0,Dunfermline,0,2022-08-20
+League One,Scotland,Montrose,2,Clyde,1,2022-08-20
+League One,Scotland,Peterhead,1,Queen South,4,2022-08-20
+League Two,Scotland,Annan,1,Stirling,2,2022-08-20
+League Two,Scotland,Bonnyrigg RA,0,Albion,2,2022-08-20
+League Two,Scotland,East Fife,1,Forfar,0,2022-08-20
+League Two,Scotland,Elgin,2,Stranraer,2,2022-08-20
+League Two,Scotland,Stenhousemuir,1,Dumbarton,3,2022-08-20
+Superliga,Albania,Erzeni,1,Vllaznia,0,2022-08-20
+Superliga,Albania,Partizani,2,Egnatia,1,2022-08-20
+Primera Nacional,Argentina,Belgrano,1,Instituto,0,2022-08-20
+Primera Nacional,Argentina,Gim Mendoza,0,Defensores Bel,1,2022-08-20
+Primera Nacional,Argentina,Flandria,0,Independiente,1,2022-08-20
+Primera Nacional,Argentina,Riestra,1,Agropecuario,0,2022-08-20
+Primera Nacional,Argentina,Villa Dálmine,0,Sacachispas,0,2022-08-20
+Primera Nacional,Argentina,San Martín SJ,4,Guillermo Br,1,2022-08-20
+Torneo Federal A,Argentina,Estudiantes SL,0,Villa Mitre,1,2022-08-20
+Torneo Federal A,Argentina,De. Pro.,2,Paraná,0,2022-08-20
+Torneo Federal A,Argentina,Belgrano,3,Gim Concepción,1,2022-08-20
+Torneo Federal A,Argentina,Douglas Haig,1,Boca Unidos,1,2022-08-20
+Torneo Federal A,Argentina,Camioneros,1,Cipolletti,0,2022-08-20
+Torneo Federal A,Argentina,Circulo Dep.,2,Ferro Carril,1,2022-08-20
+Torneo Federal A,Argentina,Liniers BB,0,Juventud UU,0,2022-08-20
+Torneo Federal A,Argentina,Sol de Mayo,3,Las Heras,1,2022-08-20
+Torneo Federal A,Argentina,Def Belgrano,2,Juv Antoniana,3,2022-08-20
+Torneo Federal A,Argentina,S Resistencia,2,Juventud UG,1,2022-08-20
+Torneo Federal A,Argentina,SM Formosa,4,Las Parejas,2,2022-08-20
+Torneo Federal A,Argentina,Argentino MM,0,Peñarol,1,2022-08-20
+Torneo Federal A,Argentina,Ind Chivilcoy,2,Sansinena,1,2022-08-20
+Torneo Federal A,Argentina,Olimpo,1,Ciudad Bolívar,0,2022-08-20
+Prim B Metro,Argentina,Armenio,3,Colegiales,0,2022-08-20
+Prim B Metro,Argentina,Dock Sud,1,Merlo,2,2022-08-20
+Prim B Metro,Argentina,Fénix,1,A Quilmes,2,2022-08-20
+Prim B Metro,Argentina,San Miguel,2,Acassuso,0,2022-08-20
+Prim B Metro,Argentina,Urquiza,1,Talleres,0,2022-08-20
+Prim B Metro,Argentina,Villa SC,1,Def Unidos,0,2022-08-20
+Premier League,Armenia,Noah,0,Urartu,6,2022-08-20
+Premier League,Armenia,Shirak,0,Ararat,0,2022-08-20
+Queensland NPL,Australia,Capalaba,2,Peninsula,2,2022-08-20
+Queensland NPL,Australia,Gold Coast Utd,3,Eastern Sub,2,2022-08-20
+Queensland NPL,Australia,Knights,0,Moreton Bay,2,2022-08-20
+Queensland NPL,Australia,Lions,1,Lightning,3,2022-08-20
+Queensland NPL,Australia,Olympic,0,SC Wanderers,4,2022-08-20
+Victoria NPL Women,Australia,Heidelberg,3,Box Hill,1,2022-08-20
+Victoria NPL Women,Australia,Alamein,4,Bayside Utd,0,2022-08-20
+Victoria NPL Women,Australia,South Melb,0,Calder Utd,2,2022-08-20
+2. Liga,Austria,Lafnitz,1,Dornbirn,1,2022-08-20
+Premier League,Belarus,Slutsk,1,Energetik-BGU,2,2022-08-20
+Premier League,Belarus,Vitebsk,3,Arsenal,0,2022-08-20
+Premier League,Belarus,Gomel,0,Belshina,3,2022-08-20
+Challenger Pro League,Belgium,SK Beveren,2,Virton,2,2022-08-20
+Challenger Pro League,Belgium,RWDM,1,Dender,0,2022-08-20
+Primera División,Bolivia,Real Tomayapo,3,Aurora,0,2022-08-20
+Primera División,Bolivia,Independiente,1,Santa Cruz,0,2022-08-20
+Primera División,Bolivia,Royal Pari,0,The Strongest,2,2022-08-20
+Serie B,Brazil,Ituano,1,Novorizontino,0,2022-08-20
+Serie B,Brazil,Náutico,1,Vila Nova,2,2022-08-20
+Serie B,Brazil,Ponte Preta,1,Guarani,0,2022-08-20
+Serie B,Brazil,Chapecoense,1,Brusque,0,2022-08-20
+Serie C,Brazil,ABC,2,Figueirense,1,2022-08-20
+Serie D,Brazil,Caxias,1,América RN,0,2022-08-20
+Serie D,Brazil,Portuguesa,1,Amazonas,1,2022-08-20
+Copa Paulista,Brazil,Lemense,1,Desp. Brasil,1,2022-08-20
+Copa Paulista,Brazil,Água Santa,1,São Bernardo,1,2022-08-20
+Copa Paulista,Brazil,São Caetano,2,Juventus,2,2022-08-20
+Copa Paulista,Brazil,Portuguesa,2,Oeste,2,2022-08-20
+First League,Bulgaria,Spartak Varna,1,Arda,3,2022-08-20
+First League,Bulgaria,Levski,4,Hebar 1918,0,2022-08-20
+Canadian Premier League,Canada,Wanderers,1,Pacific,0,2022-08-20
+Primera B,Chile,Recoleta,0,Puerto Montt,3,2022-08-20
+Copa Chile,Chile,Magallanes,4,U. Concepción,1,2022-08-20
+Copa Chile,Chile,Cobreloa,1,Morning,0,2022-08-20
+CSL,China PR,Port,1,Zhejiang,1,2022-08-20
+FA Cup,China PR,Dongwu,2,BIT,0,2022-08-20
+FA Cup,China PR,Zibo Cuju,3,Jiading,1,2022-08-20
+Primera B,Colombia,Orsomarso,0,Real Santander,0,2022-08-20
+HNL,Croatia,Varaždin,2,Šibenik,2,2022-08-20
+HNL,Croatia,Dinamo Zagreb,5,Osijek,2,2022-08-20
+Czech Liga,Czech Republic,Baník,1,Teplice,2,2022-08-20
+Czech Liga,Czech Republic,Mladá Boleslav,1,Sparta,3,2022-08-20
+FNL,Czech Republic,Třinec,4,Slavia II,2,2022-08-20
+FNL,Czech Republic,Karviná,2,Vysočina,1,2022-08-20
+FNL,Czech Republic,Líšeň,0,Příbram,0,2022-08-20
+FNL,Czech Republic,Prostějov,1,Sigma II,3,2022-08-20
+1. Division,Denmark,Vejle,2,SønderjyskE,1,2022-08-20
+1. Division,Denmark,Hobro,1,Hillerød,1,2022-08-20
+Liga Pro,Ecuador,Gualaceo,0,Universitario,3,2022-08-20
+Liga Pro,Ecuador,Orense,1,Barcelona,2,2022-08-20
+Premier League,Egypt,Ittihad,3,National Bank,0,2022-08-20
+Premier League 2,England,Arsenal,4,Chelsea,1,2022-08-20
+Premier League 2,England,Liverpool,1,Blackburn,0,2022-08-20
+U18 Premier League,England,Derby,0,Stoke City,1,2022-08-20
+U18 Premier League,England,Aston Villa,0,Crystal Palace,4,2022-08-20
+U18 Premier League,England,Fulham,1,Arsenal,1,2022-08-20
+U18 Premier League,England,Norwich,1,Brighton,2,2022-08-20
+U18 Premier League,England,Newcastle,2,Man City,2,2022-08-20
+U18 Premier League,England,Leeds Utd,2,Liverpool,1,2022-08-20
+U18 Premier League,England,Middlesbrough,3,Blackburn,2,2022-08-20
+U18 Premier League,England,Chelsea,4,Leicester,0,2022-08-20
+U18 Premier League,England,Spurs,1,WBA,2,2022-08-20
+U18 Premier League,England,West Ham,4,Southampton,1,2022-08-20
+U18 Premier League,England,Everton,2,Sunderland,3,2022-08-20
+U18 Premier League,England,Man Utd,3,Nottm Forest,0,2022-08-20
+Women's Championship,England,Southampton,0,Charlton,2,2022-08-20
+Meistriliiga,Estonia,Tallinna Kalev,2,Paide,7,2022-08-20
+Meistriliiga,Estonia,Trans,2,Legion,1,2022-08-20
+Meistriliiga,Estonia,Flora,3,Vaprus,1,2022-08-20
+Veikkausliiga,Finland,SJK,2,KuPS,1,2022-08-20
+Veikkausliiga,Finland,VPS,2,Lahti,3,2022-08-20
+Ykkönen,Finland,Jaro,3,JäPS,1,2022-08-20
+Ykkönen,Finland,PEPO,0,KTP,2,2022-08-20
+Ykkönen,Finland,PK-35,2,Gnistan,2,2022-08-20
+3. Liga,Germany,Dresden,2,Elversberg,3,2022-08-20
+3. Liga,Germany,Freiburg II,1,Viktoria Köln,0,2022-08-20
+3. Liga,Germany,RW Essen,2,Ingolstadt,2,2022-08-20
+3. Liga,Germany,Saarbrücken,0,Aue,0,2022-08-20
+3. Liga,Germany,Waldhof,2,Dortmund II,1,2022-08-20
+3. Liga,Germany,Wiesbaden,1,Osnabrück,1,2022-08-20
+Regionalliga,Germany,Hannover II,4,Havelse,0,2022-08-20
+Regionalliga,Germany,Hertha II,3,Viktoria B,2,2022-08-20
+Regionalliga,Germany,Lok Leipzig,4,TeBe,0,2022-08-20
+Regionalliga,Germany,ZFC Meuselwitz,1,Erfurt,4,2022-08-20
+Regionalliga,Germany,Fürth II,0,Unterhaching,1,2022-08-20
+Regionalliga,Germany,Hankofen,1,Türkgücü,4,2022-08-20
+Regionalliga,Germany,Nürnberg II,2,Ansbach,2,2022-08-20
+Regionalliga,Germany,Bahlingen,0,Steinbach,5,2022-08-20
+Regionalliga,Germany,FSV Frankfurt,3,Kassel,1,2022-08-20
+Regionalliga,Germany,Lehnerz,1,Mainz 05 II,3,2022-08-20
+Regionalliga,Germany,SGV Freiberg,2,Homburg,0,2022-08-20
+Regionalliga,Germany,Trier,0,Ulm,1,2022-08-20
+Regionalliga,Germany,Wormatia,0,Stuttgart II,1,2022-08-20
+Regionalliga,Germany,Fortuna II,2,Straelen,0,2022-08-20
+Regionalliga,Germany,Fortuna Köln,0,Schalke II,0,2022-08-20
+Regionalliga,Germany,Kaan,2,Rödinghausen,1,2022-08-20
+Regionalliga,Germany,Münster,1,M'gladbach II,1,2022-08-20
+Regionalliga,Germany,RW Ahlen,2,Bocholt,2,2022-08-20
+Regionalliga,Germany,RW Oberhausen,3,Lippstadt,1,2022-08-20
+Regionalliga,Germany,Aubstadt,1,Aschaffenburg,1,2022-08-20
+U17 Bundesliga,Germany,RB Leipzig,6,Werder Bremen,2,2022-08-20
+Liga 1,Indonesia,PSM,1,Arema,0,2022-08-20
+Liga 1,Indonesia,RANS,0,Persija,3,2022-08-20
+Ligat Ha'al,Israel,H Haifa,2,Hapoel TA,0,2022-08-20
+Ligat Ha'al,Israel,H Jerusalem,1,Hapoel Hadera,1,2022-08-20
+Ligat Ha'al,Israel,M Netanya,4,Beitar,1,2022-08-20
+J2 League,Japan,Albirex,1,Kumamoto,0,2022-08-20
+J2 League,Japan,JEF Utd,0,Tokushima,0,2022-08-20
+J2 League,Japan,Yokohama,1,Fagiano,0,2022-08-20
+J2 League,Japan,Ryūkyū,2,Montedio,2,2022-08-20
+J2 League,Japan,Blaublitz,0,Tochigi,3,2022-08-20
+J2 League,Japan,Oita,3,Grulla Morioka,0,2022-08-20
+J2 League,Japan,Omiya,0,Machida,2,2022-08-20
+J2 League,Japan,Renofa,1,Mito,0,2022-08-20
+J2 League,Japan,ThespaKusatsu,1,Vegalta,0,2022-08-20
+J3 League,Japan,Iwaki,4,Fukushima,1,2022-08-20
+J3 League,Japan,Sagamihara,0,Kagoshima Utd,1,2022-08-20
+J3 League,Japan,Toyama,2,Ehime,1,2022-08-20
+J3 League,Japan,Vanraure,3,Parceiro,1,2022-08-20
+K League 1,Korea Republic,Pohang,1,Incheon Utd,1,2022-08-20
+K League 1,Korea Republic,Jeju Utd,1,Suwon,2,2022-08-20
+K League 2,Korea Republic,Seoul E-Land,0,Gwangju,4,2022-08-20
+Virsliga,Latvia,Tukums,2,Liepāja,1,2022-08-20
+Virsliga,Latvia,Metta,0,Spartaks,0,2022-08-20
+Virsliga,Latvia,Super Nova,1,Daugavpils,0,2022-08-20
+A Lyga,Lithuania,H. Litauen,1,Kauno Žalgiris,1,2022-08-20
+A Lyga,Lithuania,FA Šiauliai,2,Džiugas,2,2022-08-20
+Premier League,Malta,Gzira Utd,3,Santa Lucia,1,2022-08-20
+Premier League,Malta,Mosta,1,Gudja Utd,2,2022-08-20
+Premier League,Malta,Floriana,2,Pietà,0,2022-08-20
+Super Liga,Moldova,Sf. Gheorghe,3,Dinamo-Auto,0,2022-08-20
+Super Liga,Moldova,Petrocub,2,Zimbru,2,2022-08-20
+Tweede Divisie,Netherlands,HHC,1,Noordwijk,0,2022-08-20
+Tweede Divisie,Netherlands,IJsselmeervoge,3,OFC,2,2022-08-20
+Tweede Divisie,Netherlands,Kozakken Boys,3,Maassluis,0,2022-08-20
+Tweede Divisie,Netherlands,Rijnsburg,0,Scheveningen,0,2022-08-20
+Tweede Divisie,Netherlands,HFC,2,Spakenburg,1,2022-08-20
+Tweede Divisie,Netherlands,Katwijk,7,Volendam II,0,2022-08-20
+Tweede Divisie,Netherlands,TEC,1,Quick Boys,3,2022-08-20
+Tweede Divisie,Netherlands,Sparta II,1,Lisse,1,2022-08-20
+Tweede Divisie,Netherlands,Treffers,2,AFC,1,2022-08-20
+Premiership,Northern Ireland,Cliftonville,3,Carrick,2,2022-08-20
+Premiership,Northern Ireland,Dungannon,0,Ballymena Utd,2,2022-08-20
+Premiership,Northern Ireland,Glenavon,1,Larne,2,2022-08-20
+Premiership,Northern Ireland,Portadown,0,Coleraine,2,2022-08-20
+1. Division,Norway,Sogndal,0,Brann,4,2022-08-20
+2. Division,Norway,Kvik,N/A,Øygarden,N/A,2022-08-20
+2. Division,Norway,Hødd,2,Levanger,1,2022-08-20
+2. Division,Norway,Egersund,3,Sotra,2,2022-08-20
+2. Division,Norway,Notodden,0,Vard,0,2022-08-20
+2. Division,Norway,Brattvåg,1,Alta,1,2022-08-20
+2. Division,Norway,Eidsvold,1,Frigg,3,2022-08-20
+2. Division,Norway,Arendal,1,Ullern,0,2022-08-20
+2. Division,Norway,Fløy-Flekkerøy,2,Strømmen,3,2022-08-20
+2. Division,Norway,Ørn Horten,3,Moss,1,2022-08-20
+2. Division,Norway,Kjelsås,1,Bærum,1,2022-08-20
+Toppserien,Norway,Vålerenga,2,Lyn,0,2022-08-20
+Division Profesional,Paraguay,Resistencia,2,Sportivo Amel.,1,2022-08-20
+Division Profesional,Paraguay,Sol de América,2,Guaireña,0,2022-08-20
+Division Profesional,Paraguay,Caballero JLM,0,Olimpia,2,2022-08-20
+Primera División,Peru,Dep. Municipal,0,Alianza Atl.,1,2022-08-20
+Primera División,Peru,Cienciano,2,Grau,2,2022-08-20
+I Liga,Poland,Podbeskidzie,0,Puszcza,1,2022-08-20
+I Liga,Poland,Wisła,3,SKRA,0,2022-08-20
+I Liga,Poland,Nieciecza,2,Stal Rzeszów,1,2022-08-20
+Segunda Liga,Portugal,Farense,2,Viseu,2,2022-08-20
+Segunda Liga,Portugal,Moreirense,3,Torreense,0,2022-08-20
+Segunda Liga,Portugal,Trofense,1,Vilafranquense,3,2022-08-20
+First Division,Republic of Ireland,Longford,1,Wexford,0,2022-08-20
+Liga I,Romania,Rapid,1,Arad,0,2022-08-20
+Highland / Lowland,Scotland,Banks O' Dee,8,Keith,0,2022-08-20
+Highland / Lowland,Scotland,Brechin,1,Buckie Thistle,0,2022-08-20
+Highland / Lowland,Scotland,Clachnacuddin,1,Turriff Udt,4,2022-08-20
+Highland / Lowland,Scotland,Forres,3,Huntly,0,2022-08-20
+Highland / Lowland,Scotland,Inverurie,1,Formartine Utd,1,2022-08-20
+Highland / Lowland,Scotland,Lossiemouth,2,Wick,1,2022-08-20
+Highland / Lowland,Scotland,Nairn,2,Deveronvale,2,2022-08-20
+Highland / Lowland,Scotland,Rothes,0,Brora Rangers,4,2022-08-20
+Highland / Lowland,Scotland,Strathspey,0,Fraserburgh,9,2022-08-20
+Highland / Lowland,Scotland,Braves,5,Edinburgh U,0,2022-08-20
+Highland / Lowland,Scotland,Dalbeattie,2,Rangers,5,2022-08-20
+Highland / Lowland,Scotland,East Kilbride,1,Bo'ness Utd,0,2022-08-20
+Super Liga,Serbia,Vojvodina,1,Mladost Lučani,1,2022-08-20
+Super Liga,Serbia,Javor,0,Radnički Krag,1,2022-08-20
+Premier League,Singapore,Hougang Utd,5,Young Lions,1,2022-08-20
+Premier League,Singapore,Lion City,7,Tanjong,0,2022-08-20
+Super Liga,Slovakia,Spartak,3,DAC 1904,1,2022-08-20
+Super Liga,Slovakia,Trenčín,2,L. Mikuláš,1,2022-08-20
+Super Liga,Slovakia,Zemplín,3,Skalica,1,2022-08-20
+Super Liga,Slovakia,Zlaté Moravce,2,Ružomberok,2,2022-08-20
+1. SNL,Slovenia,Bravo,0,Mura,1,2022-08-20
+1. SNL,Slovenia,Koper,0,Olimpija,2,2022-08-20
+PSL,South Africa,Arrows,0,TS Galaxy,0,2022-08-20
+PSL,South Africa,Sekhukhune Utd,1,Mamelodi,1,2022-08-20
+PSL,South Africa,Cape Town City,1,Stellenbosch,1,2022-08-20
+PSL,South Africa,Kaizer Chiefs,1,Richards Bay,0,2022-08-20
+PSL,South Africa,Maritzburg Utd,2,Chippa Utd,1,2022-08-20
+Segunda División,Spain,Gijón,4,FC Andorra,1,2022-08-20
+Segunda División,Spain,Albacete,0,Burgos,0,2022-08-20
+Segunda División,Spain,Zaragoza,0,Levante,0,2022-08-20
+Segunda División,Spain,Granada,2,Santander,0,2022-08-20
+Superettan,Sweden,Landskrona,1,Jönköpings S,1,2022-08-20
+Superettan,Sweden,Östersunds FK,2,Brommapojkarna,3,2022-08-20
+Ettan,Sweden,ÖSIF,0,Täby,0,2022-08-20
+Ettan,Sweden,Piteå,1,Forward,6,2022-08-20
+Ettan,Sweden,Vasalund,4,Haninge,2,2022-08-20
+Ettan,Sweden,Ljungskile,3,Qviding,1,2022-08-20
+Ettan,Sweden,Gefle,2,Sandviken,1,2022-08-20
+Ettan,Sweden,Sollentuna,1,IF Karlstad,1,2022-08-20
+Ettan,Sweden,Oskarshamn,1,Falkenberg,2,2022-08-20
+Ettan,Sweden,Torns,4,GAIS,2,2022-08-20
+Ettan,Sweden,Team TG,1,Sylvia,2,2022-08-20
+Thai League 1,Thailand,Nong Bua,0,Bangkok Utd,1,2022-08-20
+Thai League 1,Thailand,Police Tero,0,Chonburi,2,2022-08-20
+Thai League 2,Thailand,Suphanburi,1,Ayutthaya Utd,1,2022-08-20
+Thai League 2,Thailand,Rayong,0,Ranong,0,2022-08-20
+Thai League 2,Thailand,Uthai Thani,1,Samut Prakan,1,2022-08-20
+Thai League 2,Thailand,Kasetsart,0,Chiangmai Utd,0,2022-08-20
+1. Lig,Turkey,Tuzla,0,Bandırma,2,2022-08-20
+1. Lig,Turkey,Samsunspor,1,Eyüp,1,2022-08-20
+1. Lig,Turkey,Altınordu,0,Sakaryaspor,2,2022-08-20
+NWSL,USA,KC Current,1,Angel City,1,2022-08-20
+Primera División,Venezuela,Monagas,3,Colmenárez,1,2022-08-20
+Primera División,Venezuela,Deportivo Lara,2,Táchira,0,2022-08-20
+V.League 1,Vietnam,Binh Duong,0,Ha Noi,3,2022-08-20
+V.League 1,Vietnam,Binh Dinh,2,Thanh Hóa,1,2022-08-20
+V.League 1,Vietnam,Sai Gon,1,Ho Chi Minh,2,2022-08-20
+Premier League,Wales,Bala,1,Haverfordwest,1,2022-08-20
+Premier League,Wales,Caernarfon,2,Pontypridd,0,2022-08-20
+Premier League,Wales,TNS,1,Penybont,0,2022-08-20
+Premier League,Wales,Aberystwyth,0,Cardiff MU,4,2022-08-20
+Hybrid Friendlies,World,Ghana,N/A,Jamaica,N/A,2022-08-20
+Hybrid Friendlies,World,Qatar,2,Morocco,2,2022-08-20

@@ -1,0 +1,470 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date
+Premier League,England,Everton,0,Liverpool,0,2022-09-03
+Premier League,England,Brentford,5,Leeds,2,2022-09-03
+Premier League,England,Chelsea,2,West Ham,1,2022-09-03
+Premier League,England,Newcastle,0,Crystal Palace,0,2022-09-03
+Premier League,England,Nottm Forest,2,Bournemouth,3,2022-09-03
+Premier League,England,Tottenham,2,Fulham,1,2022-09-03
+Premier League,England,Wolves,1,Southampton,0,2022-09-03
+Premier League,England,Aston Villa,1,Man City,1,2022-09-03
+La Liga,Spain,Mallorca,1,Girona,1,2022-09-03
+La Liga,Spain,Real Madrid,2,Betis,1,2022-09-03
+La Liga,Spain,Real Sociedad,1,Atlético,1,2022-09-03
+La Liga,Spain,Sevilla,0,Barcelona,3,2022-09-03
+Serie A,Italy,Fiorentina,1,Juventus,1,2022-09-03
+Serie A,Italy,Milan,3,Inter,2,2022-09-03
+Serie A,Italy,Lazio,1,Napoli,2,2022-09-03
+Bundesliga,Germany,Bochum,0,Bremen,2,2022-09-03
+Bundesliga,Germany,Leverkusen,2,Freiburg,3,2022-09-03
+Bundesliga,Germany,Stuttgart,1,Schalke 04,1,2022-09-03
+Bundesliga,Germany,Union Berlin,1,Bayern München,1,2022-09-03
+Bundesliga,Germany,Wolfsburg,2,Köln,4,2022-09-03
+Bundesliga,Germany,Frankfurt,4,Leipzig,0,2022-09-03
+Ligue 1,France,Auxerre,0,Marseille,2,2022-09-03
+Ligue 1,France,Lyon,5,Angers,0,2022-09-03
+Ligue 1,France,Nantes,0,PSG,3,2022-09-03
+Championship,England,Blackburn,2,Bristol City,3,2022-09-03
+Championship,England,Luton,1,Wigan,2,2022-09-03
+Championship,England,Millwall,2,Cardiff,0,2022-09-03
+Championship,England,Norwich,3,Coventry,0,2022-09-03
+Championship,England,Preston,0,Birmingham,1,2022-09-03
+Championship,England,Rotherham,1,Watford,1,2022-09-03
+Championship,England,Swansea,1,QPR,0,2022-09-03
+MLS,USA,Minnesota,0,Dallas,3,2022-09-03
+Eredivisie,Netherlands,Ajax,4,Cambuur,0,2022-09-03
+Eredivisie,Netherlands,Twente,2,PSV,1,2022-09-03
+Eredivisie,Netherlands,Sparta,4,Volendam,0,2022-09-03
+Eredivisie,Netherlands,Go Ahead,3,Feyenoord,4,2022-09-03
+Süper Lig,Turkey,Başakşehir,2,Alanyaspor,0,2022-09-03
+Süper Lig,Turkey,Sivasspor,0,Fatih,0,2022-09-03
+Süper Lig,Turkey,Fenerbahçe,2,Kayseri,0,2022-09-03
+Süper Lig,Turkey,Giresun,0,Konyaspor,1,2022-09-03
+Premiership,Scotland,Celtic,4,Rangers,0,2022-09-03
+Premiership,Scotland,Hibernian,1,Kilmarnock,0,2022-09-03
+Premiership,Scotland,Livingston,1,Hearts,0,2022-09-03
+Premiership,Scotland,Motherwell,0,Dundee Utd,0,2022-09-03
+Premiership,Scotland,Ross County,1,Aberdeen,1,2022-09-03
+Premiership,Scotland,St. Johnstone,3,St. Mirren,0,2022-09-03
+Liga MX,Mexico,Necaxa,3,León,2,2022-09-03
+Liga MX,Mexico,Juárez,2,Cruz Azul,2,2022-09-03
+First Division A,Belgium,Genk,0,Sint-Truiden,0,2022-09-03
+First Division A,Belgium,Eupen,0,Kortrijk,1,2022-09-03
+First Division A,Belgium,Mechelen,2,Seraing,3,2022-09-03
+First Division A,Belgium,Standard,1,Oostende,0,2022-09-03
+Serie A,Brazil,Juventude,1,Avaí,1,2022-09-03
+Liga Profesional Argentina,Argentina,Lanús,1,Tigre,2,2022-09-03
+Liga Profesional Argentina,Argentina,R. Central,1,Talleres,0,2022-09-03
+Liga Profesional Argentina,Argentina,Aldosivi,1,Sarmiento,2,2022-09-03
+Liga Profesional Argentina,Argentina,Vélez,0,NOB,1,2022-09-03
+Primeira Liga,Portugal,Braga,1,Guimarães,0,2022-09-03
+Primeira Liga,Portugal,Gil Vicente,0,Porto,2,2022-09-03
+J1 League,Japan,Kashima,2,Urawa,2,2022-09-03
+J1 League,Japan,Júbilo,2,Kashiwa,2,2022-09-03
+J1 League,Japan,Sanfrecce,2,Shimizu,0,2022-09-03
+J1 League,Japan,Avispa,2,Nagoya,3,2022-09-03
+J1 League,Japan,Gamba,0,Sagan,3,2022-09-03
+J1 League,Japan,Kyoto,2,Vissel Kobe,0,2022-09-03
+J1 League,Japan,Shonan,2,Kawasaki,1,2022-09-03
+J1 League,Japan,Tokyo,2,F Marinos,2,2022-09-03
+Primera División,Uruguay,Albion,1,City Torque,0,2022-09-03
+Primera División,Uruguay,Danubio,1,Liverpool,1,2022-09-03
+Bundesliga,Austria,Austria,2,A Lustenau,2,2022-09-03
+Bundesliga,Austria,Salzburg,2,WSG Tirol,0,2022-09-03
+Bundesliga,Austria,Sturm,0,Hartberg,0,2022-09-03
+Premier League,Ukraine,Dnipro-1,2,Veres Rivne,0,2022-09-03
+Premier League,Ukraine,Zorya,3,Dynamo Kyiv,2,2022-09-03
+Premier League,Ukraine,Metalist 1925,3,Vorskla,2,2022-09-03
+2. Bundesliga,Germany,Greuther Fürth,2,St. Pauli,2,2022-09-03
+2. Bundesliga,Germany,Paderborn,1,Magdeburg,0,2022-09-03
+2. Bundesliga,Germany,Regensburg,0,Holstein,0,2022-09-03
+2. Bundesliga,Germany,Hamburg,1,Karlsruhe,0,2022-09-03
+Ekstraklasa,Poland,Stal Mielec,2,Śląsk,0,2022-09-03
+Ekstraklasa,Poland,Lechia,0,Warta Poznań,0,2022-09-03
+Ekstraklasa,Poland,Cracovia,3,Raków,0,2022-09-03
+Eliteserien,Norway,Bodø/Glimt,1,Molde,4,2022-09-03
+Super League,Switzerland,Sion,2,Basel,1,2022-09-03
+Super League,Switzerland,Zürich,1,Lugano,2,2022-09-03
+Super League 1,Greece,Lamia,0,Asteras,0,2022-09-03
+Super League 1,Greece,Olympiakos,3,Ionikos,1,2022-09-03
+Super League 1,Greece,Panathinaikos,1,Levadiakos,0,2022-09-03
+League One,England,Accrington,0,Ipswich,2,2022-09-03
+League One,England,Bolton,3,Charlton,1,2022-09-03
+League One,England,Bristol Rovers,2,Morecambe,2,2022-09-03
+League One,England,Cambridge Utd,2,Lincoln,0,2022-09-03
+League One,England,Derby,2,Plymouth,3,2022-09-03
+League One,England,Exeter,1,MK Dons,0,2022-09-03
+League One,England,Fleetwood,1,Wycombe,1,2022-09-03
+League One,England,Forest Green,0,Shrewsbury,2,2022-09-03
+League One,England,Oxford,2,Burton Albion,1,2022-09-03
+League One,England,Port Vale,2,Cheltenham,2,2022-09-03
+League One,England,Portsmouth,2,Peterborough,1,2022-09-03
+League One,England,Sheff Wed,0,Barnsley,2,2022-09-03
+League Two,England,Bradford,2,Walsall,1,2022-09-03
+League Two,England,Carlisle,3,Rochdale,3,2022-09-03
+League Two,England,Colchester,1,Hartlepool,1,2022-09-03
+League Two,England,Crewe,1,Stevenage,2,2022-09-03
+League Two,England,Doncaster,1,Mansfield Town,3,2022-09-03
+League Two,England,Gillingham,0,Swindon,0,2022-09-03
+League Two,England,L Orient,2,Tranmere,0,2022-09-03
+League Two,England,Newport,0,Grimsby,2,2022-09-03
+League Two,England,Northampton,3,Barrow,1,2022-09-03
+League Two,England,Salford,2,Crawley,2,2022-09-03
+League Two,England,Stockport,1,Wimbledon,0,2022-09-03
+League Two,England,Sutton Utd,2,Harrogate,1,2022-09-03
+National League,England,Aldershot,3,Barnet,1,2022-09-03
+National League,England,Bromley,2,Eastleigh,1,2022-09-03
+National League,England,Dag & Red,0,Notts,5,2022-09-03
+National League,England,Dorking W,0,Wrexham,5,2022-09-03
+National League,England,Gateshead,4,Maidstone Utd,1,2022-09-03
+National League,England,Maidenhead Utd,1,Halifax,1,2022-09-03
+National League,England,Oldham,0,Chesterfield,2,2022-09-03
+National League,England,Scunthorpe,0,Boreham Wood,2,2022-09-03
+National League,England,Solihull,5,Altrincham,1,2022-09-03
+National League,England,Southend,1,Torquay,2,2022-09-03
+National League,England,Yeovil,0,York,1,2022-09-03
+Serie B,Italy,Ascoli,0,Cittadella,0,2022-09-03
+Serie B,Italy,Bari,2,SPAL,2,2022-09-03
+Serie B,Italy,Brescia,2,Perugia,1,2022-09-03
+Serie B,Italy,Frosinone,2,Como,0,2022-09-03
+Serie B,Italy,Reggina,3,Palermo,0,2022-09-03
+Serie B,Italy,Ternana,1,Cosenza,1,2022-09-03
+Serie B,Italy,Venezia,0,Benevento,2,2022-09-03
+Serie B,Italy,Genoa,3,Parma,3,2022-09-03
+Ligue 2,France,Paris,1,Bordeaux,3,2022-09-03
+Super League,Malaysia,Selangor,1,Darul Ta'zim,1,2022-09-03
+Super League,Malaysia,Terengganu,5,Melaka Utd,0,2022-09-03
+Championship,Scotland,Arbroath,0,Partick,2,2022-09-03
+Championship,Scotland,Cove Rangers,2,Hamilton,2,2022-09-03
+Championship,Scotland,Dundee,3,Queen's Park,0,2022-09-03
+Championship,Scotland,Morton,1,Ayr Utd,2,2022-09-03
+Championship,Scotland,Raith Rovers,0,Inverness,2,2022-09-03
+League One,Scotland,Airdrieonians,0,Edinburgh City,6,2022-09-03
+League One,Scotland,Clyde,2,Alloa Athletic,4,2022-09-03
+League One,Scotland,Kelty Hearts,2,Falkirk,0,2022-09-03
+League One,Scotland,Peterhead,0,Montrose,2,2022-09-03
+League One,Scotland,Queen South,0,Dunfermline,2,2022-09-03
+League Two,Scotland,Annan,2,Forfar,1,2022-09-03
+League Two,Scotland,East Fife,0,Dumbarton,1,2022-09-03
+League Two,Scotland,Elgin,2,Bonnyrigg RA,0,2022-09-03
+League Two,Scotland,Stenhousemuir,3,Stranraer,1,2022-09-03
+League Two,Scotland,Stirling,1,Albion,1,2022-09-03
+Superliga,Albania,Erzeni,0,Teuta,0,2022-09-03
+Superliga,Albania,Kukësi,1,Kastrioti,2,2022-09-03
+Ligue 1,Algeria,HBCL,0,ASO Chlef,0,2022-09-03
+Ligue 1,Algeria,MC Alger,0,US Biskra,0,2022-09-03
+Ligue 1,Algeria,Bayadh,2,Saoura,0,2022-09-03
+Ligue 1,Algeria,ES Sétif,1,RC Arbaâ,0,2022-09-03
+Primera Nacional,Argentina,Dep Madryn,1,Quilmes,1,2022-09-03
+Primera Nacional,Argentina,Gim Mendoza,2,Chacarita,1,2022-09-03
+Primera Nacional,Argentina,San Martín SJ,4,Santamarina,0,2022-09-03
+Torneo Federal A,Argentina,Crucero,2,Unión Sun,1,2022-09-03
+Torneo Federal A,Argentina,Ciudad Bolívar,1,Argentino MM,0,2022-09-03
+Torneo Federal A,Argentina,Peñarol,1,Juventud UU,1,2022-09-03
+Prim B Metro,Argentina,Def Unidos,2,Talleres,0,2022-09-03
+Prim B Metro,Argentina,Armenio,0,A Quilmes,0,2022-09-03
+Prim B Metro,Argentina,San Miguel,3,Urquiza,1,2022-09-03
+Prim B Metro,Argentina,Urquiza,0,Colegiales,3,2022-09-03
+Prim B Metro,Argentina,Ituzaingó,2,Comunicaciones,1,2022-09-03
+Premier League,Armenia,Noah,0,Ararat,0,2022-09-03
+Premier League,Armenia,Pyunik,1,L. Artsakh,0,2022-09-03
+Queensland NPL,Australia,Lions,2,Olympic,3,2022-09-03
+Victoria NPL,Australia,Port Melbourne,1,Oakleigh,2,2022-09-03
+Victoria NPL Women,Australia,Calder Utd,1,Emerging,0,2022-09-03
+Victoria NPL Women,Australia,Heidelberg,1,Bulleen,2,2022-09-03
+2. Liga,Austria,Amstetten,1,BW Linz,0,2022-09-03
+2. Liga,Austria,Rapid II,0,Dornbirn,1,2022-09-03
+2. Liga,Austria,Sturm II,1,Austria II,2,2022-09-03
+Jugendliga U18,Austria,St. Pölten,0,RB Akademie,2,2022-09-03
+Premier League,Belarus,Isloch,2,Energetik-BGU,3,2022-09-03
+Premier League,Belarus,Vitebsk,2,Belshina,2,2022-09-03
+Premier League,Belarus,Torpedo BelAZ,1,Slavia,1,2022-09-03
+Challenger Pro League,Belgium,Club Brugge II,1,Beerschot,2,2022-09-03
+Challenger Pro League,Belgium,Lierse K,4,Deinze,1,2022-09-03
+Primera División,Bolivia,Independiente,1,The Strongest,1,2022-09-03
+Serie B,Brazil,Náutico,2,Ituano,0,2022-09-03
+Serie B,Brazil,Grêmio,2,Vila Nova,1,2022-09-03
+Serie B,Brazil,Novorizontino,1,CSA,1,2022-09-03
+Serie B,Brazil,Brusque,1,Vasco,0,2022-09-03
+Serie B,Brazil,Guarani,3,Sampaio Corrêa,0,2022-09-03
+Serie B,Brazil,CRB,2,Sport,0,2022-09-03
+Serie C,Brazil,Figueirense,2,Paysandu,1,2022-09-03
+Serie D,Brazil,Pouso Alegre,1,Amazonas,0,2022-09-03
+Copa Paulista,Brazil,Água Santa,3,Juventus,1,2022-09-03
+Copa Paulista,Brazil,Botafogo SP B,1,Marília,3,2022-09-03
+Copa Paulista,Brazil,Noroeste,1,Comercial,0,2022-09-03
+Copa Paulista,Brazil,Oeste,2,São Bernardo,0,2022-09-03
+Copa Paulista,Brazil,Portuguesa,1,São Caetano,1,2022-09-03
+Copa Paulista,Brazil,Rio Claro,3,Lemense,0,2022-09-03
+Copa Paulista,Brazil,São Bento,1,Desp. Brasil,0,2022-09-03
+Copa Paulista,Brazil,XV Piracicaba,3,Primavera,0,2022-09-03
+First League,Bulgaria,Spartak Varna,0,CSKA,1,2022-09-03
+First League,Bulgaria,Loko Plovdiv,1,Botev,0,2022-09-03
+Canadian Premier League,Canada,Atlético,0,Edmonton,0,2022-09-03
+CSL,China PR,Guangzhou City,2,Tianjin JMT,0,2022-09-03
+China League One,China PR,West Coast,1,Heilongjiang,0,2022-09-03
+China League One,China PR,BIT,0,Nantong,3,2022-09-03
+China League One,China PR,Dongwu,0,Nanjing City,0,2022-09-03
+China League One,China PR,Pingguo Haliao,1,Kunshan,2,2022-09-03
+Primera B,Colombia,Leones,1,Fortaleza,1,2022-09-03
+Primera B,Colombia,Boyacá Chicó,1,Atlético,0,2022-09-03
+Primera B,Colombia,Boca,1,Quindío,0,2022-09-03
+Primera B,Colombia,Tigres,2,Real Santander,2,2022-09-03
+Primera B,Colombia,Valledupar,1,Cartagena,1,2022-09-03
+Primera B,Colombia,Llaneros,2,Bogotá,0,2022-09-03
+HNL,Croatia,Varaždin,2,Gorica,1,2022-09-03
+HNL,Croatia,Osijek,1,Šibenik,1,2022-09-03
+1. Division,Cyprus,Doxa,0,Apollon,1,2022-09-03
+1. Division,Cyprus,Omonia,3,AEK,2,2022-09-03
+Czech Liga,Czech Republic,Dynamo CB,0,Mladá Boleslav,2,2022-09-03
+Czech Liga,Czech Republic,Slovan,0,Viktoria Plzeň,1,2022-09-03
+Czech Liga,Czech Republic,Teplice,3,Jablonec,2,2022-09-03
+Czech Liga,Czech Republic,Sparta,0,Zlín,0,2022-09-03
+FNL,Czech Republic,Chrudim,0,Líšeň,0,2022-09-03
+FNL,Czech Republic,Vyškov,2,Karviná,1,2022-09-03
+FNL,Czech Republic,Příbram,1,Dukla,0,2022-09-03
+1. Division,Denmark,Vejle,1,HB Køge,2,2022-09-03
+Liga Pro,Ecuador,Emelec,1,Cumbayá,0,2022-09-03
+Liga Pro,Ecuador,Dep. Cuenca,2,Ind. del Valle,1,2022-09-03
+Premier League 2,England,Everton,0,Chelsea,2,2022-09-03
+Premier League 2,England,Arsenal,4,Blackburn,1,2022-09-03
+Premier League 2,England,Leicester,1,Brighton,4,2022-09-03
+Premier League 2,England,Crystal Palace,3,Spurs,0,2022-09-03
+Premier League 2,England,Liverpool,2,Man Utd,2,2022-09-03
+Premier League 2,England,Man City,4,West Ham,1,2022-09-03
+Premier League Cup,England,Middlesbrough,0,Huddersfield,3,2022-09-03
+U18 Premier League Cup,England,Crystal Palace,3,Brighton,0,2022-09-03
+U18 Premier League Cup,England,Ipswich,2,Stoke City,1,2022-09-03
+U18 Premier League Cup,England,Liverpool,1,Spurs,3,2022-09-03
+U18 Premier League Cup,England,Newcastle,4,Arsenal,2,2022-09-03
+U18 Premier League Cup,England,Southampton,3,Chelsea,0,2022-09-03
+U18 Premier League Cup,England,West Ham,4,Fulham,2,2022-09-03
+U18 Premier League Cup,England,Man City,2,Blackburn,0,2022-09-03
+U18 Premier League Cup,England,Aston Villa,2,Man Utd,0,2022-09-03
+U18 Premier League Cup,England,Leeds Utd,1,Sheffield Utd,2,2022-09-03
+U18 Premier League Cup,England,Norwich,2,Leicester,1,2022-09-03
+U18 Premier League Cup,England,Middlesbrough,0,WBA,3,2022-09-03
+U18 Premier League Cup,England,Wolves,1,Charlton,3,2022-09-03
+U18 Premier League Cup,England,Sunderland,1,Nottm Forest,0,2022-09-03
+Meistriliiga,Estonia,Trans,0,Tammeka,0,2022-09-03
+Meistriliiga,Estonia,Kalju,1,Paide,2,2022-09-03
+Women's WC Qualification Europe,Europe,Türkiye,0,Germany,3,2022-09-03
+Women's WC Qualification Europe,Europe,Austria,0,England,2,2022-09-03
+Veikkausliiga,Finland,KuPS,0,Ilves,0,2022-09-03
+Veikkausliiga,Finland,SJK,2,VPS,0,2022-09-03
+Ykkönen,Finland,EIF,0,KPV,3,2022-09-03
+Ykkönen,Finland,Jaro,4,PIF,0,2022-09-03
+Ykkönen,Finland,MP,2,JäPS,0,2022-09-03
+Ykkönen,Finland,PEPO,1,SJK Akatemia,0,2022-09-03
+Ykkönen,Finland,PK-35,0,KTP,1,2022-09-03
+Ykkönen,Finland,TPS,5,Gnistan,0,2022-09-03
+3. Liga,Germany,1860 München,4,Duisburg,1,2022-09-03
+3. Liga,Germany,Dresden,3,Dortmund II,0,2022-09-03
+3. Liga,Germany,Freiburg II,1,Ingolstadt,0,2022-09-03
+3. Liga,Germany,Hallescher FC,5,Verl,1,2022-09-03
+3. Liga,Germany,VfB Oldenburg,4,Osnabrück,3,2022-09-03
+3. Liga,Germany,Waldhof,2,Bayreuth,1,2022-09-03
+Regionalliga,Germany,Weiche,0,Werder II,2,2022-09-03
+Regionalliga,Germany,Ansbach,3,Rain / Lech,1,2022-09-03
+Regionalliga,Germany,Augsburg II,1,Bayern II,0,2022-09-03
+Regionalliga,Germany,Eichstätt,2,Türkgücü,4,2022-09-03
+Regionalliga,Germany,Vilzing,2,Pipinsried,2,2022-09-03
+Regionalliga,Germany,Kickers Emden,3,Bremer SV,0,2022-09-03
+Regionalliga,Germany,Teutonia Ott.,4,BW Lohne,1,2022-09-03
+Regionalliga,Germany,Hoffenheim II,1,Ulm,3,2022-09-03
+Regionalliga,Germany,Lehnerz,4,Bahlingen,1,2022-09-03
+Regionalliga,Germany,RW Koblenz,1,Stuttgart II,1,2022-09-03
+Regionalliga,Germany,SGV Freiberg,2,Offenbach,2,2022-09-03
+Regionalliga,Germany,Düren,0,Rödinghausen,2,2022-09-03
+Regionalliga,Germany,Fortuna II,3,Lippstadt,1,2022-09-03
+Regionalliga,Germany,Münster,4,Köln II,2,2022-09-03
+Regionalliga,Germany,RW Ahlen,1,M'gladbach II,2,2022-09-03
+Regionalliga,Germany,RW Oberhausen,1,Schalke II,3,2022-09-03
+Regionalliga,Germany,Wiedenbrück,2,Bocholt,1,2022-09-03
+Regionalliga,Germany,Wuppertal,2,Straelen,1,2022-09-03
+Regionalliga,Germany,Rehden,2,St. Pauli II,1,2022-09-03
+Regionalliga,Germany,Jeddeloh,1,Holstein II,0,2022-09-03
+U19 Bundesliga,Germany,Trier,1,Bayern,4,2022-09-03
+U19 Bundesliga,Germany,Hansa,1,RB Leipzig,1,2022-09-03
+U17 Bundesliga,Germany,RB Leipzig,1,Hansa Rostock,2,2022-09-03
+U17 Bundesliga,Germany,Nürnberg,1,Bayern München,2,2022-09-03
+Premier League,Hong Kong,Wofoo,1,Resources Capi,2,2022-09-03
+Premier League,Hong Kong,Lee Man,1,Southern,3,2022-09-03
+NB I,Hungary,Kecskemét,3,Paks,1,2022-09-03
+NB I,Hungary,Vasas,1,Puskás,1,2022-09-03
+NB I,Hungary,Debrecen,1,Fehérvár,0,2022-09-03
+1. Deild,Iceland,KV,1,Vestri,1,2022-09-03
+1. Deild,Iceland,Selfoss,5,Grindavík,3,2022-09-03
+1. Deild,Iceland,Thróttur Vogar,0,Thór,2,2022-09-03
+Liga 1,Indonesia,Persis,0,PSIS,0,2022-09-03
+Liga 1,Indonesia,Persikabo 1973,3,Borneo,2,2022-09-03
+Liga 1,Indonesia,Persija,2,Bhayangkara,1,2022-09-03
+Ligat Ha'al,Israel,Maccabi TA,3,Kiryat Shmona,1,2022-09-03
+Ligat Ha'al,Israel,H Jerusalem,3,Ashdod,0,2022-09-03
+Ligat Ha'al,Israel,H Haifa,1,Sakhnin,2,2022-09-03
+Ligat Ha'al,Israel,H Be'er Sheva,1,M Haifa,2,2022-09-03
+Serie C,Italy,AlbinoLeffe,0,FeralpiSalò,1,2022-09-03
+Serie C,Italy,Juventus II,2,Trento,0,2022-09-03
+Serie C,Italy,Novara,3,Renate,1,2022-09-03
+Serie C,Italy,Pro Patria,1,Arzignano,1,2022-09-03
+Serie C,Italy,Pro Vercelli,1,Calcio Padova,0,2022-09-03
+Serie C,Italy,Sangiuliano,4,Mantova,2,2022-09-03
+Serie C,Italy,Vicenza,6,Pro Sesto,1,2022-09-03
+Serie C,Italy,Virtus Verona,2,Lecco,2,2022-09-03
+Serie C,Italy,Pergolettese,2,Piacenza,1,2022-09-03
+Serie C,Italy,Triestina,0,Pordenone,2,2022-09-03
+J2 League,Japan,Ryūkyū,0,Blaublitz,1,2022-09-03
+J2 League,Japan,Albirex,0,Oita,1,2022-09-03
+J2 League,Japan,JEF Utd,0,V-Varen,1,2022-09-03
+J2 League,Japan,Montedio,4,Grulla Morioka,1,2022-09-03
+J2 League,Japan,Renofa,3,Yokohama,3,2022-09-03
+J2 League,Japan,Tokushima,2,Ventforet,0,2022-09-03
+J2 League,Japan,Vegalta,1,Mito,2,2022-09-03
+J2 League,Japan,Zweigen,2,Tokyo Verdy,1,2022-09-03
+J3 League,Japan,Azul Claro,0,Kagoshima Utd,1,2022-09-03
+J3 League,Japan,Iwaki,1,Parceiro,0,2022-09-03
+J3 League,Japan,Matsumoto,2,Ehime,1,2022-09-03
+J3 League,Japan,Sagamihara,2,Gainare,2,2022-09-03
+J3 League,Japan,Toyama,3,Fukushima,2,2022-09-03
+J3 League,Japan,Gifu,3,YSCC,0,2022-09-03
+J3 League,Japan,Vanraure,1,Tegevajaro,2,2022-09-03
+K League 1,Korea Republic,Pohang,4,Daegu,1,2022-09-03
+K League 1,Korea Republic,Gimcheon,2,Jeonbuk Motors,2,2022-09-03
+K League 2,Korea Republic,Chungnam Asan,0,Bucheon,3,2022-09-03
+K League 2,Korea Republic,Gwangju,2,Gimpo,1,2022-09-03
+Virsliga,Latvia,Spartaks,1,Tukums,3,2022-09-03
+A Lyga,Lithuania,Džiugas,1,Žalgiris,1,2022-09-03
+A Lyga,Lithuania,Riteriai,2,Jonava,1,2022-09-03
+Premier League,Malta,Balzan,0,Gudja Utd,1,2022-09-03
+Premier League,Malta,Birkirkara,1,Floriana,0,2022-09-03
+Premier League,Malta,Zebbug,2,Santa Lucia,0,2022-09-03
+Premier League,Malta,Valletta,0,Sirens,0,2022-09-03
+Super Liga,Moldova,Dacia-Buiucani,0,Sheriff,2,2022-09-03
+Super Liga,Moldova,Petrocub,4,Dinamo-Auto,0,2022-09-03
+Tweede Divisie,Netherlands,HHC,4,Quick Boys,0,2022-09-03
+Tweede Divisie,Netherlands,Lisse,1,Maassluis,1,2022-09-03
+Tweede Divisie,Netherlands,IJsselmeervoge,1,Treffers,3,2022-09-03
+Tweede Divisie,Netherlands,Kozakken Boys,5,Spakenburg,5,2022-09-03
+Tweede Divisie,Netherlands,Rijnsburg,3,OFC,0,2022-09-03
+Tweede Divisie,Netherlands,HFC,0,Noordwijk,1,2022-09-03
+Tweede Divisie,Netherlands,Katwijk,1,Scheveningen,0,2022-09-03
+Tweede Divisie,Netherlands,Sparta II,1,Volendam II,1,2022-09-03
+Premiership,Northern Ireland,Ballymena Utd,0,Linfield,4,2022-09-03
+Premiership,Northern Ireland,Glenavon,2,Carrick,2,2022-09-03
+Premiership,Northern Ireland,Glentoran,3,Newry City,0,2022-09-03
+Premiership,Northern Ireland,Portadown,1,Cliftonville,2,2022-09-03
+1. Division,Norway,Åsane,0,Brann,2,2022-09-03
+2. Division,Norway,Ørn Horten,N/A,Øygarden,N/A,2022-09-03
+2. Division,Norway,Træff,1,Hødd,2,2022-09-03
+2. Division,Norway,Staal,2,Strømmen,2,2022-09-03
+2. Division,Norway,Arendal,4,Moss,0,2022-09-03
+2. Division,Norway,Egersund,1,Vard,1,2022-09-03
+2. Division,Norway,Asker,3,Levanger,2,2022-09-03
+2. Division,Norway,Eidsvold,1,Bærum,3,2022-09-03
+2. Division,Norway,Ullensaker,8,Frigg,1,2022-09-03
+2. Division,Norway,Kvik,2,Ullern,0,2022-09-03
+2. Division,Norway,Kjelsås,0,Alta,1,2022-09-03
+Division Profesional,Paraguay,Guaraní,2,Guaireña,2,2022-09-03
+Division Profesional,Paraguay,Resistencia,0,Caballero JLM,0,2022-09-03
+Division Profesional,Paraguay,Sol de América,1,Sportivo Amel.,1,2022-09-03
+Primera División,Peru,Dep. Municipal,0,Sp. Cristal,3,2022-09-03
+Primera División,Peru,Cienciano,2,CA Mannucci,0,2022-09-03
+I Liga,Poland,Sandecja,0,Chrobry,1,2022-09-03
+I Liga,Poland,Nieciecza,2,Chojniczanka,2,2022-09-03
+I Liga,Poland,Resovia,1,SKRA,2,2022-09-03
+Segunda Liga,Portugal,Benfica II,2,Leixões,1,2022-09-03
+Segunda Liga,Portugal,Viseu,1,Torreense,2,2022-09-03
+Segunda Liga,Portugal,Moreirense,4,UD Oliveirense,1,2022-09-03
+Segunda Liga,Portugal,Porto II,0,Vilafranquense,1,2022-09-03
+Premier Division,Republic of Ireland,Sligo,2,Drogheda,0,2022-09-03
+Liga I,Romania,Arad,1,Chindia,1,2022-09-03
+Liga I,Romania,Voluntari,0,Rapid,1,2022-09-03
+Saudi League,Saudi Arabia,Taawon,1,Nassr,0,2022-09-03
+Saudi League,Saudi Arabia,Ittihad,0,Ittifaq,0,2022-09-03
+Highland / Lowland,Scotland,Brora Rangers,5,Deveronvale,0,2022-09-03
+Highland / Lowland,Scotland,Buckie Thistle,2,Huntly,0,2022-09-03
+Highland / Lowland,Scotland,Clachnacuddin,4,Rothes,1,2022-09-03
+Highland / Lowland,Scotland,Fraserburgh,1,Inverurie,2,2022-09-03
+Highland / Lowland,Scotland,Keith,1,Formartine Utd,0,2022-09-03
+Highland / Lowland,Scotland,Lossiemouth,5,Nairn,1,2022-09-03
+Highland / Lowland,Scotland,Strathspey,0,Brechin,5,2022-09-03
+Highland / Lowland,Scotland,Turriff Udt,2,Forres,0,2022-09-03
+Highland / Lowland,Scotland,Wick,0,Banks O' Dee,8,2022-09-03
+Highland / Lowland,Scotland,Bo'ness Utd,2,Broomhill,3,2022-09-03
+Highland / Lowland,Scotland,Cowdenbeath,3,Gretna,0,2022-09-03
+Highland / Lowland,Scotland,Cumbernauld C.,2,Hearts,1,2022-09-03
+Highland / Lowland,Scotland,Dalbeattie,0,Strollers,6,2022-09-03
+Highland / Lowland,Scotland,East Kilbride,2,Edinburgh U,3,2022-09-03
+Highland / Lowland,Scotland,Fairydean,0,Berwick,2,2022-09-03
+Highland / Lowland,Scotland,East Stirling,2,Tranent,2,2022-09-03
+Super Liga,Serbia,Radnički Niš,1,Mladost NS,1,2022-09-03
+Super Liga,Serbia,Spartak,1,Napredak,2,2022-09-03
+Premier League,Singapore,Hougang Utd,3,Tanjong,3,2022-09-03
+Premier League,Singapore,Young Lions,0,Tampines,7,2022-09-03
+Super Liga,Slovakia,Banská Bystric,0,Slovan,1,2022-09-03
+Super Liga,Slovakia,DAC 1904,1,Zemplín,0,2022-09-03
+Super Liga,Slovakia,L. Mikuláš,0,Skalica,0,2022-09-03
+Super Liga,Slovakia,Zlaté Moravce,1,Trenčín,0,2022-09-03
+1. SNL,Slovenia,Maribor,2,Tabor,2,2022-09-03
+PSL,South Africa,Arrows,3,Chippa Utd,2,2022-09-03
+PSL,South Africa,Stellenbosch,1,Richards Bay,2,2022-09-03
+PSL,South Africa,Kaizer Chiefs,0,AmaZulu,0,2022-09-03
+PSL,South Africa,Sekhukhune Utd,1,Royal AM,2,2022-09-03
+PSL,South Africa,TS Galaxy,0,Cape Town City,1,2022-09-03
+Segunda División,Spain,Alavés,1,Las Palmas,1,2022-09-03
+Segunda División,Spain,Villarreal II,3,Mirandés,0,2022-09-03
+Segunda División,Spain,Ponferradina,1,Gijón,3,2022-09-03
+Segunda División,Spain,Tenerife,1,Santander,0,2022-09-03
+Superettan,Sweden,Östersunds FK,2,Västerås,2,2022-09-03
+Superettan,Sweden,Örgryte,0,Landskrona,1,2022-09-03
+Ettan,Sweden,Piteå,2,IF Karlstad,1,2022-09-03
+Ettan,Sweden,Gefle,6,Sylvia,0,2022-09-03
+Ettan,Sweden,Stockholm Int.,2,Forward,2,2022-09-03
+Ettan,Sweden,Oskarshamn,0,GAIS,1,2022-09-03
+Ettan,Sweden,Motala,2,Haninge,1,2022-09-03
+Ettan,Sweden,Åtvidaberg,3,Qviding,2,2022-09-03
+Ettan,Sweden,Lund,1,Ljungskile,0,2022-09-03
+Ettan,Sweden,Oddevold,1,IFK Malmö,0,2022-09-03
+Challenge League,Switzerland,Aarau,2,Wil,1,2022-09-03
+Challenge League,Switzerland,Stade-Lausanne,2,Xamax,1,2022-09-03
+Thai League 1,Thailand,Bangkok Utd,3,Ratchasima,0,2022-09-03
+Thai League 1,Thailand,Khonkaen,1,Lampang,0,2022-09-03
+Thai League 1,Thailand,Prachuap,2,Chiangrai Utd,1,2022-09-03
+Thai League 2,Thailand,Customs Utd,3,Udon Thani,1,2022-09-03
+Thai League 2,Thailand,Krabi,1,Samut Prakan,1,2022-09-03
+Thai League 2,Thailand,Rayong,1,Raj Pracha,1,2022-09-03
+Thai League 2,Thailand,Ayutthaya Utd,3,Trat,2,2022-09-03
+1. Lig,Turkey,Tuzla,4,Erzurumspor,1,2022-09-03
+1. Lig,Turkey,Bodrumspor,3,Eyüp,0,2022-09-03
+1. Lig,Turkey,Yeni Malatya,0,Rize,4,2022-09-03
+2. Lig,Turkey,1461 Trabzon F,0,Zonguldak,0,2022-09-03
+2. Lig,Turkey,Sarıyer,2,Kastamonuspor,1,2022-09-03
+2. Lig,Turkey,Ankaraspor,3,Menemen,1,2022-09-03
+3. Lig,Turkey,1984 Muşspor,2,Bergama BS,1,2022-09-03
+3. Lig,Turkey,Fatsa BS,0,Sapanca,0,2022-09-03
+3. Lig,Turkey,Hopaspor,0,Efeler 09 Spor,0,2022-09-03
+3. Lig,Turkey,Kepez BS,0,Erbaa,0,2022-09-03
+3. Lig,Turkey,Akhisar,0,Arguvanspor,0,2022-09-03
+3. Lig,Turkey,Şile Yıldız,1,Hacettepe 1945,1,2022-09-03
+3. Lig,Turkey,Yeni Mersin,2,Amasyaspor FK,1,2022-09-03
+3. Lig,Turkey,Ayvalıkgücü BS,3,Bulvarspor,2,2022-09-03
+3. Lig,Turkey,Velimeşespor,1,Eynesil Blds,2,2022-09-03
+Persha Liga,Ukraine,Metalurh,2,LNZ Cherkasy,1,2022-09-03
+Persha Liga,Ukraine,Obolon' Kyiv,2,SK Poltava,1,2022-09-03
+Persha Liga,Ukraine,Epitsentr,1,Polissya,2,2022-09-03
+Pro League,United Arab Emirates,Al Dhafra,1,Al Nasr,1,2022-09-03
+Pro League,United Arab Emirates,Al Jazira,2,Dibba Fujairah,0,2022-09-03
+Pro League,United Arab Emirates,Shabab Al Ahli,0,Sharjah,2,2022-09-03
+USL Championship,USA,New Mexico Utd,1,El Paso Loco,2,2022-09-03
+MLS Next Pro,USA,New England II,2,Orlando City B,0,2022-09-03
+Primera División,Venezuela,Zulia,0,Portuguesa,0,2022-09-03
+Primera División,Venezuela,Puerto Cabello,1,Táchira,2,2022-09-03
+V.League 1,Vietnam,Thanh Hóa,2,SLNA,0,2022-09-03
+V.League 1,Vietnam,HAGL,1,Sai Gon,1,2022-09-03
+Premier League,Wales,Cardiff MU,1,Flint Town Utd,0,2022-09-03
+Premier League,Wales,Connah's Quay,2,Penybont,0,2022-09-03
+Premier League,Wales,Haverfordwest,2,Newtown,3,2022-09-03
+Premier League,Wales,Pontypridd,0,TNS,2,2022-09-03
+Friendlies Women,World,Mexico,0,New Zealand,1,2022-09-03
+Friendlies Women,World,Australia,0,Canada,1,2022-09-03
+Friendlies Women,World,Korea Republic,1,Jamaica,0,2022-09-03
+Friendlies Women,World,United States,4,Nigeria,0,2022-09-03

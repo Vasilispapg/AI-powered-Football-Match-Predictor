@@ -1,0 +1,405 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date,URL
+Premier League,England,Leeds,2,Newcastle,2,2023-05-13,https://www.goal.com/en/match/leeds-united-vs-newcastle-united/8awjomda4v09cqep3xh3h16vo
+Premier League,England,Aston Villa,2,Tottenham,1,2023-05-13,https://www.goal.com/en/match/aston-villa-vs-tottenham-hotspur/8acf547s3fut2irrwwxbdeqdw
+Premier League,England,Chelsea,2,Nottm Forest,2,2023-05-13,https://www.goal.com/en/match/chelsea-vs-nottingham-forest/8ajvf1llitb7ltqp13tw2u4us
+Premier League,England,Crystal Palace,2,Bournemouth,0,2023-05-13,https://www.goal.com/en/match/crystal-palace-vs-afc-bournemouth/8anlhxtqf1l1ayoh0ql4yia6s
+Premier League,England,Man Utd,2,Wolves,0,2023-05-13,https://www.goal.com/en/match/manchester-united-vs-wolverhampton-wanderers/8b3yzc4ifrwl29rf9k18wahas
+Premier League,England,Southampton,0,Fulham,2,2023-05-13,https://www.goal.com/en/match/southampton-vs-fulham/8b7np759y1dddj82b2sn6jor8
+La Liga,Spain,Real Sociedad,2,Girona,2,2023-05-13,https://www.goal.com/en/match/real-sociedad-vs-girona/a5dqx94tjox6jdrzfgkkjdpn8
+La Liga,Spain,Osasuna,3,Almería,1,2023-05-13,https://www.goal.com/en/match/osasuna-vs-almeria/a5a12ii5e2eors7ygzanyshlg
+La Liga,Spain,Villarreal,5,Athletic Club,1,2023-05-13,https://www.goal.com/en/match/villarreal-vs-athletic-club/a4lt32fdwxuqotgdsvxmoul1w
+La Liga,Spain,Real Madrid,1,Getafe,0,2023-05-13,https://www.goal.com/en/match/real-madrid-vs-getafe/a4wypi47daxbhs6dao2wv0x04
+Serie A,Italy,Salernitana,1,Atalanta,0,2023-05-13,https://www.goal.com/en/match/salernitana-vs-atalanta/5j8nasxelljz91cwrchyf23o4
+Serie A,Italy,Spezia,2,Milan,0,2023-05-13,https://www.goal.com/en/match/spezia-vs-milan/5jjfvbu96kkr4v0lbws5344d0
+Serie A,Italy,Inter,4,Sassuolo,2,2023-05-13,https://www.goal.com/en/match/internazionale-vs-sassuolo/5ixu9yly0getzie9yn6qus9p0
+Bundesliga,Germany,Bayern München,6,Schalke 04,0,2023-05-13,https://www.goal.com/en/match/bayern-muenchen-vs-schalke-04/e3kvap71bhmn5jb53w7tasr2s
+Bundesliga,Germany,Bochum,3,Augsburg,2,2023-05-13,https://www.goal.com/en/match/bochum-vs-augsburg/e4dpphboazwqwjhae6kz4jsb8
+Bundesliga,Germany,Frankfurt,3,Mainz 05,0,2023-05-13,https://www.goal.com/en/match/eintracht-frankfurt-vs-mainz-05/e45gws1lx5eov6e9g7w1wd05w
+Bundesliga,Germany,Union Berlin,4,Freiburg,2,2023-05-13,https://www.goal.com/en/match/union-berlin-vs-freiburg/e3xdrazjjpy8orw6bd0td5ams
+Bundesliga,Germany,Wolfsburg,2,Hoffenheim,1,2023-05-13,https://www.goal.com/en/match/wolfsburg-vs-hoffenheim/e49osus5qf9zkdyk73ox0wufo
+Bundesliga,Germany,Dortmund,5,M'gladbach,2,2023-05-13,https://www.goal.com/en/match/borussia-dortmund-vs-borussia-m-gladbach/e3p207iidgl7xyt3qsyyjgqok
+Ligue 1,France,Strasbourg,2,Nice,0,2023-05-13,https://www.goal.com/en/match/strasbourg-vs-nice/1hyhbajn48tyejhor1janpxqs
+Ligue 1,France,PSG,5,Ajaccio,0,2023-05-13,https://www.goal.com/en/match/psg-vs-ajaccio/1hq3ptc2wlm6v7mesx57qwu1g
+Championship,England,Sunderland,2,Luton,1,2023-05-13,https://www.goal.com/en/match/sunderland-vs-luton-town/as4a3mu4w6kb34kemgj2e7q50
+MLS,USA,Chicago,1,St. Louis,0,2023-05-13,https://www.goal.com/en/match/chicago-fire-vs-st-louis-city/9x7bs41mkltdslaiq5ryeo8b8
+Eredivisie,Netherlands,Volendam,2,Sparta,1,2023-05-13,https://www.goal.com/en/match/volendam-vs-sparta-rotterdam/3x8bdpr6y9wcu30fnws335x5g
+Eredivisie,Netherlands,Heerenveen,0,Excelsior,0,2023-05-13,https://www.goal.com/en/match/heerenveen-vs-excelsior/3xk2pjmvgo9vl70oeue6r27mc
+Eredivisie,Netherlands,Utrecht,2,Waalwijk,0,2023-05-13,https://www.goal.com/en/match/utrecht-vs-rkc-waalwijk/3x4g8n70vsin1ygdll6pkc0lw
+A-League Men,Australia,Adelaide Utd,1,Central Coast,2,2023-05-13,https://www.goal.com/en/match/adelaide-united-vs-central-coast-mariners/bi0e1tolqy3nn1mo5heo5bf2s
+Premiership,Scotland,Rangers,3,Celtic,0,2023-05-13,https://www.goal.com/en/match/rangers-vs-celtic/d753vstnlbx8pow9uc37rct90
+Premiership,Scotland,Aberdeen,0,Hibernian,0,2023-05-13,https://www.goal.com/en/match/aberdeen-vs-hibernian/d6vqkmgp0g0gvpm74izv42ej8
+Premiership,Scotland,Dundee Utd,1,Ross County,3,2023-05-13,https://www.goal.com/en/match/dundee-united-vs-ross-county/a8adhnwjstpp5wy5p8pjchjpw
+Premiership,Scotland,Kilmarnock,2,Livingston,0,2023-05-13,https://www.goal.com/en/match/kilmarnock-vs-livingston/a8jep22g8vs17xwyskdsnua6s
+Premiership,Scotland,St. Johnstone,0,Motherwell,2,2023-05-13,https://www.goal.com/en/match/st-johnstone-vs-motherwell/a8sg18mu9l33bveiuolnna784
+Premiership,Scotland,St. Mirren,2,Hearts,2,2023-05-13,https://www.goal.com/en/match/st-mirren-vs-hearts/d7eeh11hxia44g11wmhoswmj8
+First Division A,Belgium,Cercle Brugge,0,Gent,4,2023-05-13,https://www.goal.com/en/match/cercle-brugge-vs-gent/3ivf33n2u29ahujd77bksfbx0
+First Division A,Belgium,Standard,2,Westerlo,2,2023-05-13,https://www.goal.com/en/match/standard-liege-vs-westerlo/3j5hxeokg746ybxrwz4dfgvf8
+Serie A,Brazil,Bahia,2,Flamengo,3,2023-05-13,https://www.goal.com/en/match/bahia-vs-flamengo/bpq9mucxiv9v7yptsqbl7vxg4
+Liga Profesional Argentina,Argentina,Huracán,0,Godoy Cruz,0,2023-05-13,https://www.goal.com/en/match/huracan-vs-godoy-cruz/27jxgavd0jr1bszno12y0x6ac
+Liga Profesional Argentina,Argentina,Atl. Tucumán,1,Argentinos,2,2023-05-13,https://www.goal.com/en/match/atletico-tucuman-vs-argentinos-juniors/273kmudcc31ebdz03cai5ixas
+Liga Profesional Argentina,Argentina,Independiente,2,Tigre,1,2023-05-13,https://www.goal.com/en/match/independiente-vs-tigre/2773pru65zm0mzv5fih9pj9xw
+Primeira Liga,Portugal,Chaves,2,Paços Ferreira,0,2023-05-13,https://www.goal.com/en/match/chaves-vs-pacos-de-ferreira/c4tt2k7t7eic43jg5ied17n6c
+Primeira Liga,Portugal,Vizela,0,Famalicão,0,2023-05-13,https://www.goal.com/en/match/vizela-vs-famalicao/c511nx598j48kuw5sksl2hams
+Primeira Liga,Portugal,Portimonense,1,Benfica,5,2023-05-13,https://www.goal.com/en/match/portimonense-vs-benfica/c54oxkdsinyco0rkuimys0pp0
+Primeira Liga,Portugal,Sporting,2,Marítimo,1,2023-05-13,https://www.goal.com/en/match/sporting-cp-vs-maritimo/c4xdhrd4ha3k2t7tj26z5ljbo
+J1 League,Japan,Vissel Kobe,2,Sanfrecce,0,2023-05-13,https://www.goal.com/en/match/vissel-kobe-vs-sanfrecce-hiroshima/1hiaaqtf8urfxl6wgxhs0om50
+J1 League,Japan,Shonan,2,Consadole,4,2023-05-13,https://www.goal.com/en/match/shonan-bellmare-vs-consadole-sapporo/1hlwv4185hpgccwk7zzeji590
+J1 League,Japan,Kashiwa,0,Yokohama,1,2023-05-13,https://www.goal.com/en/match/kashiwa-reysol-vs-yokohama/1hpkp76k0sd9x03ebc47j8jys
+Primera A,Colombia,Envigado,1,Águilas D,2,2023-05-13,https://www.goal.com/en/match/envigado-vs-aguilas-doradas/aqv30vxc88cjbwdimo3mm3qc4
+Primera A,Colombia,Jaguares,1,Cali,1,2023-05-13,https://www.goal.com/en/match/jaguares-de-cordoba-vs-deportivo-cali/aq1oyql8o0iluymgk4hvo5a1g
+Primera A,Colombia,Equidad,1,Bucaramanga,0,2023-05-13,https://www.goal.com/en/match/la-equidad-vs-atletico-bucaramanga/aq8x3jktmivs8z29hn9fn0jkk
+Primera División,Uruguay,Maldonado,0,Cerro Largo,0,2023-05-13,https://www.goal.com/en/match/deportivo-maldonado-vs-cerro-largo/eagksurj172n3h7wpndh0bor8
+Primera División,Uruguay,River Plate,2,Liverpool,0,2023-05-13,https://www.goal.com/en/match/river-plate-vs-liverpool/ebb61ti0aog3kkwna8g3ac104
+Primera División,Uruguay,Peñarol,1,Wanderers,1,2023-05-13,https://www.goal.com/en/match/penarol-vs-wanderers/ebub2q4aydbpe8clw2788ugb8
+Primera División,Chile,Magallanes,1,Audax,2,2023-05-13,https://www.goal.com/en/match/magallanes-vs-audax-italiano/bs7agwrzbb7uiyt9fra6zvnys
+Bundesliga,Austria,Altach,0,Hartberg,1,2023-05-13,https://www.goal.com/en/match/rheindorf-altach-vs-hartberg/eyu4xlfbxw1qy07rohewge61g
+Bundesliga,Austria,WAC,2,A Lustenau,2,2023-05-13,https://www.goal.com/en/match/wolfsberger-ac-vs-austria-lustenau/ez3v0916egot35q01nx11rnro
+Premier League,Ukraine,Dynamo Kyiv,2,Chornomorets,3,2023-05-13,https://www.goal.com/en/match/dynamo-kyiv-vs-chornomorets/1eg9xbwv1nao4r1yo26mn4owk
+Premier League,Ukraine,Inhulets',0,Shakhtar D,2,2023-05-13,https://www.goal.com/en/match/inhulets-vs-shakhtar-donetsk/1ekkzsgrn0wezevhjb07uq87o
+2. Bundesliga,Germany,Greuther Fürth,2,Braunschweig,2,2023-05-13,https://www.goal.com/en/match/greuther-fuerth-vs-eintracht-braunschweig/4mc0sv5ln6ywr96voshsp5ous
+2. Bundesliga,Germany,Holstein,2,Karlsruhe,1,2023-05-13,https://www.goal.com/en/match/holstein-kiel-vs-karlsruher-sc/4mmba6bllth6ozkz37mw9yec4
+2. Bundesliga,Germany,Kaiserslautern,1,Bielefeld,2,2023-05-13,https://www.goal.com/en/match/kaiserslautern-vs-arminia-bielefeld/4n4pu9w8ir162j7opt6iaoc9g
+2. Bundesliga,Germany,St. Pauli,0,Düsseldorf,0,2023-05-13,https://www.goal.com/en/match/st-pauli-vs-fortuna-duesseldorf/4mfhpw3gj5euh622jvx97ytqs
+Ekstraklasa,Poland,Śląsk,3,Wisła Płock,1,2023-05-13,https://www.goal.com/en/match/slask-wroclaw-vs-wisla-plock/e0nblzycn061wky7oyu21vl78
+Ekstraklasa,Poland,Cracovia,0,Zagłębie,1,2023-05-13,https://www.goal.com/en/match/cracovia-vs-zaglebie-lubin/dzqysytt00au94hc012fnboyc
+Ekstraklasa,Poland,Widzew,2,Górnik,3,2023-05-13,https://www.goal.com/en/match/widzew-lodz-vs-gornik-zabrze/e0jj8hcxjprbrcy47hjztkm50
+Eliteserien,Norway,Bodø/Glimt,3,Rosenborg,2,2023-05-13,https://www.goal.com/en/match/bodo-glimt-vs-rosenborg/ax79rsi19xvfak2cpbwltogk
+Eliteserien,Norway,HamKam,1,Tromsø,2,2023-05-13,https://www.goal.com/en/match/hamkam-vs-tromso/b0ix79cbkahabew7ii6t5pn8
+Eliteserien,Norway,Molde,3,Strømsgodset,2,2023-05-13,https://www.goal.com/en/match/molde-vs-stromsgodset/b3xl6dgl6eco2dqj2n7zskk4
+Eliteserien,Norway,Sandefjord,1,Viking,2,2023-05-13,https://www.goal.com/en/match/sandefjord-vs-viking/b77m01mv626k19do0ssjl9g4
+Eliteserien,Norway,Sarpsborg,2,Brann,1,2023-05-13,https://www.goal.com/en/match/sarpsborg-08-vs-brann/bafom55uubdf0cspwlsl0g0k
+Eliteserien,Norway,Stabæk,1,Aalesund,0,2023-05-13,https://www.goal.com/en/match/stabaek-vs-aalesund/bdln5ux6jdm2dwfjlt865ct0
+Eliteserien,Norway,Haugesund,1,Vålerenga,1,2023-05-13,https://www.goal.com/en/match/haugesund-vs-valerenga/bh4dkh63fri508ye4l9kv2fo
+Allsvenskan,Sweden,Häcken,6,Degerfors,1,2023-05-13,https://www.goal.com/en/match/haecken-vs-degerfors/3igp2qdgiizh9nr9crnyg3uok
+Allsvenskan,Sweden,Varberg,1,Norrköping,3,2023-05-13,https://www.goal.com/en/match/varberg-vs-norrkoeping/3ito7558rp7aw1hpsdjf0f2fo
+Super League,Switzerland,GC Zürich,2,Luzern,0,2023-05-13,https://www.goal.com/en/match/grasshoppers-vs-luzern/7l20sb1m8hlc9groh6oqwz3tg
+Super League,Switzerland,Servette,5,Sion,0,2023-05-13,https://www.goal.com/en/match/servette-vs-sion/7l8x314f9n9euha54chkr8b9w
+Super League 1,Greece,Panaitolikos,0,OFI,2,2023-05-13,https://www.goal.com/en/match/panaitolikos-vs-ofi/d89gwoiuzcgpqlazgyzibc4r8
+Super League 1,Greece,Asteras,1,Atromitos,1,2023-05-13,https://www.goal.com/en/match/asteras-tripolis-vs-atromitos/d7hdtwejrd7qgy9w8931cjvh0
+Super League 1,Greece,Ionikos,2,Lamia,2,2023-05-13,https://www.goal.com/en/match/ionikos-vs-lamia/d7qsbsxzbibd6m7ffkzbf766s
+Super League 1,Greece,Levadiakos,3,Giannina,3,2023-05-13,https://www.goal.com/en/match/levadiakos-vs-pas-giannina/d8016rxh7aitwmkgxkayrlm38
+League One,England,Bolton,1,Barnsley,1,2023-05-13,https://www.goal.com/en/match/bolton-wanderers-vs-barnsley/50vdctbjxucmap9hkruq6vwus
+League Two,England,Salford,1,Stockport,0,2023-05-13,https://www.goal.com/en/match/salford-city-vs-stockport-county/7lpdqjmvobcxz4yo7yvp4qexg
+National League,England,Chesterfield,2,Notts,2,2023-05-13,https://www.goal.com/en/match/chesterfield-vs-notts-county/2uay1mwnueftpikbqhxh9i4us
+Serie B,Italy,Ascoli,1,Cosenza,1,2023-05-13,https://www.goal.com/en/match/ascoli-vs-cosenza/dz42807vhru1oeavzr57yql0
+Serie B,Italy,Bari,1,Reggina,0,2023-05-13,https://www.goal.com/en/match/bari-vs-reggina/e302xyiiramp9vqhyly666tw
+Serie B,Italy,Benevento,2,Modena,1,2023-05-13,https://www.goal.com/en/match/benevento-vs-modena/e6m8097hl8h7eo7qp6vk3t3o
+Serie B,Italy,Brescia,1,Pisa,1,2023-05-13,https://www.goal.com/en/match/brescia-vs-pisa/ea59hnssyo5a8qtj3ieysv10
+Serie B,Italy,Cagliari,2,Palermo,1,2023-05-13,https://www.goal.com/en/match/cagliari-vs-palermo/ee1vqzxh7ks55hq5yoqvapec
+Serie B,Italy,Como,3,Ternana,1,2023-05-13,https://www.goal.com/en/match/como-vs-ternana/ehpuat9yabcb9hmb5se649as
+Serie B,Italy,SPAL,0,Parma,1,2023-05-13,https://www.goal.com/en/match/spal-vs-parma/eoymqxjx04zkuz9t1yk8n95g
+Serie B,Italy,Südtirol,1,Cittadella,1,2023-05-13,https://www.goal.com/en/match/suedtirol-vs-cittadella/esrf5ie2tc9ew34gelg20mxg
+Serie B,Italy,Venezia,3,Perugia,2,2023-05-13,https://www.goal.com/en/match/venezia-vs-perugia/ewmb1zlcbufsevnrrl5ifpqs
+Serie B,Italy,Frosinone,3,Genoa,2,2023-05-13,https://www.goal.com/en/match/frosinone-vs-genoa/el9fv43q6shbdx990fjtoh78
+Ligue 2,France,QRM,0,Bordeaux,0,2023-05-13,https://www.goal.com/en/match/quevilly-rouen-vs-bordeaux/e4315xn1goeyeqn8l7tsoqxw4
+Ligue 2,France,Bastia,2,Niort,1,2023-05-13,https://www.goal.com/en/match/bastia-vs-niort/b05duiwetbzp63r4wiqwk6f4k
+Ligue 2,France,Caen,4,Nîmes,2,2023-05-13,https://www.goal.com/en/match/caen-vs-nimes/b0cmqw20xeevfkcjjfwj8ruac
+Ligue 2,France,Dijon,3,Amiens,0,2023-05-13,https://www.goal.com/en/match/dijon-vs-amiens-sc/b08zfx8k6x3oys00c9k392djo
+Ligue 2,France,Laval,2,Saint-Étienne,1,2023-05-13,https://www.goal.com/en/match/laval-vs-saint-etienne/azr2bvk9jzg5kgceg30kud4ic
+Ligue 2,France,Metz,1,Grenoble,0,2023-05-13,https://www.goal.com/en/match/metz-vs-grenoble-foot-38/azk0fr6z9f2hzy6q2vhglztp0
+Ligue 2,France,Rodez,0,Paris,0,2023-05-13,https://www.goal.com/en/match/rodez-vs-paris-fc/azy7g4wkj622fqo6wutdtxkb8
+Ligue 2,France,Sochaux,0,Guingamp,1,2023-05-13,https://www.goal.com/en/match/sochaux-vs-guingamp/azunwz8cliephtkts2kpkiv4k
+Ligue 2,France,Valenciennes,1,Pau,1,2023-05-13,https://www.goal.com/en/match/valenciennes-vs-pau/b01wo29xf5jbret7zvsfei2ac
+Super League,Malaysia,Darul Ta'zim,6,Kelantan Utd,0,2023-05-13,https://www.goal.com/en/match/johor-darul-ta-zim-vs-kelantan-united/9jus2v5ask9zrf5id1666esk4
+Club Friendlies,World,Sabah,3,Beşiktaş,3,2023-05-13,https://www.goal.com/en/match/sabah-vs-besiktas/ddnfdssusp3kgrqlxm6gfjytw
+CAF Champions League,Africa,Wydad AC,0,Mamelodi,0,2023-05-13,https://www.goal.com/en/match/wydad-casablanca-vs-mamelodi-sundowns/e93ai0r8skz5idjdoeasg54ic
+Ligue 1,Algeria,Kabylie,3,Bayadh,1,2023-05-13,https://www.goal.com/en/match/kabylie-vs-el-bayadh/2ljwplnzsllckjkh0w782s104
+Primera Nacional,Argentina,Gimn Jujuy,1,Tristán Suárez,0,2023-05-13,https://www.goal.com/en/match/gimnasia-jujuy-vs-tristan-suarez/chkixfg7dmnd75tcesmmltmvo
+Primera Nacional,Argentina,Morón,1,Nueva Chicago,0,2023-05-13,https://www.goal.com/en/match/deportivo-moron-vs-nueva-chicago/b9mx18s84fdaw5nux46acagic
+Primera Nacional,Argentina,Dep Madryn,2,Maipú,3,2023-05-13,https://www.goal.com/en/match/deportivo-madryn-vs-deportivo-maipu/ch2jkx2m9icxonqu0r8gickr8
+Primera Nacional,Argentina,Defensores Bel,1,Estudiantes RC,0,2023-05-13,https://www.goal.com/en/match/defensores-de-belgrano-vs-estudiantes-rio-cuarto/b9vx3ebnshloxnkw7jd8bzcpg
+Primera Nacional,Argentina,Gim Mendoza,2,San Telmo,1,2023-05-13,https://www.goal.com/en/match/gimnasia-mendoza-vs-san-telmo/b9bynuqgmxtu3xnae881dda8k
+Primera Nacional,Argentina,Patronato,3,Temperley,1,2023-05-13,https://www.goal.com/en/match/patronato-vs-temperley/b9fkdqt1941437egp0brrm7f8
+Torneo Federal A,Argentina,SM Mendoza,1,Las Heras,0,2023-05-13,https://www.goal.com/en/match/san-martin-mendoza-vs-huracan-las-heras/5vk0au6jtnh80g8e6hh9gapzo
+Torneo Federal A,Argentina,Linqueño,0,Unión Sun,1,2023-05-13,https://www.goal.com/en/match/el-linqueno-vs-union-sunchales/edfskxbgirhv41ssc79xrws9g
+Torneo Federal A,Argentina,Circulo Dep.,2,Cipolletti,1,2023-05-13,https://www.goal.com/en/match/circulo-deportivo-vs-cipolletti/3ni9zfpip2tp1qzsywh6lj6s4
+Torneo Federal A,Argentina,De. Pro.,1,Belgrano,0,2023-05-13,https://www.goal.com/en/match/def-de-pronunciamiento-vs-sportivo-belgrano/ed6vlej48da8po5skhxt2q5uc
+Torneo Federal A,Argentina,Olimpo,3,Ger Rawson,1,2023-05-13,https://www.goal.com/en/match/olimpo-vs-germinal-de-rawson/3n8r8m0xr54w3m3zr4qeh239w
+Torneo Federal A,Argentina,Sansinena,2,Santamarina,0,2023-05-13,https://www.goal.com/en/match/sansinena-vs-deportivo-santamarina/3nroi2hr1g3iefdk3ydf0w3kk
+Torneo Federal A,Argentina,Ind Chivilcoy,3,Gim Concepción,1,2023-05-13,https://www.goal.com/en/match/independiente-chivilcoy-vs-gimnasia-concepcion/edxhnxlxl3jjuh5lq4hfvnbpw
+Torneo Federal A,Argentina,Las Parejas,0,Douglas Haig,0,2023-05-13,https://www.goal.com/en/match/sportivo-las-parejas-vs-douglas-haig/edoob713gfmo80n2km3u2hpn8
+Torneo Federal A,Argentina,Gimnasia Tiro,3,Crucero,1,2023-05-13,https://www.goal.com/en/match/gimnasia-y-tiro-vs-crucero-del-norte/4b6b3ds8219xcz20qdvkz83dg
+Torneo Federal A,Argentina,SM Formosa,1,Juv Antoniana,0,2023-05-13,https://www.goal.com/en/match/san-martin-formosa-vs-juventud-antoniana/4axd8b8c5769vroa68dtllbf8
+Torneo Federal A,Argentina,Liniers BB,0,Villa Mitre,0,2023-05-13,https://www.goal.com/en/match/liniers-bahia-blanca-vs-villa-mitre/3o150kle59mfnet8pwtq5wj6c
+Prim B Metro,Argentina,Sacachispas,0,Los Andes,0,2023-05-13,https://www.goal.com/en/match/sacachispas-vs-los-andes/d6cbt4jpxz21zj4dwbhz1qk9g
+Prim B Metro,Argentina,A Merlo,4,Merlo,0,2023-05-13,https://www.goal.com/en/match/argentino-merlo-vs-deportivo-merlo/d632v43pv3hyubm18wtcfcf10
+Prim B Metro,Argentina,Acassuso,1,Ituzaingó,0,2023-05-13,https://www.goal.com/en/match/acassuso-vs-ituzaingo/d5zcass8zwxxj0vsvsxmpb384
+Prim B Metro,Argentina,San Miguel,2,A Quilmes,0,2023-05-13,https://www.goal.com/en/match/san-miguel-vs-argentino-quilmes/d6g8ktra4ljdt7tfbudfcbnys
+Prim B Metro,Argentina,Villa SC,1,Colegiales,2,2023-05-13,https://www.goal.com/en/match/villa-san-carlos-vs-colegiales/d6k1hk3gs2y3cbb0auhb1j0gk
+Queensland NPL,Australia,Brisbane City,5,SC Wanderers,1,2023-05-13,https://www.goal.com/en/match/brisbane-city-vs-sc-wanderers/9wh5d2fmuo9mdee9c2q92exas
+Queensland NPL,Australia,Peninsula,2,Moreton Bay,1,2023-05-13,https://www.goal.com/en/match/peninsula-power-vs-moreton-bay-united/9wls473ahu0bnew8i755et2xg
+Queensland NPL,Australia,Rochedale,4,Gold Coast Utd,0,2023-05-13,https://www.goal.com/en/match/rochedale-rovers-vs-gold-coast-united/9woi788lqdeiq3w9qvo5kf384
+Queensland NPL,Australia,Roar,1,Redlands Utd,0,2023-05-13,https://www.goal.com/en/match/brisbane-roar-ii-vs-redlands-united/9wrbhtg61bxie84f7a3f3vqc4
+Victoria NPL,Australia,Moreland City,0,Oakleigh,3,2023-05-13,https://www.goal.com/en/match/moreland-city-vs-oakleigh-cannons/ue03febmufm2s0nricxiz7dg
+Victoria NPL,Australia,Altona Magic,0,Port Melbourne,2,2023-05-13,https://www.goal.com/en/match/altona-magic-vs-port-melbourne/uk1dgc8m9zva9rle5qdem590
+Victoria NPL,Australia,Hume City,0,Dandenong,2,2023-05-13,https://www.goal.com/en/match/hume-city-vs-dandenong-thunder/un88lstbiab3x7vuyo5dwv10
+Victoria NPL Women,Australia,Alamein,2,Bayside Utd,2,2023-05-13,https://www.goal.com/en/match/alamein-vs-bayside-united/cjo8gl6pzsq5tihlkr7am1vys
+New South Wales NPL,Australia,NWS Spirit,1,Western Sydney,0,2023-05-13,https://www.goal.com/en/match/nws-spirit-vs-western-sydney-w-ii/9x4lrth374kkd28tzpi17zm6s
+New South Wales NPL,Australia,Sutherland,0,Sydney,0,2023-05-13,https://www.goal.com/en/match/sutherland-sharks-vs-sydney-ii/9x7t3l0c8l4tfq0isepw28d1w
+New South Wales NPL,Australia,St George City,1,Leichhardt,2,2023-05-13,https://www.goal.com/en/match/st-george-city-fa-vs-apia-leichhardt/9xe2wnc6drolmmsp6mx8gjp5g
+New South Wales NPL,Australia,Manly Utd,3,Bulls,2,2023-05-13,https://www.goal.com/en/match/manly-united-vs-bulls-academy/9xaw9d0om1lrdu95t2a33nnkk
+New South Wales NPL Women,Australia,NWS Spirit,2,Manly United,1,2023-05-13,https://www.goal.com/en/match/nws-spirit-vs-manly-united/3hmnbclv4p3xz3cchena6eyvo
+2. Liga,Austria,Dornbirn,1,Admira,2,2023-05-13,https://www.goal.com/en/match/dornbirn-vs-admira/bcam375efdaq1uc6wjhgodic4
+2. Liga,Austria,Rapid II,0,Liefering,0,2023-05-13,https://www.goal.com/en/match/rapid-wien-ii-vs-liefering/bcn15rvofjzhzxquwbdqdad5g
+Jugendliga U18,Austria,RB Akademie,2,Burgenland,2,2023-05-13,https://www.goal.com/en/match/red-bull-akademie-u18-vs-burgenland-u18/2cbj5zdjlyp3jh44aksjvmz2s
+Premier League,Bangladesh,Muktijoddha,1,Uttara,1,2023-05-13,https://www.goal.com/en/match/muktijoddha-skc-vs-afc-uttara/dbf5qwbguu1wr7x445gijl4pg
+Premier League,Bangladesh,Rahmatgonj,1,Fortis,1,2023-05-13,https://www.goal.com/en/match/rahmatgonj-mfs-vs-fortis/dbqk0czpxty1qz9hgk7975us4
+Premier League,Belarus,Energetik-BGU,1,Minsk,0,2023-05-13,https://www.goal.com/en/match/energetik-bgu-vs-minsk/s3zcx4xfbd3hpv9p5j7jjj10
+Premier League,Belarus,Gomel,0,Dinamo Minsk,4,2023-05-13,https://www.goal.com/en/match/gomel-vs-dinamo-minsk/ru3kwx6e7so9gddhvxa9nqc4
+Premier League,Belarus,Shakhtyor,2,Dinamo Brest,0,2023-05-13,https://www.goal.com/en/match/shakhtyor-soligorsk-vs-dinamo-brest/rk5dlrx2ppduh0hr0f301a8k
+Challenger Pro League,Belgium,Beerschot,1,Lierse K,2,2023-05-13,https://www.goal.com/en/match/beerschot-vs-lierse-k/b51wtt7ubija1o8ifad02ts7o
+Challenger Pro League,Belgium,RWDM,1,Anderlecht II,0,2023-05-13,https://www.goal.com/en/match/rwdm-vs-rsc-anderlecht-ii/b5b6s7bna7g2xzshys79050k4
+Challenger Pro League,Belgium,SK Beveren,4,Club Brugge II,1,2023-05-13,https://www.goal.com/en/match/sk-beveren-vs-club-brugge-ii/b5k6rarj6aiq0exvm9u6vob9w
+Primera División,Bolivia,Universitario,0,Palmaflor,1,2023-05-13,https://www.goal.com/en/match/universitario-de-vinto-vs-palmaflor/4muxnwmv74b4wrh3wze98r6l0
+Primera División,Bolivia,Nacional,3,Real Tomayapo,1,2023-05-13,https://www.goal.com/en/match/nacional-potosi-vs-real-tomayapo/4mredi3x75bp5mbu6p7dhxt04
+Primera División,Bolivia,Vaca Díez,1,Royal Pari,1,2023-05-13,https://www.goal.com/en/match/vaca-diez-vs-royal-pari/4mehd0ljyvttbt6e38daolpuc
+Serie B,Brazil,Vila Nova,0,Criciúma,0,2023-05-13,https://www.goal.com/en/match/vila-nova-vs-criciuma/b393cfpwrcav6oeb5l80q3r4k
+Serie B,Brazil,Avaí,1,Chapecoense,4,2023-05-13,https://www.goal.com/en/match/avai-vs-chapecoense/b3i0bzcz5kxbnk73kmtiji8es
+Serie B,Brazil,Juventude,0,Mirassol,1,2023-05-13,https://www.goal.com/en/match/juventude-vs-mirassol/b4r2nq9yr33xifv5sti3ftk44
+Serie B,Brazil,Guarani,2,Sampaio Corrêa,0,2023-05-13,https://www.goal.com/en/match/guarani-vs-sampaio-correa/b309s7v9xndgm237g4ryg35ec
+Serie B,Brazil,Novorizontino,0,CRB,1,2023-05-13,https://www.goal.com/en/match/novorizontino-vs-crb/b4017pww246i88awai5z3eyok
+Serie C,Brazil,Confiança,1,Figueirense,0,2023-05-13,https://www.goal.com/en/match/confianca-vs-figueirense/q4zpfaamsb9lwbkbksx06uxg
+Serie C,Brazil,Pouso Alegre,0,São Bernardo,2,2023-05-13,https://www.goal.com/en/match/pouso-alegre-vs-sao-bernardo/pvn20jc4aiuinfrkohcbpfkk
+Serie D,Brazil,Atlético CE,1,Parnahyba,1,2023-05-13,https://www.goal.com/en/match/atletico-cearense-vs-parnahyba/9v9vnyjtsabyl9memkzr5bfv8
+Serie D,Brazil,Hercílio,1,Novo Hamburgo,0,2023-05-13,https://www.goal.com/en/match/hercilio-luz-vs-novo-hamburgo/a2rz6ofiljsn2nvjnu61bskk4
+Serie D,Brazil,Resende,0,Democrata GV,1,2023-05-13,https://www.goal.com/en/match/resende-vs-democrata-gv/a0gqdbvr98fxsnz6hqpo6svtg
+Serie D,Brazil,Santo André,1,Vitória,0,2023-05-13,https://www.goal.com/en/match/santo-andre-vs-vitoria-es/9ztl4vp70qxa8lcfn59z3kkyc
+Serie D,Brazil,Noroeste,2,Nova Iguaçu,0,2023-05-13,https://www.goal.com/en/match/real-noroeste-vs-nova-iguacu/9zi7vlfkwvvrenofofh9925n8
+Serie D,Brazil,Iguatu,1,Nacional,0,2023-05-13,https://www.goal.com/en/match/iguatu-vs-nacional-de-patos/9vlf499m11b4c57xg3opyxvys
+Serie D,Brazil,Inter Limeira,1,Cascavel,1,2023-05-13,https://www.goal.com/en/match/inter-de-limeira-vs-cascavel/a1sud5969ui6zs5iwjnh62p78
+Serie D,Brazil,U Rondonópolis,0,Ceilândia,0,2023-05-13,https://www.goal.com/en/match/uniao-rondonopolis-vs-ceilandia/9y7te3x7lk3vid1vv06xphlw4
+Serie D,Brazil,Alagoinhas,1,Falcon,2,2023-05-13,https://www.goal.com/en/match/atletico-alagoinhas-vs-falcon/9xw6ue2pxawob3blyozsg3ms4
+Serie D,Brazil,ASA,1,Bahia de Feira,0,2023-05-13,https://www.goal.com/en/match/asa-vs-bahia-de-feira/9wx9apk3775qm3s27vinh22hg
+Serie D,Brazil,Athletic,1,Portuguesa,2,2023-05-13,https://www.goal.com/en/match/athletic-club-vs-portuguesa-rj/a054xj2swmlm8atk93hrywpas
+Serie D,Brazil,Brasiliense,2,Anápolis,2,2023-05-13,https://www.goal.com/en/match/brasiliense-vs-anapolis/9z6mnzahxotbcylta42eqipzo
+Serie D,Brazil,Camboriú,1,Aimoré,0,2023-05-13,https://www.goal.com/en/match/camboriu-vs-aimore/a24qnp2ow4fd6utb8a6unbjf8
+Serie D,Brazil,Cordino,0,Ferroviário,1,2023-05-13,https://www.goal.com/en/match/cordino-vs-ferroviario/9ubovpnf6d4k10k2hebpvwetw
+Serie D,Brazil,Retrô,1,Cruzeiro,1,2023-05-13,https://www.goal.com/en/match/retro-vs-cruzeiro-arapiraca/9x8q2jwfxgjmbjdf8bwp2oxlg
+Serie D,Brazil,São Raimundo R,3,Águia Marabá,1,2023-05-13,https://www.goal.com/en/match/sao-raimundo-rr-vs-aguia-de-maraba/9t1wgrdcm1k24yy39mof10r2s
+Paulista A3,Brazil,Capivariano,3,São José,0,2023-05-13,https://www.goal.com/en/match/capivariano-vs-sao-jose-ec/5ywwn6g04sxhlb0xfpis2jy8k
+First League,Bulgaria,Botev Vratsa,1,Spartak Varna,1,2023-05-13,https://www.goal.com/en/match/botev-vratsa-vs-spartak-varna/9z23do0sh8x04279uy4a1ffo4
+First League,Bulgaria,Slavia Sofia,1,Botev,0,2023-05-13,https://www.goal.com/en/match/slavia-sofia-vs-botev-plovdiv/bdvfewck8brp31hyuo686hk44
+Canadian Premier League,Canada,Forge,3,Valour,2,2023-05-13,https://www.goal.com/en/match/forge-vs-valour/dzyfuetw3ru0ceg69ea66copg
+Primera B,Chile,Santa Cruz,0,San Felipe,2,2023-05-13,https://www.goal.com/en/match/deportes-santa-cruz-vs-union-san-felipe/34eazly8ikp6z32afm2vkyplg
+CSL,China PR,Shenhua,1,Three Towns,1,2023-05-13,https://www.goal.com/en/match/shanghai-shenhua-vs-wuhan-three-towns/dw51sx18p4iehbg5gxnuaj2ms
+CSL,China PR,Shenzhen,2,Dalian,1,2023-05-13,https://www.goal.com/en/match/shenzhen-vs-dalian-pro/dwg3wqii9h7j8iuaamkdx1bmc
+China League One,China PR,Jiuniu,2,Xingzhou,1,2023-05-13,https://www.goal.com/en/match/sichuan-jiuniu-vs-jinan-xingzhou/9oe9lvmfkvkdy9n72d5zvmvx0
+China League One,China PR,Nanjing City,5,Wugou,0,2023-05-13,https://www.goal.com/en/match/nanjing-city-vs-wuxi-wugou/9opl01hct7dkbezve4huq77ys
+China League One,China PR,Jiading,0,West Coast,1,2023-05-13,https://www.goal.com/en/match/shanghai-jiading-vs-qingdao-west-coast/9p1tsdou5m33vykscs4bibggk
+China League One,China PR,Lushan,0,Longding,2,2023-05-13,https://www.goal.com/en/match/jiangxi-lushan-vs-yanbian-longding/9pd76tsv0od0d8sthwk4mctg4
+China League Two,China PR,Billows,1,Tongliang Long,2,2023-05-13,https://www.goal.com/en/match/hunan-billows-vs-chongqing-tongliang-long/12tvufs4dxry2bji1blnqncpg
+China League Two,China PR,Yukun,4,Quanzhou,0,2023-05-13,https://www.goal.com/en/match/yunnan-yukun-vs-quanzhou-yassin/12fo8wjzbolm1wwqpq6dpywic
+China League Two,China PR,Qisheng,0,Red Lions,1,2023-05-13,https://www.goal.com/en/match/zibo-qisheng-vs-qingdao-red-lions/138448r6aabvsohp3tbpgrr4k
+China League Two,China PR,Pterosaur,2,Star,0,2023-05-13,https://www.goal.com/en/match/shangyu-pterosaur-vs-hainan-star/13me277pnsyljif9751hqo6qc
+Liga Femenina,Colombia,Medellín,2,Dep. Cali,1,2023-05-13,https://www.goal.com/en/match/independiente-medellin-vs-deportivo-cali/4cf8gf28w2974zzigflajspg
+Liga Femenina,Colombia,Atlético Huila,1,Junior,0,2023-05-13,https://www.goal.com/en/match/atletico-huila-vs-junior/40engtzer6gbb2zohee9iadw
+Liga Femenina,Colombia,Boyacá Chicó,2,Millonarios,1,2023-05-13,https://www.goal.com/en/match/boyaca-chico-vs-millonarios/43b3bbgf6v7twx2gkhktnehg
+Liga Femenina,Colombia,Bucaramanga,0,Pereira,3,2023-05-13,https://www.goal.com/en/match/atletico-bucaramanga-vs-deportivo-pereira/3xgkfurasb5mwv6gizeyjaj8
+Liga Femenina,Colombia,Tolima,1,Dep. Pasto,2,2023-05-13,https://www.goal.com/en/match/deportes-tolima-vs-deportivo-pasto/4fvv1eh37z99ty4s1a1p7rx0
+HNL,Croatia,Hajduk,3,Osijek,0,2023-05-13,https://www.goal.com/en/match/hajduk-split-vs-osijek/bt5oxsciwdp6y9wh0kqkk5a1g
+HNL,Croatia,Istra,1,Gorica,0,2023-05-13,https://www.goal.com/en/match/istra-1961-vs-hnk-gorica/btj7j58xbae6yi4mozf7rkjdg
+1. Division,Cyprus,Anorthosis,2,AEL,0,2023-05-13,https://www.goal.com/en/match/anorthosis-vs-ael/1bwgxscpjwra5cfej96g86u50
+1. Division,Cyprus,Pafos,0,Omonia,1,2023-05-13,https://www.goal.com/en/match/pafos-vs-omonia-nicosia/7oqv79e0wj81ui8zd802ban10
+Czech Liga,Czech Republic,Viktoria Plzeň,1,Sigma,3,2023-05-13,https://www.goal.com/en/match/viktoria-plzen-vs-sigma-olomouc/ezklnzistci815gmqn353caac
+Czech Liga,Czech Republic,Králové,2,Mladá Boleslav,0,2023-05-13,https://www.goal.com/en/match/hradec-kralove-vs-mlada-boleslav/dzl31q31n6s5it1fpu1eyupec
+Czech Liga,Czech Republic,Slovan,4,Dynamo CB,0,2023-05-13,https://www.goal.com/en/match/slovan-liberec-vs-ceske-budejovice/dz8z4yqb980l6ds4fcvfz5x5g
+Czech Liga,Czech Republic,Sparta,3,Slavia,2,2023-05-13,https://www.goal.com/en/match/sparta-praha-vs-slavia-praha/ezt3ec56oag1fbajzswrapjpw
+FNL,Czech Republic,Třinec,2,Sparta II,2,2023-05-13,https://www.goal.com/en/match/trinec-vs-sparta-praha-ii/44vtbxlx4db6egw1dvgnd5s0k
+FNL,Czech Republic,Dukla,0,Karviná,3,2023-05-13,https://www.goal.com/en/match/dukla-praha-vs-karvina/44rykg3a8y22hekytox1ze4no
+FNL,Czech Republic,Prostějov,2,Líšeň,1,2023-05-13,https://www.goal.com/en/match/prostejov-vs-lisen/45ihqoib9ixc2etnqd4i24w7o
+FNL,Czech Republic,Vlašim,0,Vyškov,1,2023-05-13,https://www.goal.com/en/match/vlasim-vs-vyskov/45b0lzivql6gqxf97ynbjgmqc
+1. Division,Denmark,HB Køge,2,Fredericia,2,2023-05-13,https://www.goal.com/en/match/hb-koge-vs-fredericia/4a1c40d06io1d3dhywy3thjis
+Liga Pro,Ecuador,Dep. Cuenca,3,Mushuc Runa,0,2023-05-13,https://www.goal.com/en/match/deportivo-cuenca-vs-mushuc-runa/2hwlln25mp4bfxluh4hl321g
+Liga Pro,Ecuador,El Nacional,3,Orense,1,2023-05-13,https://www.goal.com/en/match/el-nacional-vs-orense/2lhfvt9vqza1mjjqgf6ic6j8
+Liga Pro,Ecuador,Aucas,1,Gualaceo,0,2023-05-13,https://www.goal.com/en/match/aucas-vs-gualaceo/2oyvyy6mwqrp4ujvczl8mm8k
+Premier League,Egypt,Ismaily,2,Zamalek,1,2023-05-13,https://www.goal.com/en/match/ismaily-vs-zamalek/7rvvn0q5ls85lmnbw0sxanb4k
+Meistriliiga,Estonia,Vaprus,0,Tallinna Kalev,2,2023-05-13,https://www.goal.com/en/match/vaprus-vs-tallinna-kalev/1gyd7vu930j91dgj5d55wqivo
+Meistriliiga,Estonia,Paide,0,Tammeka,0,2023-05-13,https://www.goal.com/en/match/paide-vs-tammeka/1h39hpq71fnfg5o2d3oba4h78
+Veikkausliiga,Finland,Lahti,0,KTP,0,2023-05-13,https://www.goal.com/en/match/lahti-vs-ktp/ovohbxy8cbycxu7m8bu5c93o
+Veikkausliiga,Finland,Honka,0,KuPS,1,2023-05-13,https://www.goal.com/en/match/honka-vs-kups/oyt3a12m8lwe5chbsabj1mac
+Veikkausliiga,Finland,HJK,4,Inter Turku,1,2023-05-13,https://www.goal.com/en/match/hjk-vs-inter-turku/p1wtg8rd62voqky35m7m86qc
+Veikkausliiga,Finland,Oulu,2,VPS,1,2023-05-13,https://www.goal.com/en/match/oulu-vs-vps/p51wu29awg5vzi0now6ogmj8
+Veikkausliiga,Finland,SJK,1,Ilves,0,2023-05-13,https://www.goal.com/en/match/sjk-vs-ilves/p8436z64997wf7r1ju0nt1xw
+Veikkausliiga,Finland,Mariehamn,2,Haka,1,2023-05-13,https://www.goal.com/en/match/mariehamn-vs-haka/pb9uznxj5h48nf190yy4sl5g
+Ykkönen,Finland,EIF,2,SJK Akatemia,1,2023-05-13,https://www.goal.com/en/match/eif-vs-sjk-akatemia/75uvilw26k2bbfj15ylw6dlw4
+Ykkönen,Finland,JJK,0,HIFK,0,2023-05-13,https://www.goal.com/en/match/jjk-vs-hifk/75rifogfeg1su2gaxmdv6xgyc
+Ykkönen,Finland,KPV,1,JäPS,2,2023-05-13,https://www.goal.com/en/match/kpv-vs-jaeps/75o3738r9smnyoi0vg2iminmc
+Ykkönen,Finland,MP,1,Jaro,0,2023-05-13,https://www.goal.com/en/match/mp-vs-jaro/75kq74hrua4k6djrood1acopg
+Ykkönen,Finland,TPS,0,Gnistan,2,2023-05-13,https://www.goal.com/en/match/tps-vs-gnistan/75y7hhl61vgcs45869f5z4qhg
+Coupe de France Féminine,France,Lyon,2,PSG,1,2023-05-13,https://www.goal.com/en/match/olympique-lyonnais-vs-psg/9c5656ykjho9i1zabgkd1zwus
+3. Liga,Germany,Bayreuth,1,Viktoria Köln,4,2023-05-13,https://www.goal.com/en/match/bayreuth-vs-viktoria-koeln/4l17iazuhr9fs191e39wng5ck
+3. Liga,Germany,Freiburg II,2,Elversberg,1,2023-05-13,https://www.goal.com/en/match/freiburg-ii-vs-elversberg/4kxfwyrbbzmfbdl8gv5e6jmdw
+3. Liga,Germany,Saarbrücken,2,Hallescher FC,0,2023-05-13,https://www.goal.com/en/match/saarbruecken-vs-hallescher-fc/4ktmfxmoqev0ptr0cib9wgff8
+3. Liga,Germany,Waldhof,1,VfB Oldenburg,3,2023-05-13,https://www.goal.com/en/match/waldhof-mannheim-vs-vfb-oldenburg/4kg09gowotx5u8qzrf0ake3o4
+3. Liga,Germany,Wiesbaden,2,Verl,1,2023-05-13,https://www.goal.com/en/match/wehen-wiesbaden-vs-verl/4k0e5jygmvznfges8schl9q8k
+3. Liga,Germany,Zwickau,0,Dresden,1,2023-05-13,https://www.goal.com/en/match/zwickau-vs-dynamo-dresden/4kpszemywjcv3hty0505d07bo
+Regionalliga,Germany,Hannover II,1,St. Pauli II,0,2023-05-13,https://www.goal.com/en/match/hannover-96-ii-vs-st-pauli-ii/8y0gzw0tkyfhfxgm1er55ttzo
+Regionalliga,Germany,HSV II,1,Teutonia Ott.,0,2023-05-13,https://www.goal.com/en/match/hamburger-sv-ii-vs-teutonia-ottensen/8ya8xev29qdesy1v2mxgqsy6s
+Regionalliga,Germany,Chemie L.,2,Halberstadt,2,2023-05-13,https://www.goal.com/en/match/chemie-leipzig-vs-germania-halberstadt/d9mnvpzqjvm2pliahregsio0k
+Regionalliga,Germany,Cottbus,1,Erfurt,1,2023-05-13,https://www.goal.com/en/match/energie-cottbus-vs-rot-weiss-erfurt/d9j94l5hjy3ek4l5s2lmqstg4
+Regionalliga,Germany,Aubstadt,6,Rain / Lech,1,2023-05-13,https://www.goal.com/en/match/aubstadt-vs-rain-lech/8mleaclr6fpqu0vgnffc04rv8
+Regionalliga,Germany,Augsburg II,1,Eichstätt,0,2023-05-13,https://www.goal.com/en/match/augsburg-ii-vs-eichstaett/8n6favayg1uqii1rlqfbe0oic
+Regionalliga,Germany,Burghausen,0,Nürnberg II,1,2023-05-13,https://www.goal.com/en/match/wacker-burghausen-vs-nuernberg-ii/8ndvuxc403vi9uaxq6gtep4pg
+Regionalliga,Germany,Heimstetten,3,Pipinsried,3,2023-05-13,https://www.goal.com/en/match/heimstetten-vs-pipinsried/8n9z93seazlbp9j9343q68nbo
+Regionalliga,Germany,Schweinfurt,1,Vilzing,1,2023-05-13,https://www.goal.com/en/match/schweinfurt-vs-vilzing/8msw5g5d5hxe4v2x9dm2rw5ck
+Regionalliga,Germany,Unterhaching,0,Aschaffenburg,0,2023-05-13,https://www.goal.com/en/match/unterhaching-vs-viktoria-aschaffenburg/8mp8ut2ddvs74ig2z4ue56pzo
+Regionalliga,Germany,Jena,0,Babelsberg,0,2023-05-13,https://www.goal.com/en/match/carl-zeiss-jena-vs-babelsberg/d9g1wic04cm1awupsttxmhvys
+Regionalliga,Germany,Bahlingen,0,Kassel,2,2023-05-13,https://www.goal.com/en/match/bahlinger-sc-vs-hessen-kassel/g9jmh2ogj9apmx1kbzhrtg5w
+Regionalliga,Germany,RW Koblenz,3,SGV Freiberg,2,2023-05-13,https://www.goal.com/en/match/rot-weiss-koblenz-vs-sgv-freiberg/gpfqsl4lse88189fz2qaz1uc
+Regionalliga,Germany,Steinbach,2,Astoria,1,2023-05-13,https://www.goal.com/en/match/tsv-steinbach-vs-astoria-walldorf/g0z1okr4aoapnfism6g9cmj8
+Regionalliga,Germany,Bocholt,1,RW Oberhausen,5,2023-05-13,https://www.goal.com/en/match/1-fc-bocholt-vs-rot-weiss-oberhausen/cwuddq049ozcrnjlsl15p25n8
+Regionalliga,Germany,Düren,4,Wiedenbrück,2,2023-05-13,https://www.goal.com/en/match/dueren-merzenich-vs-wiedenbrueck/dci8u2u531rcxe0ldynjzvthw
+Regionalliga,Germany,Fortuna II,0,Wattenscheid,3,2023-05-13,https://www.goal.com/en/match/fortuna-duesseldorf-ii-vs-wattenscheid-09/dcltpwp6a1fiozmpkwx9tdmvo
+Regionalliga,Germany,Fortuna Köln,2,Wuppertal,4,2023-05-13,https://www.goal.com/en/match/fortuna-koeln-vs-wuppertaler-sv/dcv8stmszm8wk8qrdtcpzghzo
+Regionalliga,Germany,Kaan,4,Alemannia,2,2023-05-13,https://www.goal.com/en/match/kaan-marienborn-vs-alemannia-aachen/dcb2cfwy65danwvmkn347qiac
+Regionalliga,Germany,Münster,3,RW Ahlen,0,2023-05-13,https://www.goal.com/en/match/preussen-muenster-vs-rot-weiss-ahlen/dcrghnyjivuac7rcepyewvbx0
+Regionalliga,Germany,Schalke II,5,M'gladbach II,5,2023-05-13,https://www.goal.com/en/match/schalke-04-ii-vs-borussia-m-gladbach-ii/dc7evzxyriv64lc9lsni5lzx0
+Regionalliga,Germany,Mainz 05 II,2,Offenbach,0,2023-05-13,https://www.goal.com/en/match/mainz-05-ii-vs-kickers-offenbach/g4xhm9c5jobsko7inyf0h9g4
+Regionalliga,Germany,Jeddeloh,1,Weiche,1,2023-05-13,https://www.goal.com/en/match/jeddeloh-vs-weiche-flensburg/8y70vw0w6x2n56d1uf383f7dg
+Frauen Bundesliga,Germany,Turbine,1,Leverkusen,5,2023-05-13,https://www.goal.com/en/match/turbine-potsdam-vs-bayer-leverkusen/b17ooiamtm0ggvmffnbzlf1g4
+Super League 2,Greece,Anagennisi K,0,Panserraikos,0,2023-05-13,https://www.goal.com/en/match/anagennisi-karditsas-vs-panserraikos/e1rovs8zjorzuz8rlh94ccfmc
+Super League 2,Greece,Apollon Pontou,2,PAO II,1,2023-05-13,https://www.goal.com/en/match/apollon-pontou-vs-panathinaikos-ii/e2e7px8ih9vucpdvrzu1sgpp0
+Super League 2,Greece,PAOK II,2,Thesprotos,1,2023-05-13,https://www.goal.com/en/match/paok-ii-vs-thesprotos/e22zg234mpjm0m4eimmupqmms
+Super League 2,Greece,Kallithea,2,Episkopi,0,2023-05-13,https://www.goal.com/en/match/kallithea-vs-episkopi/2deopy6x88i2ypt3udfbwr9qs
+Super League 2,Greece,PAO Rouf,0,Kalamata,1,2023-05-13,https://www.goal.com/en/match/pao-rouf-vs-kalamata/2dydx53dors20vb0m7zthn9qs
+FA Cup,Hong Kong,BC Rangers,1,Kitchee,7,2023-05-13,https://www.goal.com/en/match/bc-rangers-vs-kitchee/1slb3wn6u3zhlb6uwz2p0kwlw
+NB I,Hungary,Vasas,1,ZTE,1,2023-05-13,https://www.goal.com/en/match/vasas-vs-zalaegerszeg/6vwcomzg8n6u6j9lnjmvrksus
+NB I,Hungary,Debrecen,0,Honvéd,0,2023-05-13,https://www.goal.com/en/match/debrecen-vs-honved/6vgcfnydxnn2ygzcgriq9vpxw
+NB I,Hungary,Kecskemét,2,Ferencváros,0,2023-05-13,https://www.goal.com/en/match/kecskemet-vs-ferencvaros/6vka6ulvgyf3eq58b9qap5ams
+Úrvalsdeild,Iceland,Stjarnan,4,ÍBV,0,2023-05-13,https://www.goal.com/en/match/stjarnan-vs-ibv/57klec4vqf3uom47ealtxexhw
+Úrvalsdeild,Iceland,KA,0,Valur,4,2023-05-13,https://www.goal.com/en/match/ka-vs-valur/57grvzuoqf2sqovrgdebx9mac
+Úrvalsdeild,Iceland,KR,0,Breidablik,1,2023-05-13,https://www.goal.com/en/match/kr-vs-breidablik/57zqlqnwkdwlh47xqsqgegzkk
+1. Deild,Iceland,Vestri,2,ÍA,2,2023-05-13,https://www.goal.com/en/match/vestri-vs-ia/dazhj2p01rsx5hgnpac5a5nv8
+Ligat Ha'al,Israel,Sektzia,1,Sakhnin,1,2023-05-13,https://www.goal.com/en/match/sektzia-nes-tziona-vs-bnei-sakhnin/9mahr5z16ytszdp410oqmkrh0
+Ligat Ha'al,Israel,Bnei Raina,0,H Haifa,4,2023-05-13,https://www.goal.com/en/match/maccabi-bnei-raina-vs-hapoel-haifa/9mkdyt21np633cdbtdugoeh3o
+Ligat Ha'al,Israel,Hapoel Hadera,1,Hapoel TA,2,2023-05-13,https://www.goal.com/en/match/hapoel-hadera-vs-hapoel-tel-aviv/ailulhpjhm015ff28b29k97h0
+Ligat Ha'al,Israel,Kiryat Shmona,3,Beitar,2,2023-05-13,https://www.goal.com/en/match/ironi-kiryat-shmona-vs-beitar-jerusalem/9muab8ywqzyiagn6w7ogyfaqc
+Serie C,Italy,Vis Pesaro,N/A,Imolese,N/A,2023-05-13,https://www.goal.com/en/match/vis-pesaro-vs-imolese/58dmb461m230wesw48qmkzsb8
+Serie C,Italy,Messina,1,Gelbison,0,2023-05-13,https://www.goal.com/en/match/messina-vs-gelbison/58vc5w3e9laim780vsm56d8gk
+Serie C,Italy,Mantova,1,AlbinoLeffe,1,2023-05-13,https://www.goal.com/en/match/mantova-vs-albinoleffe/4x7uto5xd6i2nz308tlg08dg4
+Serie C,Italy,Alessandria,1,Tavarnelle,1,2023-05-13,https://www.goal.com/en/match/alessandria-vs-san-donato-tavarnelle/584s1zya4duvrgwrhd3mzr0gk
+Serie C,Italy,Sangiuliano,1,Triestina,2,2023-05-13,https://www.goal.com/en/match/sangiuliano-city-vs-triestina/4xhelxhky0vrgo6d7c2k5c7is
+Serie C,Italy,Reggiana,2,Catanzaro,2,2023-05-13,https://www.goal.com/en/match/reggiana-vs-catanzaro/4o973tdecbwvtzlp4kt091tsk
+Serie A Women,Italy,Internazionale,4,Fiorentina,0,2023-05-13,https://www.goal.com/en/match/internazionale-vs-fiorentina/2pm39qtameq394efhrd8ma6ms
+Serie A Women,Italy,Pomigliano,1,Sassuolo,2,2023-05-13,https://www.goal.com/en/match/pomigliano-vs-sassuolo/1xv5n6xew2arli33kdqqt711w
+Serie A Women,Italy,Milan,2,Roma,2,2023-05-13,https://www.goal.com/en/match/milan-vs-roma/3uhu7x1fkdu3t5ju8vdv4rv2s
+J2 League,Japan,Fagiano,1,Omiya,1,2023-05-13,https://www.goal.com/en/match/fagiano-okayama-vs-omiya-ardija/21wygl90tl7p8qog5xetnoqac
+J2 League,Japan,Renofa,2,Tokushima,2,2023-05-13,https://www.goal.com/en/match/renofa-yamaguchi-vs-tokushima-vortis/220zgqqws2n7ffnaswztxsg7o
+J2 League,Japan,Júbilo,4,ThespaKusatsu,2,2023-05-13,https://www.goal.com/en/match/jubilo-iwata-vs-thespakusatsu-gunma/22mw2lqyl97tk79tbix82cefo
+J2 League,Japan,Shimizu,5,Fujieda,0,2023-05-13,https://www.goal.com/en/match/shimizu-s-pulse-vs-fujieda-myfc/22iyb0dgpmtweqtyae84dbac4
+J2 League,Japan,Vegalta,2,Montedio,1,2023-05-13,https://www.goal.com/en/match/vegalta-sendai-vs-montedio-yamagata/22576c9swrermapwdzpvsp9uc
+J2 League,Japan,Ventforet,0,JEF Utd,1,2023-05-13,https://www.goal.com/en/match/ventforet-kofu-vs-jef-united/22951s4gm75pk3s4m4mcr58no
+J2 League,Japan,Zweigen,2,V-Varen,0,2023-05-13,https://www.goal.com/en/match/zweigen-kanazawa-vs-v-varen-nagasaki/22d07n9x9hceo4qcecxfpad5g
+J2 League,Japan,Oita,1,Kumamoto,1,2023-05-13,https://www.goal.com/en/match/oita-trinita-vs-roasso-kumamoto/22v9fbt8v7rnwr6zv59igk6j8
+J2 League,Japan,Tokyo Verdy,0,Machida,1,2023-05-13,https://www.goal.com/en/match/tokyo-verdy-vs-machida-zelvia/22rap7zk0jzazevwzzw8fsqvo
+J2 League,Japan,Mito,2,Tochigi,2,2023-05-13,https://www.goal.com/en/match/mito-hollyhock-vs-tochigi/22z12cfl3029slqunpsjywm50
+J3 League,Japan,Nara,0,Osaka,1,2023-05-13,https://www.goal.com/en/match/nara-club-vs-osaka/uzoazizppkil6swkxil937kk
+J3 League,Japan,YSCC,2,Sagamihara,2,2023-05-13,https://www.goal.com/en/match/yscc-vs-sagamihara/uvr4ye1ywz9pjsb81edmkcgk
+J3 League,Japan,Parceiro,2,Matsumoto,1,2023-05-13,https://www.goal.com/en/match/nagano-parceiro-vs-matsumoto-yamaga/v3vha3wdsagmsaa8yfpga710
+WE League,Japan,JEF Utd,4,Nojima Stella,0,2023-05-13,https://www.goal.com/en/match/jef-united-vs-nojima-stella/6appkg421rszsybz2jvd1h5g
+WE League,Japan,Omiya Ardija,0,Parceiro,2,2023-05-13,https://www.goal.com/en/match/omiya-ardija-ventus-vs-parceiro-nagano/677nrb8y3xi3kmxsdnd0rr4k
+K League 1,Korea Republic,Pohang,3,Daejeon,2,2023-05-13,https://www.goal.com/en/match/pohang-steelers-vs-daejeon-hana-citizen/b2xsu4wuh4axh1xh15kxxfzf8
+K League 1,Korea Republic,Gwangju,0,Daegu,2,2023-05-13,https://www.goal.com/en/match/gwangju-vs-daegu/b31asbofrrp58q5k6kr1mdhxw
+K League 1,Korea Republic,Gangwon,0,Suwon,2,2023-05-13,https://www.goal.com/en/match/gangwon-vs-suwon-bluewings/b34y8grobdg4e450vtv9fptsk
+K League 2,Korea Republic,Seoul E-Land,3,Cheonan City,2,2023-05-13,https://www.goal.com/en/match/seoul-e-land-vs-cheonan-city/7o7is1t1doet1ofo8t5gpv8k4
+K League 2,Korea Republic,Gimcheon,0,Anyang,0,2023-05-13,https://www.goal.com/en/match/gimcheon-sangmu-vs-anyang/7oal55qy3u27d9hr8w5std1jo
+K League 2,Korea Republic,Busan IPark,0,Bucheon,1,2023-05-13,https://www.goal.com/en/match/busan-ipark-vs-bucheon-1995/7odseswal6qp7ruq0m3jo2k2c
+Virsliga,Latvia,Metta,3,Tukums,2,2023-05-13,https://www.goal.com/en/match/metta-vs-tukums/4a9euzx936hnjh2a6dfwxvdas
+Virsliga,Latvia,RFS,4,Jelgava,0,2023-05-13,https://www.goal.com/en/match/rigas-fs-vs-fs-jelgava/4ajjifgu2xd13qppwnsmgh0r8
+A Lyga,Lithuania,Dainava,5,Riteriai,0,2023-05-13,https://www.goal.com/en/match/dainava-vs-riteriai/tlkj6vn07cchdc1vk8v4chzo
+A Lyga,Lithuania,Panevėžys,0,Sūduva,0,2023-05-13,https://www.goal.com/en/match/panev-zys-vs-suduva/tcdlb50v2kk00ndtszbi0b2s
+Super Liga,Moldova,Milsami,1,CSF Bălți,0,2023-05-13,https://www.goal.com/en/match/milsami-vs-csf-balti/dlagwwsp8rtl4trf0fqdlrwgk
+Tweede Divisie,Netherlands,HHC,4,Lisse,2,2023-05-13,https://www.goal.com/en/match/hhc-vs-lisse/8fix2ky75h5q1m1aub5obemtw
+Tweede Divisie,Netherlands,Maassluis,3,OFC,1,2023-05-13,https://www.goal.com/en/match/excelsior-maassluis-vs-ofc/8ff8lwfri3rw67f2vf4mno6j8
+Tweede Divisie,Netherlands,AFC,1,Quick Boys,0,2023-05-13,https://www.goal.com/en/match/afc-vs-quick-boys/8fxt78uo2oiu1hbhn8alweuj8
+Tweede Divisie,Netherlands,IJsselmeervoge,0,Noordwijk,2,2023-05-13,https://www.goal.com/en/match/ijsselmeervogels-vs-noordwijk/8fqb4iwwritndgcolah7yhc7o
+Tweede Divisie,Netherlands,Rijnsburg,1,Spakenburg,0,2023-05-13,https://www.goal.com/en/match/rijnsburgse-boys-vs-spakenburg/8fmmc5f9xpoboptoto579395g
+Tweede Divisie,Netherlands,HFC,1,Sparta II,0,2023-05-13,https://www.goal.com/en/match/koninklijke-hfc-vs-sparta-rotterdam-ii/8g51n17p0aag5ou6x9k7ee0wk
+Tweede Divisie,Netherlands,Katwijk,1,Kozakken Boys,0,2023-05-13,https://www.goal.com/en/match/katwijk-vs-kozakken-boys/8fu24kauyr76bucyz0vuna1p0
+Tweede Divisie,Netherlands,Treffers,1,Scheveningen,1,2023-05-13,https://www.goal.com/en/match/de-treffers-vs-scheveningen/8g1g7uhjm15al6rtcqwheoowk
+Premiership,Northern Ireland,Glentoran,2,Cliftonville,0,2023-05-13,https://www.goal.com/en/match/glentoran-vs-cliftonville/2a1yp6uplfs8y4p34tjicr1uc
+1. Division,Norway,Åsane,2,Sogndal,3,2023-05-13,https://www.goal.com/en/match/asane-vs-sogndal/8xzikm2pwian43wdnlw3vl7v8
+1. Division,Norway,Bryne,2,Mjøndalen,1,2023-05-13,https://www.goal.com/en/match/bryne-vs-mjondalen/8xalca0pj2tegkk92o7186jv8
+1. Division,Norway,Hødd,1,Moss,1,2023-05-13,https://www.goal.com/en/match/hodd-vs-moss/8xfihdfhtsvl44kzarrfvedck
+1. Division,Norway,Jerv,1,Fredrikstad,1,2023-05-13,https://www.goal.com/en/match/jerv-vs-fredrikstad/8xitsyssakzoqsk9gt2kbrml0
+1. Division,Norway,KFUM,2,Kongsvinger,0,2023-05-13,https://www.goal.com/en/match/kfum-vs-kongsvinger/8xm7c659e4wlzh5ssfv891tsk
+1. Division,Norway,Raufoss,0,Ranheim,0,2023-05-13,https://www.goal.com/en/match/raufoss-vs-ranheim/8xpjpi91vt2gd9fz4naf8vytw
+1. Division,Norway,Skeid,1,Start,4,2023-05-13,https://www.goal.com/en/match/skeid-vs-start/8xw8uitdh8ph81es23i94lxqs
+2. Division,Norway,Træff,2,Vard,2,2023-05-13,https://www.goal.com/en/match/traeff-vs-vard/80e33257icjzdnua47jbpjrbo
+2. Division,Norway,Gjøvik-Lyn,0,Levanger,1,2023-05-13,https://www.goal.com/en/match/gjovik-lyn-vs-levanger/11mxvd653vpaugf64u2cj7qqc
+2. Division,Norway,Arendal,2,Lyn,1,2023-05-13,https://www.goal.com/en/match/arendal-vs-lyn/80kqxfhpz6emcw1vf3yrjuexg
+2. Division,Norway,Ørn Horten,1,IF Fram,1,2023-05-13,https://www.goal.com/en/match/orn-horten-vs-if-fram/80ho6tphydo8xmujcevri3thw
+2. Division,Norway,Strømmen,2,Sotra,1,2023-05-13,https://www.goal.com/en/match/strommen-vs-sotra/11jvc04gpnv3obeg4og5s5kb8
+2. Division,Norway,Fløy-Flekkerøy,0,Grorud,1,2023-05-13,https://www.goal.com/en/match/floy-flekkeroy-vs-grorud/80ap7j7begyfha2dtbjj4tpg4
+Division Profesional,Paraguay,Sportivo Amel.,2,Tacuary,1,2023-05-13,https://www.goal.com/en/match/sportivo-ameliano-vs-tacuary/c7cvvulgvxij7ysrflrohoyl0
+Division Profesional,Paraguay,Libertad,2,Trinidense,1,2023-05-13,https://www.goal.com/en/match/libertad-vs-sportivo-trinidense/c79b8gsa8n5fql1e7q60nybkk
+Primera División,Peru,Binacional,1,ADT,0,2023-05-13,https://www.goal.com/en/match/deportivo-binacional-vs-adt/3gy6py67p2hi8mmvsh6bmsgt0
+Primera División,Peru,Unión Comercio,1,Sp. Cristal,6,2023-05-13,https://www.goal.com/en/match/union-comercio-vs-sporting-cristal/3gohv10nr5jsxlmfgsj3y1st0
+I Liga,Poland,GKS Katowice,2,Puszcza,2,2023-05-13,https://www.goal.com/en/match/gks-katowice-vs-puszcza-niepolomice/5yt5z6eur946rsd6zcyxwbrx0
+I Liga,Poland,Arka,0,Ruch,2,2023-05-13,https://www.goal.com/en/match/arka-gdynia-vs-ruch-chorzow/5z0lz5rgdqp74gss46r5y70us
+I Liga,Poland,Odra,2,Stal Rzeszów,0,2023-05-13,https://www.goal.com/en/match/odra-opole-vs-stal-rzeszow/5ywvd5f4vnofu3k5e89wcjw9g
+Segunda Liga,Portugal,Belenenses,2,Mafra,2,2023-05-13,https://www.goal.com/en/match/belenenses-vs-mafra/2lbzr7oir81qs7wtglx4ddno4
+Segunda Liga,Portugal,Feirense,1,Benfica II,2,2023-05-13,https://www.goal.com/en/match/feirense-vs-benfica-ii/2lw6qke7jh79ur4142ck5rhg4
+Premier Division,Republic of Ireland,Sligo,0,Shelbourne,3,2023-05-13,https://www.goal.com/en/match/sligo-rovers-vs-shelbourne/eq4eoh6wpgqsmcla9dbw6rh90
+First Division,Republic of Ireland,Longford,0,Treaty United,3,2023-05-13,https://www.goal.com/en/match/longford-town-vs-treaty-united/42xrthmp0f79zbzp96hbw8hec
+Liga I,Romania,Petrolul 52,0,Hermannstadt,1,2023-05-13,https://www.goal.com/en/match/petrolul-52-vs-hermannstadt/9vabl9rz4ovh1apb0r6dv86j8
+Liga I,Romania,U Cluj,2,Chindia,0,2023-05-13,https://www.goal.com/en/match/universitatea-cluj-vs-chindia-targoviste/9vjo8q8duvhk9jwp2c0os5bmc
+Liga I,Romania,U Craiova,1,Farul,1,2023-05-13,https://www.goal.com/en/match/universitatea-craiova-vs-fcv-farul-constanta/2jollnthwn0b4qx7xsor0i87o
+Play-offs 2/3,Scotland,Falkirk,0,Airdrieonians,1,2023-05-13,https://www.goal.com/en/match/falkirk-vs-airdrieonians/1sfrbbp4kdmlethsi07grxuz8
+Play-offs 2/3,Scotland,Hamilton,5,Alloa Athletic,2,2023-05-13,https://www.goal.com/en/match/hamilton-academical-vs-alloa-athletic/1s8egiuksvd56hnal08q41jpw
+Play-offs 3/4,Scotland,Dumbarton,0,Annan,0,2023-05-13,https://www.goal.com/en/match/dumbarton-vs-annan-athletic/dfj5rrce089qcm3je0wj2bpxw
+Play-offs 4/5,Scotland,Spartans,1,Albion,1,2023-05-13,https://www.goal.com/en/match/spartans-vs-albion-rovers/6m6t0wbqgdn2vv1gn7bf2kbo4
+Super Liga,Serbia,Čukarički,4,Novi Pazar,0,2023-05-13,https://www.goal.com/en/match/cukaricki-vs-novi-pazar/dvg8r4kh61zdwmxs1wmbt1kb8
+Super Liga,Serbia,Crvena Zvezda,2,Vojvodina,1,2023-05-13,https://www.goal.com/en/match/crvena-zvezda-vs-vojvodina/dvphlesxyc8mm0mqr0eer455g
+Super Liga,Serbia,TSC,2,Voždovac,0,2023-05-13,https://www.goal.com/en/match/tsc-vs-vozdovac/dv6y5ne0piaqrl456jhj178yc
+Premier League,Singapore,DPMM,3,Lion City,3,2023-05-13,https://www.goal.com/en/match/dpmm-vs-lion-city-sailors/diyg2dvsvvbizytbd0kl7c6c4
+Super Liga,Slovakia,Banská Bystric,1,Slovan,2,2023-05-13,https://www.goal.com/en/match/dukla-banska-bystrica-vs-slovan-bratislava/bj16rzj8bx4je36blzeb08kk4
+Super Liga,Slovakia,Podbrezová,0,Spartak,3,2023-05-13,https://www.goal.com/en/match/podbrezova-vs-spartak-trnava/bjc7mougnnm5ra72mlagneaz8
+Super Liga,Slovakia,Žilina,0,DAC 1904,1,2023-05-13,https://www.goal.com/en/match/zilina-vs-dac-1904/biqlbdwsncmgi1g5yr4g8aivo
+Super Liga,Slovakia,Ružomberok,2,Zemplín,0,2023-05-13,https://www.goal.com/en/match/ruzomberok-vs-zemplin-michalovce/dkmayju6st7gcimoisito8e8k
+Super Liga,Slovakia,Skalica,4,L. Mikuláš,0,2023-05-13,https://www.goal.com/en/match/skalica-vs-liptovsky-mikulas/dl32bg1yz7v7ujp2tugrciv4k
+1. SNL,Slovenia,Mura,4,Gorica,2,2023-05-13,https://www.goal.com/en/match/mura-vs-gorica/e8j8m7wj4mpvvb68iwvfr1r10
+1. SNL,Slovenia,Domžale,2,Olimpija,1,2023-05-13,https://www.goal.com/en/match/domzale-vs-olimpija/e8rtf0nw1fzhv6ja9wjal8e1g
+1. SNL,Slovenia,Celje,2,Koper,0,2023-05-13,https://www.goal.com/en/match/celje-vs-koper/e8njgjpp38z4uxrt0ch1rs7x0
+PSL,South Africa,Arrows,1,AmaZulu,0,2023-05-13,https://www.goal.com/en/match/golden-arrows-vs-amazulu/2dacnp1jhl14omupyt4cpp3bo
+PSL,South Africa,Cape Town City,2,Richards Bay,0,2023-05-13,https://www.goal.com/en/match/cape-town-city-vs-richards-bay/2d5jhmg4zgie7xkj2gstp6mtw
+PSL,South Africa,Maritzburg Utd,1,Stellenbosch,0,2023-05-13,https://www.goal.com/en/match/maritzburg-united-vs-stellenbosch/2df9yfslqbrtevqansntiwx78
+PSL,South Africa,Pirates,1,Sekhukhune Utd,1,2023-05-13,https://www.goal.com/en/match/orlando-pirates-vs-sekhukhune-united/2dp0u1a82ez0zd9qhyphwq9ec
+PSL,South Africa,Royal AM,0,Swallows,1,2023-05-13,https://www.goal.com/en/match/royal-am-vs-moroka-swallows/2dtv65qfi7xtcdm7emf2ido9g
+PSL,South Africa,SuperSport Utd,1,Kaizer Chiefs,0,2023-05-13,https://www.goal.com/en/match/supersport-united-vs-kaizer-chiefs/2dyvhioy1to9sv36idpdnjwgk
+PSL,South Africa,TS Galaxy,4,Chippa Utd,0,2023-05-13,https://www.goal.com/en/match/ts-galaxy-vs-chippa-united/2e3viqsfxs8nioqgg1sf7f47o
+Segunda División,Spain,Gijón,1,Real Oviedo,1,2023-05-13,https://www.goal.com/en/match/sporting-gijon-vs-real-oviedo/353lbgwfnz5jgicc7ssi74c9g
+Segunda División,Spain,Granada,2,Lugo,0,2023-05-13,https://www.goal.com/en/match/granada-vs-lugo/347y1y40rqttjmkiw9w5ntams
+Segunda División,Spain,Zaragoza,2,Cartagena,0,2023-05-13,https://www.goal.com/en/match/real-zaragoza-vs-fc-cartagena/34r0yteye9j0qt5y33dfkb9qs
+Segunda División,Spain,Málaga,2,Mirandés,0,2023-05-13,https://www.goal.com/en/match/malaga-vs-mirandes/34ixw5htofwjt6qns3bveynmc
+Primera División Femenina,Spain,Alhama,0,Huelva,0,2023-05-13,https://www.goal.com/en/match/alhama-vs-sporting-de-huelva/cp7bc9rtdetfjfeehbrks43dg
+Primera División Femenina,Spain,Barcelona,3,Athletic Club,0,2023-05-13,https://www.goal.com/en/match/barcelona-vs-athletic-club/cowoqzkyf7619peo9p4gxmuqc
+Primera División Femenina,Spain,Betis,1,Alavés,1,2023-05-13,https://www.goal.com/en/match/real-betis-vs-deportivo-alaves/cp0aap3xouf0lxolifeg0yz2s
+Primera División Femenina,Spain,Las Planas,1,Sociedad,0,2023-05-13,https://www.goal.com/en/match/levante-las-planas-vs-real-sociedad/cp3qi3njnjzqn51zo7pd5wahg
+Primera División Femenina,Spain,Villarreal,1,Atl. Madrid,1,2023-05-13,https://www.goal.com/en/match/villarreal-vs-atletico-madrid/cpelkvbtromyc8jc6m50cr9qs
+Superettan,Sweden,Öster,1,GAIS,2,2023-05-13,https://www.goal.com/en/match/oester-vs-gais/csnih7ssylrp91qxth9ab3pck
+Superettan,Sweden,Västerås,0,Landskrona,0,2023-05-13,https://www.goal.com/en/match/vaesteras-sk-vs-landskrona/cs0lqwcxasz4ilhqxopb0795g
+Ettan,Sweden,ÖSIF,3,Piteå,3,2023-05-13,https://www.goal.com/en/match/oerebro-syrianska-vs-pitea/3lflseo1zupepfa7c8w70fuvo
+Ettan,Sweden,Stockholm Int.,0,Dalkurd,1,2023-05-13,https://www.goal.com/en/match/stockholm-inter-vs-dalkurd/3l5vjy67w9pf1avgagq4zna50
+Ettan,Sweden,Boden,0,Sandviken,2,2023-05-13,https://www.goal.com/en/match/boden-vs-sandviken/3kroqh90r9ubvkbgg97xfbyfo
+Ettan,Sweden,Hammarby TFF,3,Umeå,2,2023-05-13,https://www.goal.com/en/match/hammarby-talang-vs-umea/3kwhmmnxkcwi85840kogwi49g
+Ettan,Sweden,IF Karlstad,2,Motala,3,2023-05-13,https://www.goal.com/en/match/if-karlstad-vs-motala/3kzkeoapkq64djpjh7kcti1p0
+Ettan,Sweden,Sylvia,1,United Nordic,3,2023-05-13,https://www.goal.com/en/match/sylvia-vs-united-nordic/3l2p9s948mpwaqfvrw25zk9w4
+Ettan,Sweden,Ahlafors,1,Torns,1,2023-05-13,https://www.goal.com/en/match/ahlafors-vs-torns/5h0pgkaqd6at9f4pivkp4sfmc
+Ettan,Sweden,Åtvidaberg,2,Ariana,0,2023-05-13,https://www.goal.com/en/match/atvidaberg-vs-ariana/5hoi87plluhedffda6icpkpas
+Ettan,Sweden,Oskarshamn,3,Ljungskile,2,2023-05-13,https://www.goal.com/en/match/oskarshamns-aik-vs-ljungskile/5hf6l9eatnvwrfm1j86typwd0
+Ettan,Sweden,Trollhättan,5,Olympic,0,2023-05-13,https://www.goal.com/en/match/trollhaettan-vs-olympic/5h5nwez9srlumf66ge5z4gw0k
+Challenge League,Switzerland,Yverdon,1,Thun,0,2023-05-13,https://www.goal.com/en/match/yverdon-sport-vs-thun/ckolj7lbqkvjk115o1398j0no
+Persha Liga,Ukraine,SK Poltava,0,FSC Mariupol,4,2023-05-13,https://www.goal.com/en/match/sk-poltava-vs-fsc-mariupol/exyqrt1b5u0d8tweo8y08q5g4
+Persha Liga,Ukraine,Epitsentr,0,LNZ Cherkasy,2,2023-05-13,https://www.goal.com/en/match/epitsentr-dunayivtsi-vs-lnz-cherkasy/4pnkvwfucls3cu1tykusfn7ro
+Persha Liga,Ukraine,Hirnyk-Sport,1,Dinaz V.,1,2023-05-13,https://www.goal.com/en/match/hirnyk-sport-vs-dinaz-vyshhorod/ey4r8z2zn7ge9r6f3loo8oqvo
+Persha Liga,Ukraine,Karpaty Lviv,0,Metalurh,1,2023-05-13,https://www.goal.com/en/match/karpaty-lviv-vs-metalurh-zaporizhya/4pktbyyybeepk1by39xjl1iqc
+Pro League,United Arab Emirates,Shabab Al Ahli,1,Ajman,0,2023-05-13,https://www.goal.com/en/match/shabab-al-ahli-vs-ajman/b9ydllmz89kkymfpm8ntddgk4
+MLS Next Pro,USA,Chicago Fire,1,Huntsville,1,2023-05-13,https://www.goal.com/en/match/chicago-fire-ii-vs-huntsville-city/1irnxasv4034w3y2mrf4h3z84
+MLS Next Pro,USA,Earthquakes II,0,North Texas,0,2023-05-13,https://www.goal.com/en/match/san-jose-earthquakes-ii-vs-north-texas/1j19hidps52ycmbkifkm6yzh0
+NWSL,USA,Racing Lou,3,Red Stars,0,2023-05-13,https://www.goal.com/en/match/racing-louisville-vs-chicago-red-stars/8144nz86pmzvotpgmguykdedw
+NWSL,USA,Dash,2,Thorns,1,2023-05-13,https://www.goal.com/en/match/houston-dash-vs-portland-thorns/81dowxtqj4p0hx7ycel9r8qac
+Primera División,Venezuela,Metropolitanos,2,Colmenárez,3,2023-05-13,https://www.goal.com/en/match/metropolitanos-vs-hermanos-colmenarez/1937kh5k58wd704iqspfkxqtw
+Primera División,Venezuela,Zamora,1,Puerto Cabello,3,2023-05-13,https://www.goal.com/en/match/zamora-vs-academia-puerto-cabello/19cnnkpicx62qpge3858u4vf8
+Primera División,Venezuela,Rayo Zuliano,1,Monagas,0,2023-05-13,https://www.goal.com/en/match/rayo-zuliano-vs-monagas/18tvkwsgjn2ikmnu2o02hyu50
+Premier League,Wales,Newtown,1,Haverfordwest,1,2023-05-13,https://www.goal.com/en/match/newtown-vs-haverfordwest-county/5wvpmf9oeiihw7j9oliu47yfo
