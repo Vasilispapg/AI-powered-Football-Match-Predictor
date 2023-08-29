@@ -7,6 +7,8 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 import csv
 import os
 import json
+from concurrent.futures import ThreadPoolExecutor,wait
+
 
 
 # this is a way to run the script from a batch file and from python script
@@ -40,7 +42,7 @@ def getStats(driver):
 
     # Find all the h3 elements containing stat categories
     
-    stat_categories = WebDriverWait(driver, 20).until(
+    stat_categories = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.TAG_NAME, "h3"))
     )
     # Initialize a dictionary to store the stats
@@ -52,7 +54,7 @@ def getStats(driver):
         if(i<2):
             continue
         else:
-            ul_element = WebDriverWait(driver, 15).until(
+            ul_element = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.XPATH, f"/html/body/div/div/div[2]/main/div[2]/div[{i}]/ul")))        
         
             # Find all li elements within the ul element
@@ -133,13 +135,13 @@ def proccess(file_path):
     options.set_preference("network.cookie.cookieBehavior", 0)
     driver = webdriver.Firefox(options=options, executable_path=geckodriver_path,firefox_profile=profile)
     
-
     data=[]
     # Process each URL and store additional information
     output_csv_filename = file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]
+    output_csv_filepath = file_path.replace("matches_detailed","matches_detailed_processed")
     temp_file=loadJSON(temp_json_path+file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]+'.json')
 
-    if(os.path.exists(output_csv_filename)):
+    if(os.path.exists(output_csv_filepath)):
         return
     counter=1
     with open(file_path, "r", newline="", encoding="utf-8") as csvfile:
@@ -156,20 +158,12 @@ def proccess(file_path):
             row['Stats']={}
             row['Votes']=[]
 
-            # iterator=0
-            # while iterator < 3:
             try:
                 row['Stats']=getStats(driver)
                 row['Votes']=getVotes(driver, row['Home Team'], row['Away Team'])
             except:
                 row['Stats']={}
                 row['Votes']=[]
-                    # iterator+=1
-                    # if iterator == 3:
-                    #     print("Maximum number of retries reached. Skipping this URL.")
-                    #     break
-                    # else:
-                    #     driver.refresh()
                         
             data.append(row)
             temp_file[counter]=row
@@ -182,14 +176,13 @@ def proccess(file_path):
     
 
     # Write the data to a new CSV file
-    with open(output_csv_filename, "w", newline="", encoding="utf-8") as csvfile:
+    with open(output_csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ['Competition', 'Country', 'Home Team', 'Home Score', 'Away Team', 'Away Score', 'Date', 'URL', 'Votes','Stats']
         csv_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         csv_writer.writeheader()
         csv_writer.writerows(data)
         
-    temp_file={}
-    importJSON(temp_json_path+output_csv_filename+'.json',temp_file)
+    os.remove(temp_json_path+output_csv_filename+'.json')
     # clear the temp file
 
     print(f"Data has been processed and saved to {output_csv_filename}")
@@ -207,5 +200,14 @@ def main(file_list):
 
 os.makedirs(output_folder, exist_ok=True)
 file_list = os.listdir(folder_path)
+file_list=sorted(file_list)
 
-main(sorted(file_list))
+futures=[]
+with ThreadPoolExecutor(max_workers=8) as executor:
+    futures.append( executor.submit(main, file_list[int((len(file_list)/2)):]) )
+    futures.append(executor.submit(main, file_list[:int((len(file_list)/2))]))
+    futures.append(executor.submit(main, file_list[int((len(file_list)/4)):]))
+    futures.append(executor.submit(main, file_list[int((len(file_list)/2.5)):]))
+    
+    # Wait for the tasks to complete
+futures.wait()
