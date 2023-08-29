@@ -1,0 +1,30 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date,URL,Votes,Stats
+I-League,India,Rajasthan Utd,1,Gokulam Kerala,2,2023-02-15,https://www.goal.com/en/match/rajasthan-united-vs-gokulam-kerala/3eh72fo9zxsug96j3zp7bqrro,[],{}
+Liga 1,Indonesia,Madura Utd,1,Persita,1,2023-02-15,https://www.goal.com/en/match/madura-united-vs-persita/k8pl6aqxjt3j9jh0oo593dw4,[],{}
+Serie C,Italy,Vis Pesaro,1,Pontedera,1,2023-02-15,https://www.goal.com/en/match/vis-pesaro-vs-pontedera/5bbsn276gup6n3o9yfut49wr8,"[['Vis Pesaro', 'Draw', 'Pontedera'], ['55', '116', '46']]","{'Corners': ['1', '3'], 'Fouls': ['21', '24']}"
+Serie C,Italy,Siena,2,Torres,2,2023-02-15,https://www.goal.com/en/match/siena-vs-torres/5g22tqoevfpmtevwm8zqc3cic,"[['Siena', 'Draw', 'Torres'], ['80', '105', '47']]","{'Corners': ['5', '4'], 'Fouls': ['19', '20']}"
+Liga de Expansión MX,Mexico,Correcaminos,1,Morelia,1,2023-02-15,https://www.goal.com/en/match/correcaminos-uat-vs-atletico-morelia/ce40qbyfylb6c30godhanyjh0,[],{}
+Liga de Expansión MX,Mexico,Venados FC,1,Cimarrones,0,2023-02-15,https://www.goal.com/en/match/venados-fc-vs-cimarrones-de-sonora/ce7xeudgs3d5sx1ywld8p6txw,[],{}
+Liga de Expansión MX,Mexico,Dorados,1,Tlaxcala,2,2023-02-15,https://www.goal.com/en/match/dorados-vs-tlaxcala/cebwpz8ed2oefq5wutgpnjq50,[],{}
+Concacaf U17,N/C America,Guadeloupe,2,Jamaica,1,2023-02-15,https://www.goal.com/en/match/guadeloupe-u17-vs-jamaica-u17/16nw310lyyb51bbaop0oxn11w,[],{}
+Concacaf U17,N/C America,Suriname,0,Haiti,3,2023-02-15,https://www.goal.com/en/match/suriname-u17-vs-haiti-u17/2va2ldw2yl29xwt57dym2mjh0,[],{}
+Concacaf U17,N/C America,Cuba,0,Costa Rica,4,2023-02-15,https://www.goal.com/en/match/cuba-u17-vs-costa-rica-u17/16qlboflcelxyj012g79fjuvo,[],{}
+Concacaf U17,N/C America,El Salvador,1,Honduras,4,2023-02-15,https://www.goal.com/en/match/el-salvador-u17-vs-honduras-u17/2vd0yncwojcp5m1acmonptxxw,[],{}
+NPFL,Nigeria,Bendel Ins.,1,Nasarawa Utd,0,2023-02-15,https://www.goal.com/en/match/bendel-insurance-vs-nasarawa-united/3xa2nv48kk4po2whi1me30etw,[],{}
+NPFL,Nigeria,Dakkada,2,Sunshine,1,2023-02-15,https://www.goal.com/en/match/dakkada-vs-sunshine-stars/1pi45q232l9mjeh3ewc7a0cno,[],{}
+NPFL,Nigeria,Doma United,1,Abia,0,2023-02-15,https://www.goal.com/en/match/doma-united-vs-abia-warriors/1pqkaz2updopdjjv4bnqrp7o4,[],{}
+NPFL,Nigeria,Enyimba,2,Shooting Stars,0,2023-02-15,https://www.goal.com/en/match/enyimba-vs-shooting-stars/6fhbcj798dji10veiwbi1nrx0,"[['Enyimba', 'Draw', 'Shooting Stars'], ['27', '28', '11']]","{'Corners': ['2', '0'], 'Fouls': ['14', '21']}"
+NPFL,Nigeria,Kwara Utd,0,Remo Stars,0,2023-02-15,https://www.goal.com/en/match/kwara-united-vs-remo-stars/a3h2f56z1jwkzzhf09nxqopp0,[],{}
+NPFL,Nigeria,Plateau Utd,5,Warriors,0,2023-02-15,https://www.goal.com/en/match/plateau-united-vs-el-kanemi-warriors/590p6l82j3ocb8pnxbeggnndg,[],{}
+NPFL,Nigeria,Tornadoes,1,Bayelsa Utd,1,2023-02-15,https://www.goal.com/en/match/niger-tornadoes-vs-bayelsa-united/1pe8icee0z5dj738ntv70mm8k,[],{}
+NPFL,Nigeria,Wikki,2,Lobi Stars,1,2023-02-15,https://www.goal.com/en/match/wikki-tourist-vs-lobi-stars/1pm2k4h7ow32m5si5n9tp0844,[],{}
+Stars League,Qatar,Arabi,1,Shamal,0,2023-02-15,https://www.goal.com/en/match/al-arabi-vs-al-shamal/886qdirulo3gac208pzkoenf8,"[['Arabi', 'Draw', 'Shamal'], ['113', '103', '35']]","{'Ball possession': ['57.3%', '42.7%'], 'Total shots': ['12', '9'], 'Corners': ['5', '3'], 'Fouls': ['10', '10']}"
+Stars League,Qatar,Wakrah,1,Qatar,2,2023-02-15,https://www.goal.com/en/match/al-wakrah-vs-qatar-sc/88a3dz0p801ohzb2pz10x1p1w,"[['Wakrah', 'Draw', 'Qatar'], ['61', '124', '92']]","{'Ball possession': ['56.2%', '43.8%'], 'Total shots': ['17', '11'], 'Corners': ['4', '6'], 'Fouls': ['11', '11']}"
+Stars League,Qatar,Gharafa,1,Sadd,3,2023-02-15,https://www.goal.com/en/match/al-gharafa-vs-al-sadd/88f5j9xbtv0fgnl17hubhb40k,"[['Gharafa', 'Draw', 'Sadd'], ['51', '141', '134']]","{'Ball possession': ['41.2%', '58.8%'], 'Total shots': ['4', '20'], 'Corners': ['1', '6'], 'Fouls': ['9', '11']}"
+Cup,Tunisia,Tunis,2,Jerba,1,2023-02-15,https://www.goal.com/en/match/es-tunis-vs-jerba/43d2md9445ftwe1ukzsoq2ac,"[['Tunis', 'Draw', 'Jerba'], ['82', '75', '31']]","{'Corners': ['9', '2'], 'Fouls': ['17', '7']}"
+Cup,Tunisia,USBG,1,Monastir,0,2023-02-15,https://www.goal.com/en/match/ben-guerdane-vs-monastir/390xuylut5oy2yquuz4a8r9w,"[['USBG', 'Draw', 'Monastir'], ['51', '78', '37']]","{'Corners': ['8', '1'], 'Fouls': ['13', '18']}"
+Friendlies Women,World,Costa Rica,1,Colombia,1,2023-02-15,https://www.goal.com/en/match/costa-rica-vs-colombia/cp6dhsjxy8ifbexov75wpkcno,"[['Costa Rica', 'Draw', 'Colombia'], ['7', '24', '32']]","{'Ball possession': ['40.4%', '59.6%'], 'Total shots': ['8', '9'], 'Corners': ['1', '3'], 'Fouls': ['13', '17']}"
+Tournoi de France,World,Norway,1,Uruguay,0,2023-02-15,https://www.goal.com/en/match/norway-vs-uruguay/1bklqyvell2wk4wk622g2rl78,[],{}
+Tournoi de France,World,France,1,Denmark,0,2023-02-15,https://www.goal.com/en/match/france-vs-denmark/1be7h8qn7ae8f1ls2p34vd15g,"[['France', 'Draw', 'Denmark'], ['49', '39', '11']]",
+Pinatar Cup,World,Iceland,2,Scotland,0,2023-02-15,https://www.goal.com/en/match/iceland-vs-scotland/83js7jpl04d8x7g2tf14t8nis,"[['Iceland', 'Draw', 'Scotland'], ['13', '30', '10']]","{'Corners': ['2', '6'], 'Fouls': ['6', '8']}"
+Pinatar Cup,World,Wales,1,Philippines,0,2023-02-15,https://www.goal.com/en/match/wales-vs-philippines/83qairf5avg8hm85nyb7u1qfo,"[['Wales', 'Draw', 'Philippines'], ['33', '34', '16']]",
