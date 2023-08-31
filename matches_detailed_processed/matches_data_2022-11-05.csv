@@ -1,0 +1,415 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date,URL,Votes,Stats
+Premier League,England,Leeds,4,Bournemouth,3,2022-11-05,https://www.goal.com/en/match/leeds-united-vs-afc-bournemouth/7npusiepu14ka85083erryxp0,[],{}
+Premier League,England,Man City,2,Fulham,1,2022-11-05,https://www.goal.com/en/match/manchester-city-vs-fulham/7ntosqn2ex2tprudcgvooslxw,[],{}
+Premier League,England,Nottm Forest,2,Brentford,2,2022-11-05,https://www.goal.com/en/match/nottingham-forest-vs-brentford/7nxieumke8mopwocdjg4bn8k4,[],{}
+Premier League,England,Wolves,2,Brighton,3,2022-11-05,https://www.goal.com/en/match/wolverhampton-wanderers-vs-brighton-and-hove-albion/7od422xubdnl6sr7s343d7z10,[],{}
+Premier League,England,Everton,0,Leicester,2,2022-11-05,https://www.goal.com/en/match/everton-vs-leicester-city/7nm1b7w425tyx4j0yzpn7hb84,[],{}
+La Liga,Spain,Getafe,0,Cádiz,0,2022-11-05,https://www.goal.com/en/match/getafe-vs-cadiz/9if6oitpyczmbtkjv2tpjssgk,[],{}
+La Liga,Spain,Valladolid,2,Elche,1,2022-11-05,https://www.goal.com/en/match/real-valladolid-vs-elche/9i7bh8y4v4ahzel7lg53jevis,[],{}
+La Liga,Spain,Celta Vigo,1,Osasuna,2,2022-11-05,https://www.goal.com/en/match/celta-de-vigo-vs-osasuna/9hs0347n6ei540hi688lhv310,[],{}
+La Liga,Spain,Barcelona,2,Almería,0,2022-11-05,https://www.goal.com/en/match/barcelona-vs-almeria/9ij05vwi1ripwfnx27axgxzis,[],{}
+Serie A,Italy,Empoli,1,Sassuolo,0,2022-11-05,https://www.goal.com/en/match/empoli-vs-sassuolo/4wkpbj4z6w8q43ck1hnq33klw,[],{}
+Serie A,Italy,Salernitana,2,Cremonese,2,2022-11-05,https://www.goal.com/en/match/salernitana-vs-cremonese/4wrz9p5wlgqqaxncgxku3piqc,[],{}
+Serie A,Italy,Atalanta,1,Napoli,2,2022-11-05,https://www.goal.com/en/match/atalanta-vs-napoli/4wdm622el9j7gj7jdsikp76l0,[],{}
+Serie A,Italy,Milan,2,Spezia,1,2022-11-05,https://www.goal.com/en/match/milan-vs-spezia/4wocj0pir5ktvckk3fty4rz10,[],{}
+Bundesliga,Germany,Augsburg,1,Frankfurt,2,2022-11-05,https://www.goal.com/en/match/augsburg-vs-eintracht-frankfurt/dkaaew39fbp8yu5mqzhcqqkus,[],{}
+Bundesliga,Germany,Dortmund,3,Bochum,0,2022-11-05,https://www.goal.com/en/match/borussia-dortmund-vs-bochum/djmfqq4lj8kqswl59gsoj6ln8,[],{}
+Bundesliga,Germany,Hertha BSC,2,Bayern München,3,2022-11-05,https://www.goal.com/en/match/hertha-bsc-vs-bayern-muenchen/dke1we2ba8ky5rqin1gu8a7tg,[],{}
+Bundesliga,Germany,Hoffenheim,1,Leipzig,3,2022-11-05,https://www.goal.com/en/match/hoffenheim-vs-rb-leipzig/dk291rspyjv4mto7k2porzm6s,[],{}
+Bundesliga,Germany,Mainz 05,0,Wolfsburg,3,2022-11-05,https://www.goal.com/en/match/mainz-05-vs-wolfsburg/djyazqgs1ay9u5baxffkytces,[],{}
+Bundesliga,Germany,Bremen,2,Schalke 04,1,2022-11-05,https://www.goal.com/en/match/werder-bremen-vs-schalke-04/dkhsdsm9jh1yfn7bf3f2tj21g,[],{}
+Ligue 1,France,Ajaccio,4,Strasbourg,2,2022-11-05,https://www.goal.com/en/match/ajaccio-vs-strasbourg/tdsuleq1plhtw3gz44ewn2tw,[],{}
+Ligue 1,France,Angers,1,Lens,2,2022-11-05,https://www.goal.com/en/match/angers-sco-vs-lens/thntp3tq9qflimftg8b6iwb8,[],{}
+Championship,England,Sheff Utd,5,Burnley,2,2022-11-05,https://www.goal.com/en/match/sheffield-united-vs-burnley/5yvrct9a3jtw7h67z5y84m4us,[],{}
+Championship,England,Blackburn,1,Huddersfield,0,2022-11-05,https://www.goal.com/en/match/blackburn-rovers-vs-huddersfield-town/5y6jq8uhdaw9w8051o6alxes4,[],{}
+Championship,England,Blackpool,0,Luton,1,2022-11-05,https://www.goal.com/en/match/blackpool-vs-luton-town/5ya35ob60d8seba485if70jkk,[],{}
+Championship,England,Middlesbrough,1,Bristol City,1,2022-11-05,https://www.goal.com/en/match/middlesbrough-vs-bristol-city/5ydp1zo9kh4f8any883wcesyc,[],{}
+Championship,England,Millwall,0,Hull,0,2022-11-05,https://www.goal.com/en/match/millwall-vs-hull-city/5yh7fffu2a3f8yy6fglmnqjv8,[],{}
+Championship,England,QPR,0,West Bromwich,1,2022-11-05,https://www.goal.com/en/match/queens-park-rangers-vs-west-bromwich-albion/5ykvln53k6jhenhk5hsb33zmc,[],{}
+Championship,England,Rotherham,1,Norwich,2,2022-11-05,https://www.goal.com/en/match/rotherham-united-vs-norwich-city/5ys7wtqjy4sr2j41k6i1aecr8,[],{}
+Championship,England,Stoke,1,Birmingham,2,2022-11-05,https://www.goal.com/en/match/stoke-city-vs-birmingham-city/5z0w4tlcuchtkw2wgdvtirnkk,[],{}
+Championship,England,Sunderland,0,Cardiff,1,2022-11-05,https://www.goal.com/en/match/sunderland-vs-cardiff-city/5z4ardhyp9vksddzviezob2ms,[],{}
+Championship,England,Swansea,2,Wigan,2,2022-11-05,https://www.goal.com/en/match/swansea-city-vs-wigan-athletic/5z7wd6k4f6lha8wuhvppmykgk,[],{}
+Championship,England,Watford,0,Coventry,1,2022-11-05,https://www.goal.com/en/match/watford-vs-coventry-city/5zbfyng1rpfa0cpaudbetncwk,[],{}
+AFF Championship,Asia,Brunei,6,Timor-Leste,2,2022-11-05,https://www.goal.com/en/match/brunei-vs-timor-leste/39l1jwyjumrvzcb0cqkdy6238,[],{}
+FA Cup,England,South Shields,0,Forest Green,2,2022-11-05,https://www.goal.com/en/match/south-shields-vs-forest-green-rovers/826i0u4mjw8otkrj2zxpf7qqc,[],{}
+FA Cup,England,Bradford,0,Harrogate,1,2022-11-05,https://www.goal.com/en/match/bradford-city-vs-harrogate-town/c7afk48hwu9wz3cqu8gx946c4,[],{}
+FA Cup,England,Bolton,1,Barnsley,2,2022-11-05,https://www.goal.com/en/match/bolton-wanderers-vs-barnsley/8zi3jh2jmkp3eo3xuq9gl1rf8,[],{}
+FA Cup,England,Barnet,1,Chelmsford,1,2022-11-05,https://www.goal.com/en/match/barnet-vs-chelmsford-city/jphgx66yxqkr16jhst5t6ck4,[],{}
+FA Cup,England,Barrow,0,Mansfield Town,1,2022-11-05,https://www.goal.com/en/match/barrow-vs-mansfield-town/3hs0ilqb9qzt5y5juv7gzzklw,[],{}
+FA Cup,England,Boreham Wood,3,Eastleigh,1,2022-11-05,https://www.goal.com/en/match/boreham-wood-vs-eastleigh/9x6699os71hw5xeuy2qq6tt04,[],{}
+FA Cup,England,Bristol Rovers,1,Rochdale,0,2022-11-05,https://www.goal.com/en/match/bristol-rovers-vs-rochdale/dfdss4v71hz1tdps5p5x168lw,[],{}
+FA Cup,England,Burton Albion,2,Needham,0,2022-11-05,https://www.goal.com/en/match/burton-albion-vs-needham-market/bckmj93or8588ftnsxq1te2ok,[],{}
+FA Cup,England,Buxton,2,Merthyr,0,2022-11-05,https://www.goal.com/en/match/buxton-vs-merthyr-town/6m7z3c4dqgngml58gef3zwvf8,[],{}
+FA Cup,England,Carlisle,2,Tranmere,1,2022-11-05,https://www.goal.com/en/match/carlisle-united-vs-tranmere-rovers/2n3ysmh8mlt230xwt3ebsss9g,[],{}
+FA Cup,England,Charlton,4,Coalville,1,2022-11-05,https://www.goal.com/en/match/charlton-athletic-vs-coalville-town/7fbro4ru446paeufs2kul99n8,[],{}
+FA Cup,England,Cheltenham,1,Alvechurch,2,2022-11-05,https://www.goal.com/en/match/cheltenham-town-vs-alvechurch/2r2apv927fn58je2upllt6ck4,[],{}
+FA Cup,England,Chesterfield,1,Northampton,0,2022-11-05,https://www.goal.com/en/match/chesterfield-vs-northampton-town/1zpg4nmcd1x34fyrtnta86pec,[],{}
+FA Cup,England,Chippenham,1,Lincoln,0,2022-11-05,https://www.goal.com/en/match/chippenham-town-vs-lincoln-city/c7nr8ui5sq8mz2bb6k81n31n8,[],{}
+FA Cup,England,Crawley,1,Accrington,4,2022-11-05,https://www.goal.com/en/match/crawley-town-vs-accrington-stanley/c281twfi6kdeogk4fy82vuwb8,[],{}
+FA Cup,England,Crewe,1,L Orient,0,2022-11-05,https://www.goal.com/en/match/crewe-alexandra-vs-leyton-orient/ewmv89lapezl1h72jaijb73tg,[],{}
+FA Cup,England,Doncaster,0,King's Lynn,1,2022-11-05,https://www.goal.com/en/match/doncaster-rovers-vs-king-s-lynn-town/9m680y5fl1x3dfnpibsugmgpg,[],{}
+FA Cup,England,Ebbsfleet,2,Halifax,1,2022-11-05,https://www.goal.com/en/match/ebbsfleet-united-vs-halifax-town/23dx5ugaca595k5rcuxm3v85w,[],{}
+FA Cup,England,Fleetwood,3,Oxford,1,2022-11-05,https://www.goal.com/en/match/fleetwood-town-vs-oxford-city/amsperf6bublo2vuaayxd6sd0,[],{}
+FA Cup,England,Fylde,1,Gillingham,1,2022-11-05,https://www.goal.com/en/match/fylde-vs-gillingham/6x32x9hl6ypl4kht37tjy0x78,[],{}
+FA Cup,England,Gateshead,2,Stevenage,3,2022-11-05,https://www.goal.com/en/match/gateshead-vs-stevenage/e4hfipetg2lymha67qsektgr8,[],{}
+FA Cup,England,Grimsby,5,Plymouth,1,2022-11-05,https://www.goal.com/en/match/grimsby-town-vs-plymouth-argyle/m5p1pjfftu6tbosewypp1a1g,[],{}
+FA Cup,England,Maidenhead Utd,0,Dag & Red,1,2022-11-05,https://www.goal.com/en/match/maidenhead-united-vs-dagenham-and-redbridge/b11m4s4ovhcuhrodqseopp05w,[],{}
+FA Cup,England,MK Dons,6,Taunton,0,2022-11-05,https://www.goal.com/en/match/milton-keynes-dons-vs-taunton-town/dozuvoq66kck69j71udr7qcr8,[],{}
+FA Cup,England,Newport,2,Colchester,0,2022-11-05,https://www.goal.com/en/match/newport-county-vs-colchester-united/b2tvw17er5l60t7t0m2v483ys,[],{}
+FA Cup,England,Peterborough,0,Salford,0,2022-11-05,https://www.goal.com/en/match/peterborough-united-vs-salford-city/dx2wbggwlshxifnghcgcbfor8,[],{}
+FA Cup,England,Port Vale,2,Exeter,3,2022-11-05,https://www.goal.com/en/match/port-vale-vs-exeter-city/csm9y07gtfvvrioxtupwoo1lg,[],{}
+FA Cup,England,Shrewsbury,2,York,1,2022-11-05,https://www.goal.com/en/match/shrewsbury-town-vs-york-city/5t27ark9yf7qqnds1chh3s00k,[],{}
+FA Cup,England,Solihull,2,Hartlepool,2,2022-11-05,https://www.goal.com/en/match/solihull-moors-vs-hartlepool-united/cywz5pylu621vctlqlwd1q2vo,[],{}
+FA Cup,England,Stockport,4,Swindon,0,2022-11-05,https://www.goal.com/en/match/stockport-county-vs-swindon-town/9012y4o96lhwtfqbgfy472psk,[],{}
+FA Cup,England,Sutton Utd,0,Farnborough,2,2022-11-05,https://www.goal.com/en/match/sutton-united-vs-farnborough/f28y092cyfgrttx99vrx6g1lg,[],{}
+FA Cup,England,Weymouth,1,Wimbledon,1,2022-11-05,https://www.goal.com/en/match/weymouth-vs-afc-wimbledon/81qepkxny3puk3ozzytsdprtg,[],{}
+FA Cup,England,Wycombe,0,Walsall,2,2022-11-05,https://www.goal.com/en/match/wycombe-wanderers-vs-walsall/e6uuodruwwu3vytmivw890c2c,[],{}
+MLS,USA,Los Angeles,3,Philadelphia,3,2022-11-05,https://www.goal.com/en/match/los-angeles-vs-philadelphia-union/8nxzo3ymo971l3wzxugdq51qs,[],{}
+Eredivisie,Netherlands,Vitesse,0,Sparta,4,2022-11-05,https://www.goal.com/en/match/vitesse-vs-sparta-rotterdam/3egnzu8hix96tjohg2oegyr6c,[],{}
+Eredivisie,Netherlands,Fortuna,0,Emmen,1,2022-11-05,https://www.goal.com/en/match/fortuna-sittard-vs-emmen/3e5fdpu6glv4in6kzmzttefbo,[],{}
+Eredivisie,Netherlands,Excelsior,0,Heerenveen,1,2022-11-05,https://www.goal.com/en/match/excelsior-vs-heerenveen/3dok9u4uozd2eryf59zj8e8es,[],{}
+A-League Men,Australia,Melbourne City,4,Perth,0,2022-11-05,https://www.goal.com/en/match/melbourne-city-vs-perth-glory/2d432zkmki2xpwc6zdydp3aqc,[],{}
+A-League Men,Australia,Wanderers,0,Central Coast,3,2022-11-05,https://www.goal.com/en/match/western-sydney-wanderers-vs-central-coast-mariners/2d86cxs3ifttfn9yl50si8sus,[],{}
+Süper Lig,Turkey,Giresun,3,İstanbulspor,2,2022-11-05,https://www.goal.com/en/match/giresunspor-vs-istanbulspor/lex3qv7yf85au7ij95hdzbis,[],{}
+Süper Lig,Turkey,Galatasaray,2,Beşiktaş,1,2022-11-05,https://www.goal.com/en/match/galatasaray-vs-besiktas/kqttvadd35ft3yb6ib2p515g,[],{}
+Premiership,Scotland,Celtic,4,Dundee Utd,2,2022-11-05,https://www.goal.com/en/match/celtic-vs-dundee-united/9qaoy4nih8qod57jhzg8qonbo,[],{}
+Premiership,Scotland,Ross County,3,St. Mirren,2,2022-11-05,https://www.goal.com/en/match/ross-county-vs-st-mirren/9qmmkbbm6n5lubuiiqmywgufo,[],{}
+First Division A,Belgium,Mechelen,2,ZW,2,2022-11-05,https://www.goal.com/en/match/mechelen-vs-zulte-waregem/dhazzkx03zps870dmc6t9a238,[],{}
+First Division A,Belgium,Cercle Brugge,2,OHL,1,2022-11-05,https://www.goal.com/en/match/cercle-brugge-vs-oh-leuven/dh2jinzfxkjr5uq2xcw047dw4,[],{}
+First Division A,Belgium,Seraing,1,Sint-Truiden,2,2022-11-05,https://www.goal.com/en/match/rfc-seraing-vs-sint-truiden/dgxyrywx36chxmlomh7l0nd3o,[],{}
+First Division A,Belgium,Eupen,2,Standard,0,2022-11-05,https://www.goal.com/en/match/as-eupen-vs-standard-liege/dhf7hd7y1tp4hu19kp7b09vys,[],{}
+Serie A,Brazil,Fluminense,3,São Paulo,1,2022-11-05,https://www.goal.com/en/match/fluminense-vs-sao-paulo/3ulvdft29a4qlun6qrkrofzmc,[],{}
+Serie A,Brazil,Santos,1,Avaí,1,2022-11-05,https://www.goal.com/en/match/santos-vs-avai/3uwymd7t0he7zt77szj4hev4k,[],{}
+Primeira Liga,Portugal,Vizela,0,Arouca,1,2022-11-05,https://www.goal.com/en/match/vizela-vs-arouca/bm7cy0ibw22ykknt2g8irgis4,[],{}
+Primeira Liga,Portugal,Porto,4,Paços Ferreira,0,2022-11-05,https://www.goal.com/en/match/porto-vs-pacos-de-ferreira/blkxsn7jk7ab6imjswedrnaxg,[],{}
+Primeira Liga,Portugal,Sporting,3,Guimarães,0,2022-11-05,https://www.goal.com/en/match/sporting-cp-vs-vitoria-guimaraes/blohflnh3zh0rs0ou0bp2153o,[],{}
+J1 League,Japan,Cerezo,0,Nagoya,1,2022-11-05,https://www.goal.com/en/match/cerezo-osaka-vs-nagoya-grampus/cjcfuhbqxt5f0za6p85x3afx0,[],{}
+J1 League,Japan,Consadole,4,Shimizu,3,2022-11-05,https://www.goal.com/en/match/consadole-sapporo-vs-shimizu-s-pulse/cio7emn5k3fgsx3xdgsqqb9ck,[],{}
+J1 League,Japan,Júbilo,0,Kyoto,0,2022-11-05,https://www.goal.com/en/match/jubilo-iwata-vs-kyoto-sanga/cj8i8r6qhrr83dos4vuhwa0pg,[],{}
+J1 League,Japan,Kashima,0,Gamba,0,2022-11-05,https://www.goal.com/en/match/kashima-antlers-vs-gamba-osaka/cis9u8tqumwmi71zez1g47aqc,[],{}
+J1 League,Japan,Kashiwa,1,Shonan,2,2022-11-05,https://www.goal.com/en/match/kashiwa-reysol-vs-shonan-bellmare/cj0hsh69gz9nmopz2hethvfo4,[],{}
+J1 League,Japan,Sagan,2,Sanfrecce,2,2022-11-05,https://www.goal.com/en/match/sagan-tosu-vs-sanfrecce-hiroshima/cjkivmesalspzov3clhtgm80k,[],{}
+J1 League,Japan,Tokyo,2,Kawasaki,3,2022-11-05,https://www.goal.com/en/match/tokyo-vs-kawasaki-frontale/cj4m08nj8j9c2frzdph5obgus,[],{}
+J1 League,Japan,Urawa,1,Avispa,1,2022-11-05,https://www.goal.com/en/match/urawa-reds-vs-avispa-fukuoka/ciwka35tk3dizlabrbpfjkxlg,[],{}
+J1 League,Japan,Vissel Kobe,1,F Marinos,3,2022-11-05,https://www.goal.com/en/match/vissel-kobe-vs-yokohama-f-marinos/cjgmbamrbph5sw8jjziolwr2s,[],{}
+Primera División,Chile,O'Higgins,2,Everton,0,2022-11-05,https://www.goal.com/en/match/o-higgins-vs-everton/dcp1244ugm8rclgbrcw738zro,[],{}
+Primera División,Chile,Palestino,5,Huachipato,0,2022-11-05,https://www.goal.com/en/match/palestino-vs-huachipato/dd0e911xw02r830qw0oh7xono,[],{}
+Primera División,Chile,U. de Chile,3,Cobresal,4,2022-11-05,https://www.goal.com/en/match/universidad-de-chile-vs-cobresal/dchnvqkq1w9zngi1abxaysc2c,[],{}
+Bundesliga,Austria,Hartberg,1,A Lustenau,1,2022-11-05,https://www.goal.com/en/match/hartberg-vs-austria-lustenau/3xvw41z2idy6xtivviltkt82c,[],{}
+Bundesliga,Austria,Ried,2,Aus Klagenfurt,2,2022-11-05,https://www.goal.com/en/match/ried-vs-austria-klagenfurt/3xofhvrox6ndgyefvxcjuni8k,[],{}
+Bundesliga,Austria,WAC,1,Salzburg,2,2022-11-05,https://www.goal.com/en/match/wolfsberger-ac-vs-salzburg/3xgzdcjushxzrf229pmdavndg,[],{}
+Premier League,Ukraine,Oleksandria,4,Kolos,1,2022-11-05,https://www.goal.com/en/match/oleksandria-vs-kolos-kovalivka/z76kbl9iwz0jq1vtnaa7hono,[],{}
+Premier League,Ukraine,Zorya,3,FK Metalist,2,2022-11-05,https://www.goal.com/en/match/zorya-vs-fk-metalist-kharkiv/zli6486gnpxvuc0cjjq8a1hw,[],{}
+Premier League,Ukraine,Metalist 1925,1,Veres Rivne,4,2022-11-05,https://www.goal.com/en/match/metalist-1925-kharkiv-vs-veres-rivne/yyqt9svv5e9dresh7rzwjdas,[],{}
+Premier League,Ukraine,Shakhtar D,3,Inhulets',0,2022-11-05,https://www.goal.com/en/match/shakhtar-donetsk-vs-inhulets/zts1433uscnsjyojcefz0e1g,[],{}
+2. Bundesliga,Germany,Düsseldorf,1,St. Pauli,0,2022-11-05,https://www.goal.com/en/match/fortuna-duesseldorf-vs-st-pauli/47pa6nvg02an1tw6tpny6esk4,[],{}
+2. Bundesliga,Germany,Heidenheim,3,Paderborn,0,2022-11-05,https://www.goal.com/en/match/heidenheim-vs-paderborn/47i5c198wtljxzgxr1jf1iec4,[],{}
+2. Bundesliga,Germany,Karlsruhe,1,Holstein,4,2022-11-05,https://www.goal.com/en/match/karlsruher-sc-vs-holstein-kiel/47syvrl03akp4y7d4c3opokd0,[],{}
+2. Bundesliga,Germany,Bielefeld,2,Kaiserslautern,3,2022-11-05,https://www.goal.com/en/match/arminia-bielefeld-vs-kaiserslautern/477ef0zzg64ppmzkuyah1e87o,[],{}
+Ekstraklasa,Poland,Piast,0,Warta Poznań,2,2022-11-05,https://www.goal.com/en/match/piast-gliwice-vs-warta-poznan/dhpt3bagrv6hts3tl8jtwmb6c,[],{}
+Ekstraklasa,Poland,Cracovia,1,Jagiellonia,0,2022-11-05,https://www.goal.com/en/match/cracovia-vs-jagiellonia-bialystok/dhlynz6hmw4gk9b3b3bh2pjpw,[],{}
+Ekstraklasa,Poland,Pogoń,1,Górnik,4,2022-11-05,https://www.goal.com/en/match/pogon-szczecin-vs-gornik-zabrze/di60gw5ajslgjmg8ce5jep9g4,[],{}
+Ekstraklasa,Poland,Raków,7,Wisła Płock,1,2022-11-05,https://www.goal.com/en/match/rakow-czestochowa-vs-wisla-plock/diagonh9vz3n58lmpg30g7rbo,[],{}
+Super League,Switzerland,St.Gallen,2,GC Zürich,1,2022-11-05,https://www.goal.com/en/match/st-gallen-vs-grasshoppers/7cq9kchp9i30seq97xlpt45jo,[],{}
+Super League,Switzerland,Luzern,1,Winterthur,1,2022-11-05,https://www.goal.com/en/match/luzern-vs-winterthur/7cjjtohlmtlowf8g6ptvo2gwk,[],{}
+Super League 1,Greece,Lamia,2,Volos,2,2022-11-05,https://www.goal.com/en/match/lamia-vs-volos-nfc/7obrfv7e02zvj6hfllcgghi50,[],{}
+Super League 1,Greece,OFI,0,Ionikos,2,2022-11-05,https://www.goal.com/en/match/ofi-vs-ionikos/7nw848w68it8wxourd29enmz8,[],{}
+Super League 1,Greece,Atromitos,0,Aris,0,2022-11-05,https://www.goal.com/en/match/atromitos-vs-aris/7nse7wmr66fyw4dzyu93pmkgk,[],{}
+Super League 1,Greece,PAOK,2,Giannina,0,2022-11-05,https://www.goal.com/en/match/paok-vs-pas-giannina/7o7t9uwz6u24305qdehtir4lw,[],{}
+Serie B,Italy,Benevento,1,Bari,1,2022-11-05,https://www.goal.com/en/match/benevento-vs-bari/eskvbydn58rv2zb4p9ugmvoyc,[],{}
+Serie B,Italy,Brescia,1,Ascoli,1,2022-11-05,https://www.goal.com/en/match/brescia-vs-ascoli/esoogojwbdnrkplcbvoh3oxec,[],{}
+Serie B,Italy,Cittadella,0,Modena,0,2022-11-05,https://www.goal.com/en/match/cittadella-vs-modena/essf7ce1a01y0kxeaf7hy6238,[],{}
+Serie B,Italy,Pisa,3,Cosenza,1,2022-11-05,https://www.goal.com/en/match/pisa-vs-cosenza/et7zgxirk65st3vw1u6hmpixg,[],{}
+Serie B,Italy,Südtirol,2,Cagliari,2,2022-11-05,https://www.goal.com/en/match/suedtirol-vs-cagliari/eti86oaunz90pq412dvdsaqs4,[],{}
+Serie B,Italy,Ternana,0,SPAL,0,2022-11-05,https://www.goal.com/en/match/ternana-vs-spal/etm706dxbekj3tzct2i3ubqqc,[],{}
+Serie B,Italy,Frosinone,1,Perugia,0,2022-11-05,https://www.goal.com/en/match/frosinone-vs-perugia/et01xk594j6a6pbfxes4q3nys,[],{}
+Serie B,Italy,Palermo,1,Parma,0,2022-11-05,https://www.goal.com/en/match/palermo-vs-parma/et49c805htd2sdmqgnivacahg,[],{}
+Ligue 2,France,Nîmes,1,Bordeaux,0,2022-11-05,https://www.goal.com/en/match/nimes-vs-bordeaux/3qa8gepmwyyc6ub0j4b43yluc,[],{}
+Ligue 2,France,Annecy,2,Sochaux,1,2022-11-05,https://www.goal.com/en/match/annecy-vs-sochaux/agdikfrbp4gprpqgmu11402s4,[],{}
+Ligue 2,France,Bastia,0,Paris,1,2022-11-05,https://www.goal.com/en/match/bastia-vs-paris-fc/agt2fd87g9ao1unpjy6i3lqtw,[],{}
+Ligue 2,France,Dijon,1,Guingamp,1,2022-11-05,https://www.goal.com/en/match/dijon-vs-guingamp/agwmuxtfwovjm0dd542ltfe38,[],{}
+Ligue 2,France,Laval,2,Niort,1,2022-11-05,https://www.goal.com/en/match/laval-vs-niort/aghf77g1o18b4gxz7isp16uqc,[],{}
+Ligue 2,France,Pau,2,Amiens,1,2022-11-05,https://www.goal.com/en/match/pau-vs-amiens-sc/ah0u8c8838md0bm15gyow1m38,[],{}
+Ligue 2,France,QRM,0,Le Havre,1,2022-11-05,https://www.goal.com/en/match/quevilly-rouen-vs-le-havre/ag3tjioaqh9ov1zo9zkms1i50,[],{}
+Ligue 2,France,Rodez,0,Grenoble,1,2022-11-05,https://www.goal.com/en/match/rodez-vs-grenoble-foot-38/aglfljbebeby9spt1ixsydw5w,[],{}
+Ligue 2,France,Valenciennes,1,Caen,1,2022-11-05,https://www.goal.com/en/match/valenciennes-vs-caen/agpaxqruj5r2zrqe9ctuqwutw,[],{}
+Championship,Scotland,Ayr Utd,1,Morton,1,2022-11-05,https://www.goal.com/en/match/ayr-united-vs-greenock-morton/awlke2i74opqvc1d20k3no2l0,[],{}
+Championship,Scotland,Inverness,1,Arbroath,1,2022-11-05,https://www.goal.com/en/match/inverness-ct-vs-arbroath/awupazvq4gvprssxz1d5gd9n8,[],{}
+Championship,Scotland,Partick,2,Dundee,3,2022-11-05,https://www.goal.com/en/match/partick-thistle-vs-dundee/awym7lreeynxzwtpm23104u8k,[],{}
+Championship,Scotland,Raith Rovers,3,Hamilton,1,2022-11-05,https://www.goal.com/en/match/raith-rovers-vs-hamilton-academical/ax2fuwuisg0ziisddtsd209hw,[],{}
+League One,Scotland,Clyde,0,Airdrieonians,1,2022-11-05,https://www.goal.com/en/match/clyde-vs-airdrieonians/7q3ovc82fpbet4vinjc0rfv2s,[],{}
+League One,Scotland,Edinburgh City,0,Queen South,3,2022-11-05,https://www.goal.com/en/match/edinburgh-city-vs-queen-of-the-south/7q7balq9ur24qtfmujtyta3o4,[],{}
+League One,Scotland,Falkirk,0,Dunfermline,1,2022-11-05,https://www.goal.com/en/match/falkirk-vs-dunfermline-athletic/7qc8bxnfp477usea5c3s3ukgk,[],{}
+League One,Scotland,Kelty Hearts,1,Alloa Athletic,1,2022-11-05,https://www.goal.com/en/match/kelty-hearts-vs-alloa-athletic/7qfinz8b0ndu5zys47d1cxqtw,[],{}
+League One,Scotland,Montrose,3,Peterhead,0,2022-11-05,https://www.goal.com/en/match/montrose-vs-peterhead/7qiv9qyl03nbsr0t3tblsf4t0,[],{}
+League Two,Scotland,Albion,1,Stirling,1,2022-11-05,https://www.goal.com/en/match/albion-rovers-vs-stirling-albion/d8qeb6uhdtnjiqaxbzyncx6ac,[],{}
+League Two,Scotland,Bonnyrigg RA,2,Elgin,3,2022-11-05,https://www.goal.com/en/match/bonnyrigg-rose-vs-elgin-city/d8u92yltjduo9ujjo9mm5b40k,[],{}
+League Two,Scotland,Dumbarton,2,Stranraer,0,2022-11-05,https://www.goal.com/en/match/dumbarton-vs-stranraer/d8xziy5xww79w2w1pq1bzih3o,[],{}
+League Two,Scotland,Forfar,1,Annan,4,2022-11-05,https://www.goal.com/en/match/forfar-athletic-vs-annan-athletic/d91surye2jic7we3itrz1ozdg,[],{}
+League Two,Scotland,Stenhousemuir,2,East Fife,2,2022-11-05,https://www.goal.com/en/match/stenhousemuir-vs-east-fife/d95qxzylc10yhssski2aps4d0,[],{}
+CAF Women's Champions League,Africa,Determine,0,FAR Rabat,2,2022-11-05,https://www.goal.com/en/match/determine-girls-vs-far-rabat/15hbd7fa8h47pcj3n37vf0etw,[],{}
+CAF Women's Champions League,Africa,Simba Queens,2,Buffaloes,0,2022-11-05,https://www.goal.com/en/match/simba-queens-vs-green-buffaloes/15kh5r7kjfx4r3cefmm4cxez8,[],{}
+Ligue 1,Algeria,Belouizdad,1,Bayadh,0,2022-11-05,https://www.goal.com/en/match/belouizdad-vs-el-bayadh/9ht563u3abyqzxuv06i7lhhxw,[],{}
+Ligue 1,Algeria,NC Magra,4,ASO Chlef,2,2022-11-05,https://www.goal.com/en/match/nc-magra-vs-aso-chlef/9hqmz101pos8nxmf77ik40sus,[],{}
+Ligue 1,Algeria,RC Arbaâ,1,CS Constantine,2,2022-11-05,https://www.goal.com/en/match/rc-arbaa-vs-cs-constantine/9ho34j4zz2auh3eagylgpjndg,[],{}
+Ligue 1,Algeria,ES Sétif,4,HBCL,0,2022-11-05,https://www.goal.com/en/match/es-setif-vs-hb-chelghoum-laid/9i0unbpp4nz5oqk45ccfovcpg,[],{}
+Ligue 1,Algeria,MC Oran,1,Paradou,0,2022-11-05,https://www.goal.com/en/match/mc-oran-vs-paradou-ac/9i3j5vvlyxrr1s2l0t9iql6hg,[],{}
+Primera Nacional,Argentina,Gim Mendoza,0,Est Caseros,1,2022-11-05,https://www.goal.com/en/match/gimnasia-mendoza-vs-estudiantes-caseros/37ghtdf2i8bbieox8zgjaamfo,[],{}
+Premier League,Armenia,Ararat,2,Noah,1,2022-11-05,https://www.goal.com/en/match/ararat-vs-noah/1fiejivi6o7kg9xnzohmwkcus,[],{}
+2. Liga,Austria,GAK,2,Dornbirn,0,2022-11-05,https://www.goal.com/en/match/grazer-ak-vs-dornbirn/b1upae5fuvafcaltynbijb190,[],{}
+2. Liga,Austria,Kapfenberg,3,Liefering,2,2022-11-05,https://www.goal.com/en/match/kapfenberger-sv-vs-liefering/b1yqilej2nmi598cpr7q3ibkk,[],{}
+2. Liga,Austria,Vorwärts,1,Sturm II,3,2022-11-05,https://www.goal.com/en/match/vorwaerts-steyr-vs-sturm-graz-ii/b1n74cxu4ei0g9n2av5ggvgno,[],{}
+Jugendliga U18,Austria,RB Akademie,3,Austria,2,2022-11-05,https://www.goal.com/en/match/red-bull-akademie-u18-vs-austria-wien-u18/2brurrumpo78j1fk4k801kkk4,[],{}
+Challenger Pro League,Belgium,Virton,0,Deinze,1,2022-11-05,https://www.goal.com/en/match/excelsior-virton-vs-deinze/bko040a0n3cpzrhki4jyl6gic,[],{}
+Challenger Pro League,Belgium,SK Beveren,1,Club Brugge II,0,2022-11-05,https://www.goal.com/en/match/sk-beveren-vs-club-brugge-ii/bkx6kwxebd2gnwwgc1kmb8sno,[],{}
+Serie B,Brazil,Náutico,0,Ponte Preta,1,2022-11-05,https://www.goal.com/en/match/nautico-vs-ponte-preta/9zb1umgkxts7st3off271f5ec,[],{}
+Serie B,Brazil,Criciúma,2,Tombense,0,2022-11-05,https://www.goal.com/en/match/criciuma-vs-tombense/9zf6f1225m0su2iagzu2y93x0,[],{}
+First League,Bulgaria,Botev,6,Botev Vratsa,0,2022-11-05,https://www.goal.com/en/match/botev-plovdiv-vs-botev-vratsa/3waq70s66f4zetwqwexecc7pw,[],{}
+First League,Bulgaria,CSKA 1948,2,Pirin,1,2022-11-05,https://www.goal.com/en/match/cska-1948-sofia-vs-pirin-blagoevgrad/3w0b0uxp2b48hmdlsp4xz1kpg,[],{}
+First League,Bulgaria,Beroe,2,Arda,0,2022-11-05,https://www.goal.com/en/match/beroe-vs-arda/3we88hjiqm06aqw3oo24hg07o,[],{}
+China League One,China PR,Hainiu,5,Tianshan,1,2022-11-05,https://www.goal.com/en/match/qingdao-hainiu-vs-xinjiang-tianshan/3x9z8wwwmr4fxw9dfopjdcg7o,[],{}
+China League One,China PR,Nantong,0,Shaanxi Chang.,1,2022-11-05,https://www.goal.com/en/match/nantong-zhiyun-vs-shaanxi-chang-an/3x6n79zzuhbsw2ff21nnp7wno,[],{}
+China League One,China PR,Shijiazhuang,2,Jiading,0,2022-11-05,https://www.goal.com/en/match/shijiazhuang-gongfu-vs-shanghai-jiading/3x3bsz4cofmrt9jytcmnlwy6s,[],{}
+HNL,Croatia,Slaven,0,Lokomotiva,0,2022-11-05,https://www.goal.com/en/match/slaven-koprivnica-vs-lokomotiva-zagreb/bjct7fd6bhb44dngnq5mvbrbo,[],{}
+HNL,Croatia,Hajduk,3,Osijek,1,2022-11-05,https://www.goal.com/en/match/hajduk-split-vs-osijek/biwtjl7m844zx1w5h1xtc7huc,[],{}
+1. Division,Cyprus,Anorthosis,2,Nea Salamis,1,2022-11-05,https://www.goal.com/en/match/anorthosis-vs-nea-salamis/200wre6o1hdl45dlv4ix7s8pg,[],{}
+Czech Liga,Czech Republic,Bohemians 1905,3,Zlín,2,2022-11-05,https://www.goal.com/en/match/bohemians-1905-vs-zlin/gsxveffbk90bfsnxsa8hvdas,[],{}
+Czech Liga,Czech Republic,Dynamo CB,3,Zbrojovka,2,2022-11-05,https://www.goal.com/en/match/ceske-budejovice-vs-zbrojovka-brno/hciszfpaszl4ho7wbgnmlpg4,[],{}
+Czech Liga,Czech Republic,Sigma,3,Jablonec,0,2022-11-05,https://www.goal.com/en/match/sigma-olomouc-vs-jablonec/gwfapm32t0n6xbuuabyn0h78,[],{}
+Czech Liga,Czech Republic,Viktoria Plzeň,0,Sparta,1,2022-11-05,https://www.goal.com/en/match/viktoria-plzen-vs-sparta-praha/h3i8hayyvsp8j58saxoxz8d0,[],{}
+FNL,Czech Republic,Chrudim,0,Vlašim,2,2022-11-05,https://www.goal.com/en/match/chrudim-vs-vlasim/3v0itj4kq9vws5f9zpus1l6ok,[],{}
+FNL,Czech Republic,Líšeň,0,Slavia II,0,2022-11-05,https://www.goal.com/en/match/lisen-vs-slavia-praha-ii/3unmgvkpcz56dym1nci89nor8,[],{}
+FNL,Czech Republic,Prostějov,4,Dukla,2,2022-11-05,https://www.goal.com/en/match/prostejov-vs-dukla-praha/3ufyx7l4c9lqanq6ljspolatw,[],{}
+1. Division,Denmark,Hvidovre,0,Helsingør,1,2022-11-05,https://www.goal.com/en/match/hvidovre-vs-helsingor/49hle9mveygipw7dgjclkedxw,[],{}
+1. Division,Denmark,Vendsyssel,1,Nykøbing,2,2022-11-05,https://www.goal.com/en/match/vendsyssel-vs-nykobing/49llgru1aqj2o46jxfr8aqkus,[],{}
+Premier League 2,England,Man Utd,1,Man City,6,2022-11-05,https://www.goal.com/en/match/manchester-united-u21-vs-manchester-city-u21/5v1ujkzgxe7xl3yu5yrnps9w4,[],{}
+U18 Premier League Cup,England,Aston Villa,5,Newcastle,1,2022-11-05,https://www.goal.com/en/match/aston-villa-u18-vs-newcastle-united-u18/2v78dnpa1c6ircn5s1m13ncic,[],{}
+U18 Premier League Cup,England,Charlton,1,Spurs,5,2022-11-05,https://www.goal.com/en/match/charlton-athletic-u18-vs-tottenham-hotspur-u18/a8v4oass9k9mjcyxkkzi31n2s,[],{}
+U18 Premier League Cup,England,Derby,1,Chelsea,3,2022-11-05,https://www.goal.com/en/match/derby-county-u18-vs-chelsea-u18/9uk1p4uueyb49c69rqpr4p53o,[],{}
+U18 Premier League Cup,England,Everton,1,Southampton,1,2022-11-05,https://www.goal.com/en/match/everton-u18-vs-southampton-u18/9ugw76sedkb9tpv4y9npuebys,[],{}
+U18 Premier League Cup,England,Man Utd,3,Arsenal,3,2022-11-05,https://www.goal.com/en/match/manchester-united-u18-vs-arsenal-u18/2va8jklp008poqweyzopa1pn8,[],{}
+U18 Premier League Cup,England,Middlesbrough,2,Ipswich,1,2022-11-05,https://www.goal.com/en/match/middlesbrough-u18-vs-ipswich-town-u18/1d8khmyesk50ilio0lwolfdas,[],{}
+U18 Premier League Cup,England,Norwich,2,Man City,3,2022-11-05,https://www.goal.com/en/match/norwich-city-u18-vs-manchester-city-u18/1hmbru0xxpv2zj796ezw98bo4,[],{}
+U18 Premier League Cup,England,Sheffield Utd,2,Brighton,0,2022-11-05,https://www.goal.com/en/match/sheffield-united-u18-vs-brighton-u18/afgvpwn0mn2nrnkqt65697nys,[],{}
+U18 Premier League Cup,England,Sunderland,1,West Ham,2,2022-11-05,https://www.goal.com/en/match/sunderland-u18-vs-west-ham-united-u18/27hqh3ty983utr332zrq3ytqs,[],{}
+U18 Premier League Cup,England,WBA,5,Stoke City,0,2022-11-05,https://www.goal.com/en/match/west-bromwich-albion-u18-vs-stoke-city-u18/1db2r89bor0282tgjogyi0xzo,[],{}
+U18 Premier League Cup,England,Leeds Utd,5,Crystal Palace,2,2022-11-05,https://www.goal.com/en/match/leeds-united-u18-vs-crystal-palace-u18/afdf8nwgcchav3e3l1w1hpjx0,[],{}
+U18 Premier League Cup,England,Nottm Forest,2,Fulham,4,2022-11-05,https://www.goal.com/en/match/nottingham-forest-u18-vs-fulham-u18/27kyftj6ofkn8qp3hcsadhh5g,[],{}
+U18 Premier League Cup,England,Wolves,4,Liverpool,3,2022-11-05,https://www.goal.com/en/match/wolves-u18-vs-liverpool-u18/a8r7vm64ndomtqld8fbffegic,[],{}
+U18 Premier League Cup,England,Leicester,3,Blackburn,2,2022-11-05,https://www.goal.com/en/match/leicester-city-u18-vs-blackburn-rovers-u18/1hph62qkscyx1tusoxeqzff9w,[],{}
+Meistriliiga,Estonia,Tallinna Kalev,1,Flora,1,2022-11-05,https://www.goal.com/en/match/tallinna-kalev-vs-flora/dnp7meqdvh7nr1pne52rhln9w,[],{}
+Meistriliiga,Estonia,Legion,1,Tammeka,1,2022-11-05,https://www.goal.com/en/match/legion-vs-tammeka/dntrm3ox2o1jqogn84h64k5qs,[],{}
+Meistriliiga,Estonia,Levadia,1,Trans,1,2022-11-05,https://www.goal.com/en/match/fci-levadia-vs-trans/dny1ozdzvzp9or6530x6qlslw,[],{}
+Feminine Division 1,France,PSG,2,Montpellier,2,2022-11-05,https://www.goal.com/en/match/psg-vs-montpellier/361klzloyb15pvzpztmponxn8,[],{}
+Feminine Division 1,France,Fleury 91,3,Le Havre,0,2022-11-05,https://www.goal.com/en/match/fleury-91-vs-le-havre/36ie48prm8ce80drv4ckp4wes,[],{}
+Feminine Division 1,France,Guingamp,0,Lyon,0,2022-11-05,https://www.goal.com/en/match/guingamp-vs-olympique-lyonnais/36fa6fgvybkr0crm6970lmaz8,[],{}
+Feminine Division 1,France,Soyaux,1,Stade Reims,4,2022-11-05,https://www.goal.com/en/match/soyaux-vs-stade-de-reims/364zmbdmv1u7cgu63takx0gt0,[],{}
+3. Liga,Germany,Dresden,1,Freiburg II,1,2022-11-05,https://www.goal.com/en/match/dynamo-dresden-vs-freiburg-ii/3xaeun4s2i32g35nprce038k4,[],{}
+3. Liga,Germany,Duisburg,1,Bayreuth,1,2022-11-05,https://www.goal.com/en/match/msv-duisburg-vs-bayreuth/3wmn8h3b78ghka26elk177cic,[],{}
+3. Liga,Germany,Elversberg,3,Dortmund II,1,2022-11-05,https://www.goal.com/en/match/elversberg-vs-borussia-dortmund-ii/3wul8s2af0a3di49m0qw1pb84,[],{}
+3. Liga,Germany,Hallescher FC,3,Waldhof,1,2022-11-05,https://www.goal.com/en/match/hallescher-fc-vs-waldhof-mannheim/3x6fsb4kmw9f52begptfsrdp0,[],{}
+3. Liga,Germany,Verl,2,Ingolstadt,1,2022-11-05,https://www.goal.com/en/match/verl-vs-ingolstadt/3xi7v0f97cqpqzt646a1s1yqc,[],{}
+3. Liga,Germany,Viktoria Köln,3,Aue,0,2022-11-05,https://www.goal.com/en/match/viktoria-koeln-vs-erzgebirge-aue/3wygtualism72w9kzjsj3qzo4,[],{}
+Regionalliga,Germany,Chemie L.,4,TeBe,0,2022-11-05,https://www.goal.com/en/match/chemie-leipzig-vs-tennis-borussia/ct5zsj2lbckdy1ludf0xyn6dw,[],{}
+Regionalliga,Germany,Weiche,2,Jeddeloh,3,2022-11-05,https://www.goal.com/en/match/weiche-flensburg-vs-jeddeloh/8hmw4nmqjlrl0wm0l1vc5gidw,[],{}
+Regionalliga,Germany,ZFC Meuselwitz,2,Jena,1,2022-11-05,https://www.goal.com/en/match/zfc-meuselwitz-vs-carl-zeiss-jena/cssyyk1688r366b6c7okdkf10,[],{}
+Regionalliga,Germany,Ansbach,1,Burghausen,0,2022-11-05,https://www.goal.com/en/match/ansbach-vs-wacker-burghausen/85054f4jzozjmcwzdt0goeas4,[],{}
+Regionalliga,Germany,Aschaffenburg,3,Illertissen,0,2022-11-05,https://www.goal.com/en/match/viktoria-aschaffenburg-vs-illertissen/85c2ps4yhhky6igjvh5s0lgd0,[],{}
+Regionalliga,Germany,Hankofen,1,Würzburg,5,2022-11-05,https://www.goal.com/en/match/hankofen-hailing-vs-wuerzburger-kickers/85kf8t09gwdwvl7277muvdyc4,[],{}
+Regionalliga,Germany,Nürnberg II,1,Aubstadt,0,2022-11-05,https://www.goal.com/en/match/nuernberg-ii-vs-aubstadt/84s3yb8zm0iyd1jnxv6b47578,[],{}
+Regionalliga,Germany,Pipinsried,0,Fürth II,2,2022-11-05,https://www.goal.com/en/match/pipinsried-vs-greuther-fuerth-ii/84w2ynrylmc5cbeiw4wzr8y6s,[],{}
+Regionalliga,Germany,Schweinfurt,1,Rain / Lech,3,2022-11-05,https://www.goal.com/en/match/schweinfurt-vs-rain-lech/84og51rcybonpfg8dm2wy1s0k,[],{}
+Regionalliga,Germany,Unterhaching,2,Buchbach,0,2022-11-05,https://www.goal.com/en/match/unterhaching-vs-buchbach/85gghgdi0dyparfpaoly760b8,[],{}
+Regionalliga,Germany,Vilzing,3,Augsburg II,2,2022-11-05,https://www.goal.com/en/match/vilzing-vs-augsburg-ii/8580iahfaquktn701y2pjiiok,[],{}
+Regionalliga,Germany,Atlas,3,Kickers Emden,1,2022-11-05,https://www.goal.com/en/match/atlas-delmenhorst-vs-kickers-emden/8i3bl35v29baq8klg0pff79ck,[],{}
+Regionalliga,Germany,Lübeck,2,Havelse,2,2022-11-05,https://www.goal.com/en/match/luebeck-vs-havelse/8hq3xu9bk0m1pq65r87nu2fpw,[],{}
+Regionalliga,Germany,Aalen,0,Hoffenheim II,1,2022-11-05,https://www.goal.com/en/match/aalen-vs-hoffenheim-ii/f4pon7k44677i18p1bavwg178,[],{}
+Regionalliga,Germany,Balingen,1,Wormatia,0,2022-11-05,https://www.goal.com/en/match/balingen-vs-wormatia-worms/f4lrq9ax9xfv9lvvzut85ij2s,[],{}
+Regionalliga,Germany,Homburg,1,Trier,1,2022-11-05,https://www.goal.com/en/match/homburg-vs-eintracht-trier/f4hxi0ds2jlksx83kjctcv40k,[],{}
+Regionalliga,Germany,Kassel,3,Bahlingen,2,2022-11-05,https://www.goal.com/en/match/hessen-kassel-vs-bahlinger-sc/f4e2kw5wtzh3d1oj0z16n9ces,[],{}
+Regionalliga,Germany,Lehnerz,2,FSV Frankfurt,1,2022-11-05,https://www.goal.com/en/match/barockstadt-fulda-lehn-vs-fsv-frankfurt/f3yo1toavp38kz5515z6nz5lg,[],{}
+Regionalliga,Germany,Offenbach,1,Mainz 05 II,1,2022-11-05,https://www.goal.com/en/match/kickers-offenbach-vs-mainz-05-ii/f4ab865zhsmp6rjhs1gm9oyl0,[],{}
+Regionalliga,Germany,SGV Freiberg,0,RW Koblenz,0,2022-11-05,https://www.goal.com/en/match/sgv-freiberg-vs-rot-weiss-koblenz/f4tn2p0x4ddd9df9fw4xffdp0,[],{}
+Regionalliga,Germany,Stuttgart II,0,Ulm,0,2022-11-05,https://www.goal.com/en/match/stuttgart-ii-vs-ulm/f42rb2a0mah27l916p8nykxsk,[],{}
+Regionalliga,Germany,Bocholt,2,Schalke II,8,2022-11-05,https://www.goal.com/en/match/1-fc-bocholt-vs-schalke-04-ii/cuz690fah3q5tl9yq6k8nenmc,[],{}
+Regionalliga,Germany,Alemannia,3,Rödinghausen,1,2022-11-05,https://www.goal.com/en/match/alemannia-aachen-vs-roedinghausen/cuvmsijz10u26sr6ddipshxxw,[],{}
+Regionalliga,Germany,M'gladbach II,4,Lippstadt,2,2022-11-05,https://www.goal.com/en/match/borussia-m-gladbach-ii-vs-lippstadt-08/curwdltuig8gqiqdtwy2s836c,[],{}
+Regionalliga,Germany,RW Ahlen,1,Düren,2,2022-11-05,https://www.goal.com/en/match/rot-weiss-ahlen-vs-dueren-merzenich/cv9yaqqqw4ka1zt1bimtofrpw,[],{}
+Regionalliga,Germany,Straelen,0,Köln II,0,2022-11-05,https://www.goal.com/en/match/straelen-vs-koeln-ii/cuocfe74rcwpm9eozvj147z84,[],{}
+Regionalliga,Germany,Wattenscheid,1,RW Oberhausen,1,2022-11-05,https://www.goal.com/en/match/wattenscheid-09-vs-rot-weiss-oberhausen/cv6grmkozsnl0jfmcuu489k44,[],{}
+Regionalliga,Germany,Wiedenbrück,1,Kaan,2,2022-11-05,https://www.goal.com/en/match/wiedenbrueck-vs-kaan-marienborn/cv2rxmepbnoc1mc60kmapva50,[],{}
+Regionalliga,Germany,Wuppertal,4,Fortuna II,1,2022-11-05,https://www.goal.com/en/match/wuppertaler-sv-vs-fortuna-duesseldorf-ii/cvf8x59iffbrtcgfkj0hfj8r8,[],{}
+Regionalliga,Germany,Rehden,1,Norderstedt,2,2022-11-05,https://www.goal.com/en/match/schwarz-weiss-rehden-vs-eintracht-norderstedt/8hws4jmm33cqdwn0d1ywvwvf8,[],{}
+Regionalliga,Germany,BW Lohne,1,Bremer SV,0,2022-11-05,https://www.goal.com/en/match/bw-lohne-vs-bremer-sv/8hjl20g7e87snoen62r9fhedw,[],{}
+U17 Bundesliga,Germany,RB Leipzig,1,Union Berlin,2,2022-11-05,https://www.goal.com/en/match/rb-leipzig-u17-vs-union-berlin-u17/4xlrpitxgjg01u08jbuwhuuc4,[],{}
+U17 Bundesliga,Germany,1860 München,0,Bayern München,1,2022-11-05,https://www.goal.com/en/match/1860-muenchen-u17-vs-bayern-muenchen-u17/abxvbsfyzazeozqh34y9gxgk4,[],{}
+Frauen Bundesliga,Germany,Freiburg,0,Bayern,3,2022-11-05,https://www.goal.com/en/match/freiburg-vs-bayern-muenchen/ascchxe7p68in75vupouh9zpw,[],{}
+Super League 2,Greece,Apollon,1,AEK II,0,2022-11-05,https://www.goal.com/en/match/apollon-smirnis-vs-aek-athens-ii/99213102go6cbxobekw7bsm50,[],{}
+Super League 2,Greece,Panserraikos,1,Thesprotos,1,2022-11-05,https://www.goal.com/en/match/panserraikos-vs-thesprotos/ct59uwylmorjipt95xxa5w6j8,[],{}
+Super League 2,Greece,Episkopi,1,Olympiakos II,1,2022-11-05,https://www.goal.com/en/match/episkopi-vs-olympiakos-piraeus-ii/994utcx5okby70svd41eo6j2s,[],{}
+NB I,Hungary,Mezőkövesd,2,Kecskemét,1,2022-11-05,https://www.goal.com/en/match/mezokoevesd-vs-kecskemet/6jvqly3exsn6lhpm89dby1st0,[],{}
+NB I,Hungary,Puskás,0,Kisvárda,1,2022-11-05,https://www.goal.com/en/match/puskas-vs-kisvarda/6jzitxei3btvhx4ebpwtbe32s,[],{}
+NB I,Hungary,ZTE,1,Újpest,0,2022-11-05,https://www.goal.com/en/match/zalaegerszeg-vs-ujpest/6k3hf1s7zmh4ap2wvil8g9ij8,[],{}
+Indian Super League,India,Hyderabad,1,Odisha,0,2022-11-05,https://www.goal.com/en/match/hyderabad-vs-odisha/daqz9mb6ypbirpeicz4pdanf8,[],{}
+Indian Super League,India,NorthEast Utd,0,Kerala,3,2022-11-05,https://www.goal.com/en/match/northeast-united-vs-kerala-blasters/daunowgub8e2jcis2rt945iqc,[],{}
+Ligat Ha'al,Israel,Maccabi TA,1,Sektzia,1,2022-11-05,https://www.goal.com/en/match/maccabi-tel-aviv-vs-sektzia-nes-tziona/5kxwb9tgnmdgowmuqyu0418no,[],{}
+Ligat Ha'al,Israel,Hapoel Hadera,3,M Netanya,1,2022-11-05,https://www.goal.com/en/match/hapoel-hadera-vs-maccabi-netanya/5l7843slxb63k0djadnvx0nx0,[],{}
+Ligat Ha'al,Israel,H Haifa,1,H Jerusalem,0,2022-11-05,https://www.goal.com/en/match/hapoel-haifa-vs-hapoel-jerusalem/5ktps1vufh7xusc8352r79es4,[],{}
+Ligat Ha'al,Israel,Kiryat Shmona,1,Sakhnin,1,2022-11-05,https://www.goal.com/en/match/ironi-kiryat-shmona-vs-bnei-sakhnin/5lbb9nok21h1d6g6mgh7homqc,[],{}
+Ligat Ha'al,Israel,Ashdod,1,Hapoel TA,0,2022-11-05,https://www.goal.com/en/match/ashdod-vs-hapoel-tel-aviv/5lfd6tuy9cccxz5490cfprnro,[],{}
+Serie C,Italy,Carrarese,2,Fermana,0,2022-11-05,https://www.goal.com/en/match/carrarese-vs-fermana/4ybbgm529fhycossvh44huxhw,[],{}
+Serie C,Italy,Cesena,3,Gubbio,0,2022-11-05,https://www.goal.com/en/match/cesena-vs-gubbio/4yfdnivttz4v074ct5trlld04,[],{}
+Serie C,Italy,Recanatese,0,Fiorenzuola,1,2022-11-05,https://www.goal.com/en/match/recanatese-vs-fiorenzuola/4yv7800w8jtz09qozh7g77ms4,[],{}
+Serie C,Italy,Torres,2,Montevarchi,1,2022-11-05,https://www.goal.com/en/match/torres-vs-montevarchi-calcio/4z51bd1m2p9sa3eyplfbqscus,[],{}
+Serie C,Italy,Vis Pesaro,0,Siena,2,2022-11-05,https://www.goal.com/en/match/vis-pesaro-vs-siena/4zdtr5pst1l28l88zed58o74k,[],{}
+Serie C,Italy,Pro Vercelli,1,AlbinoLeffe,3,2022-11-05,https://www.goal.com/en/match/pro-vercelli-vs-albinoleffe/b5jfk9vgc6dojxyx2ly7lgg0k,[],{}
+Serie C,Italy,Lucchese,1,Alessandria,2,2022-11-05,https://www.goal.com/en/match/lucchese-vs-alessandria/4ynbi8fnudpced6n07mmskzro,[],{}
+Serie C,Italy,Pontedera,1,Rimini,0,2022-11-05,https://www.goal.com/en/match/pontedera-vs-rimini/4yrc7s010bq2gb3viat350jys,[],{}
+Serie C,Italy,Tavarnelle,1,Ancona,1,2022-11-05,https://www.goal.com/en/match/san-donato-tavarnelle-vs-ancona/4z12l60pbmfsld05ex2xj7ggk,[],{}
+Serie C,Italy,Virtus,0,Reggiana,0,2022-11-05,https://www.goal.com/en/match/virtus-entella-vs-reggiana/4z9u49qus0h8m6t1m3bag4104,[],{}
+Super Cup Women,Italy,Juventus,1,Roma,1,2022-11-05,https://www.goal.com/en/match/juventus-vs-roma/6pe1x3jsvsahjyn4rzjcxbsic,"[['Juventus', 'Draw', 'Roma'], ['10', '2', '4']]","{'Corners': ['8', '8'], 'Fouls': ['17', '26']}"
+WE League,Japan,JEF Utd,1,Parceiro,0,2022-11-05,https://www.goal.com/en/match/jef-united-vs-parceiro-nagano/f3rfw7hk88bo036tlbo2d03dg,[],{}
+WE League,Japan,Albirex,0,Sendai,1,2022-11-05,https://www.goal.com/en/match/albirex-niigata-vs-mynavi-sendai/f47hug4713bgic0u9y02wqi38,[],{}
+WE League,Japan,Omiya Ardija,1,Elfen,0,2022-11-05,https://www.goal.com/en/match/omiya-ardija-ventus-vs-elfen-saitama/f3vl0qh1l9tol0qlx77yh2yvo,[],{}
+WE League,Japan,Nojima Stella,1,Beleza,3,2022-11-05,https://www.goal.com/en/match/nojima-stella-vs-tokyo-verdy-beleza/f3zvgz3rl4p2qd614i8sm47pw,[],{}
+A Lyga,Lithuania,Kauno Žalgiris,0,Panevėžys,0,2022-11-05,https://www.goal.com/en/match/kauno-zalgiris-vs-panev-zys/aupyx1glv3ni8tyii936xhw5w,[],{}
+Premier League,Malta,Hibernians,1,Birkirkara,1,2022-11-05,https://www.goal.com/en/match/hibernians-vs-birkirkara/1zc887xz2nfpsr8xtnpyuun10,[],{}
+Premier League,Malta,Pietà,1,Marsaxlokk,1,2022-11-05,https://www.goal.com/en/match/pieta-hotspurs-vs-marsaxlokk/1zfufp2yeot1vpx51arpwzqqc,[],{}
+Premier League,Malta,Floriana,1,Santa Lucia,0,2022-11-05,https://www.goal.com/en/match/floriana-vs-santa-lucia/1zmwlrhgi523mum5dvf6sx72s,[],{}
+Premier League,Malta,Sirens,2,Gudja Utd,0,2022-11-05,https://www.goal.com/en/match/sirens-vs-gudja-united/1zjhvlmxvufoc2an95aak5hxw,[],{}
+Tweede Divisie,Netherlands,HFC,1,Katwijk,3,2022-11-05,https://www.goal.com/en/match/koninklijke-hfc-vs-katwijk/7y8plyu4p1j6j1hdrsip6nok4,[],{}
+Tweede Divisie,Netherlands,Lisse,4,TEC,0,2022-11-05,https://www.goal.com/en/match/lisse-vs-tec/7xinfpg30qkc8lisusvyzwd90,[],{}
+Tweede Divisie,Netherlands,Noordwijk,1,AFC,3,2022-11-05,https://www.goal.com/en/match/noordwijk-vs-afc/7xmn62ny7zn8kj2jdc41qhlp0,[],{}
+Tweede Divisie,Netherlands,Scheveningen,1,OFC,1,2022-11-05,https://www.goal.com/en/match/scheveningen-vs-ofc/7xq7gk6mrpty7h8zvy7hthul0,[],{}
+Tweede Divisie,Netherlands,Kozakken Boys,0,Rijnsburg,1,2022-11-05,https://www.goal.com/en/match/kozakken-boys-vs-rijnsburgse-boys/7y1bexl6nbvdrd3csfc5mpm38,[],{}
+Tweede Divisie,Netherlands,Quick Boys,7,Maassluis,2,2022-11-05,https://www.goal.com/en/match/quick-boys-vs-excelsior-maassluis/7xtyleeflinm90uxk5aeqho2c,[],{}
+Tweede Divisie,Netherlands,Spakenburg,1,IJsselmeervoge,1,2022-11-05,https://www.goal.com/en/match/spakenburg-vs-ijsselmeervogels/7xxmoxnr0yjajp7e0p2wx785w,[],{}
+Tweede Divisie,Netherlands,Volendam II,1,Treffers,3,2022-11-05,https://www.goal.com/en/match/volendam-ii-vs-de-treffers/7y4y3cjbagoijrsn8w8qwss9g,[],{}
+Tweede Divisie,Netherlands,Sparta II,1,HHC,4,2022-11-05,https://www.goal.com/en/match/sparta-rotterdam-ii-vs-hhc/7xeyk8shs58pzniwn2o8s2v4k,[],{}
+Premiership,Northern Ireland,Carrick,0,Coleraine,1,2022-11-05,https://www.goal.com/en/match/carrick-rangers-vs-coleraine/api58dc1p48juhoeq4mk24ob8,[],{}
+Premiership,Northern Ireland,Cliftonville,2,Glenavon,2,2022-11-05,https://www.goal.com/en/match/cliftonville-vs-glenavon/aplofbw5omv5zuxua719j8rv8,[],{}
+Premiership,Northern Ireland,Glentoran,3,Dungannon,1,2022-11-05,https://www.goal.com/en/match/glentoran-vs-dungannon-swifts/apphphxud5brgd66pgkee59n8,[],{}
+Premiership,Northern Ireland,Portadown,0,Linfield,3,2022-11-05,https://www.goal.com/en/match/portadown-vs-linfield/apwtxsetq1b4mp5l0ljoat1ck,[],{}
+Play-offs 2/3,Norway,Arendal,1,Skeid,2,2022-11-05,https://www.goal.com/en/match/arendal-vs-skeid/2c1zvtc32bus8g6kf3p8e4yl0,[],{}
+I Liga,Poland,Odra,1,ŁKS Łódź,2,2022-11-05,https://www.goal.com/en/match/odra-opole-vs-lks-lodz/5lwmebsreq1k1778wd46bq044,[],{}
+I Liga,Poland,Resovia,2,Podbeskidzie,2,2022-11-05,https://www.goal.com/en/match/resovia-rzeszow-vs-podbeskidzie/5lp9he4y16oxjgv4mpqn46j2s,[],{}
+I Liga,Poland,Tychy,2,Ruch,2,2022-11-05,https://www.goal.com/en/match/tychy-vs-ruch-chorzow/5m4ayf5lixre0mgc4xi1g56vo,[],{}
+I Liga,Poland,GKS Katowice,3,Chojniczanka,0,2022-11-05,https://www.goal.com/en/match/gks-katowice-vs-chojniczanka-chojnice/5m0pr9rac2be14yqcv0u6fhuc,[],{}
+Segunda Liga,Portugal,Moreirense,3,Porto II,2,2022-11-05,https://www.goal.com/en/match/moreirense-vs-porto-ii/21bwi7nkg4t7rc3iwdcnf9a1g,[],{}
+Segunda Liga,Portugal,Leixões,1,Torreense,0,2022-11-05,https://www.goal.com/en/match/leixoes-vs-torreense/217vdunyj78g83jx6flguevpw,[],{}
+Segunda Liga,Portugal,Vilafranquense,1,Tondela,1,2022-11-05,https://www.goal.com/en/match/vilafranquense-vs-tondela/20rrup9icy0lpv944suaiqxhw,[],{}
+Segunda Liga,Portugal,Penafiel,0,Farense,2,2022-11-05,https://www.goal.com/en/match/penafiel-vs-farense/20i8hup877hu52t0lng0jid5g,[],{}
+Segunda Liga,Portugal,UD Oliveirense,1,Viseu,1,2022-11-05,https://www.goal.com/en/match/ud-oliveirense-vs-academico-viseu/20vtdcoq5bhbooc4n9duh5c7o,[],{}
+Liga I,Romania,Argeș,0,Sepsi,5,2022-11-05,https://www.goal.com/en/match/arges-vs-sepsi/3qq3ugkwlt3tzxd7osfnjo3dg,[],{}
+Liga I,Romania,Petrolul 52,2,Arad,1,2022-11-05,https://www.goal.com/en/match/petrolul-52-vs-uta-arad/3qmlxi70v351uhii92shy35sk,[],{}
+Liga I,Romania,U Craiova,1,U Cluj,0,2022-11-05,https://www.goal.com/en/match/universitatea-craiova-vs-universitatea-cluj/3qtrqxpsqgsb2w9z3orx3e4no,[],{}
+Highland / Lowland,Scotland,Brechin,5,Clachnacuddin,0,2022-11-05,https://www.goal.com/en/match/brechin-city-vs-clachnacuddin/9j58rgazpd0v69d2nfq8km1p0,[],{}
+Highland / Lowland,Scotland,Formartine Utd,1,Buckie Thistle,2,2022-11-05,https://www.goal.com/en/match/formartine-united-vs-buckie-thistle/9j9d8y4yb76f63i93ykncnims,[],{}
+Highland / Lowland,Scotland,Forres,1,Fraserburgh,1,2022-11-05,https://www.goal.com/en/match/forres-mechanics-vs-fraserburgh/9jfizxz7xq8f8bv4v63sk7tp0,[],{}
+Highland / Lowland,Scotland,Huntly,1,Brora Rangers,3,2022-11-05,https://www.goal.com/en/match/huntly-vs-brora-rangers/9jjrce1ihtngyvlfapir3h5p0,[],{}
+Highland / Lowland,Scotland,Inverurie,2,Keith,0,2022-11-05,https://www.goal.com/en/match/inverurie-loco-works-vs-keith/9jnv61wz8p1vj3ee04vmu41ec,[],{}
+Highland / Lowland,Scotland,Nairn,2,Turriff Udt,1,2022-11-05,https://www.goal.com/en/match/nairn-county-vs-turriff-united/9jrkpxftyg83x0ohusybgomxg,[],{}
+Highland / Lowland,Scotland,Rothes,3,Lossiemouth,1,2022-11-05,https://www.goal.com/en/match/rothes-vs-lossiemouth/9jve0wi69op3qodwbnbub0a38,[],{}
+Highland / Lowland,Scotland,Strathspey,0,Banks O' Dee,7,2022-11-05,https://www.goal.com/en/match/strathspey-thistle-vs-banks-o-dee/9jz6vpxaspbv5jdgxwfjsl5as,[],{}
+Highland / Lowland,Scotland,Wick,2,Deveronvale,1,2022-11-05,https://www.goal.com/en/match/wick-academy-vs-deveronvale/9k34r6f030vxn821njj1l709g,[],{}
+Highland / Lowland,Scotland,Berwick,1,Strollers,1,2022-11-05,https://www.goal.com/en/match/berwick-rangers-vs-cs-strollers/7ojr4t521ga6axf0igremh91w,[],{}
+Highland / Lowland,Scotland,Bo'ness Utd,7,Dalbeattie,0,2022-11-05,https://www.goal.com/en/match/bo-ness-united-vs-dalbeattie-star/7oevjldjgvipmeuyg2at5p6hg,[],{}
+Highland / Lowland,Scotland,Celtic,6,Broomhill,2,2022-11-05,https://www.goal.com/en/match/celtic-ii-vs-broomhill/7ob5oft6fyslmzhi54h11agb8,[],{}
+Highland / Lowland,Scotland,Cowdenbeath,1,Cumbernauld C.,0,2022-11-05,https://www.goal.com/en/match/cowdenbeath-vs-cumbernauld-colts/7on6zgxvllcxxz966p8za38yc,[],{}
+Highland / Lowland,Scotland,Edinburgh U,0,Hearts,9,2022-11-05,https://www.goal.com/en/match/edinburgh-university-vs-hearts-ii/7o7lbznzk309qshfz2uoi80es,[],{}
+Highland / Lowland,Scotland,Gretna,0,Spartans,3,2022-11-05,https://www.goal.com/en/match/gretna-2008-vs-spartans/7o4188qxv8ghdqkfr0p1z97o4,[],{}
+Highland / Lowland,Scotland,Stirling Unv,2,East Kilbride,0,2022-11-05,https://www.goal.com/en/match/stirling-university-vs-east-kilbride/7nwx38ycr5u0zupvpbtqsckd0,[],{}
+Highland / Lowland,Scotland,Tranent,2,Rangers,2,2022-11-05,https://www.goal.com/en/match/tranent-vs-rangers-ii/7o0hqwkvmnxqa1bwdmf3glkb8,[],{}
+Super Liga,Serbia,Radnički Krag,1,Radnik,0,2022-11-05,https://www.goal.com/en/match/radnicki-kragujevac-vs-radnik-surdulica/6lf4pzz1omm5nt6axmn129qtw,[],{}
+Super Liga,Serbia,Radnički Niš,1,Kolubara,1,2022-11-05,https://www.goal.com/en/match/radnicki-nis-vs-kolubara/6l7tp9za3hgau2k44lp48pst0,[],{}
+Super Liga,Serbia,Spartak,1,Vojvodina,1,2022-11-05,https://www.goal.com/en/match/spartak-subotica-vs-vojvodina/6lim5xk8qsp7v1fmutikj53x0,[],{}
+Cup,Singapore,Balestier,5,Young Lions,2,2022-11-05,https://www.goal.com/en/match/balestier-khalsa-vs-young-lions/8djms42kygxvxmjhoemlkqi38,[],{}
+Cup,Singapore,Lion City,1,Albirex,2,2022-11-05,https://www.goal.com/en/match/lion-city-sailors-vs-albirex-niigata-s/6rzn5zoydakd8nlvhejjjjm6s,[],{}
+Super Liga,Slovakia,DAC 1904,1,Spartak,0,2022-11-05,https://www.goal.com/en/match/dac-1904-vs-spartak-trnava/e9rkheb0jwdl94lbpho5g2gwk,[],{}
+Super Liga,Slovakia,L. Mikuláš,1,Trenčín,1,2022-11-05,https://www.goal.com/en/match/liptovsky-mikulas-vs-trencin/e9cletx4k27chs5cqaklg3itw,[],{}
+Super Liga,Slovakia,Skalica,0,Zemplín,0,2022-11-05,https://www.goal.com/en/match/skalica-vs-zemplin-michalovce/e9gdac330a0za8c3ms82wkvtg,[],{}
+1. SNL,Slovenia,Gorica,0,Celje,2,2022-11-05,https://www.goal.com/en/match/gorica-vs-celje/dxdt7bi31hnt75brxb75pyn10,[],{}
+1. SNL,Slovenia,Radomlje,0,Olimpija,1,2022-11-05,https://www.goal.com/en/match/radomlje-vs-olimpija/dx3t6kyzhcswag5ywbtnbzwgk,[],{}
+8 Cup,South Africa,Pirates,1,AmaZulu,0,2022-11-05,https://www.goal.com/en/match/orlando-pirates-vs-amazulu/3kykjeqd288kminmjurcm1hqs,[],{}
+Segunda División,Spain,Burgos,0,Tenerife,1,2022-11-05,https://www.goal.com/en/match/burgos-vs-tenerife/2a8c8pgyb05ramlsn8pesj5ec,[],{}
+Segunda División,Spain,FC Andorra,0,Santander,1,2022-11-05,https://www.goal.com/en/match/fc-andorra-vs-racing-santander/2a4s3pyij9ktspryjmyhw5t04,[],{}
+Segunda División,Spain,Huesca,1,Villarreal II,0,2022-11-05,https://www.goal.com/en/match/huesca-vs-villarreal-ii/2ac4vqiur0f4urpga4cxaevpw,[],{}
+Segunda División,Spain,Leganés,2,Ponferradina,1,2022-11-05,https://www.goal.com/en/match/leganes-vs-ponferradina/2ajnkvun3byhc0z2o8902tfkk,[],{}
+Primera División Femenina,Spain,Sociedad,0,Madrid,2,2022-11-05,https://www.goal.com/en/match/real-sociedad-vs-madrid/c7k1s06kjxvqphus66lfjr95g,[],{}
+Primera División Femenina,Spain,Valencia,1,Athletic Club,2,2022-11-05,https://www.goal.com/en/match/valencia-vs-athletic-club/c7u3eg2s29roy2vja33t4yr6c,[],{}
+Primera División Femenina,Spain,Atl. Madrid,1,Alhama,0,2022-11-05,https://www.goal.com/en/match/atletico-madrid-vs-alhama/c7qp7qaljnnw7l40ygc1981ec,[],{}
+Primera División Femenina,Spain,Levante,3,Huelva,0,2022-11-05,https://www.goal.com/en/match/levante-vs-sporting-de-huelva/c7a3var5i0liwn02edffxr02c,[],{}
+Superettan,Sweden,Brommapojkarna,3,Örgryte,1,2022-11-05,https://www.goal.com/en/match/brommapojkarna-vs-oergryte/b6bf1c9b2mb5imqg64xhcd0yc,[],{}
+Superettan,Sweden,Halmstad,1,Brage,0,2022-11-05,https://www.goal.com/en/match/halmstad-vs-brage/b67fds6diz28fh9ihgj2zmvx0,[],{}
+Superettan,Sweden,Jönköpings S,1,Örebro,1,2022-11-05,https://www.goal.com/en/match/joenkoepings-soedra-vs-oerebro/b63le52h38t57x1lerhxq7ok4,[],{}
+Superettan,Sweden,Landskrona,2,Utsikten,0,2022-11-05,https://www.goal.com/en/match/landskrona-vs-utsikten/b5ziy2gf8oweofhyvy8yu4e1g,[],{}
+Superettan,Sweden,Öster,0,Trelleborg,1,2022-11-05,https://www.goal.com/en/match/oester-vs-trelleborg/b6j6okagt8palrnajkmt7vhn8,[],{}
+Superettan,Sweden,Östersunds FK,1,Norrby,0,2022-11-05,https://www.goal.com/en/match/oestersunds-fk-vs-norrby/b6n41p1ljjppbhvq2ynnfrml0,[],{}
+Superettan,Sweden,Skövde,2,Dalkurd,2,2022-11-05,https://www.goal.com/en/match/skoevde-aik-vs-dalkurd/b6fc662xwahid62wmhug9t4pg,[],{}
+Superettan,Sweden,Västerås,2,AFC Eskilstuna,0,2022-11-05,https://www.goal.com/en/match/vaesteras-sk-vs-afc-eskilstuna/b5vj3rchs8t5a4ool1s2d8vf8,[],{}
+Ettan,Sweden,Ängelholm,3,Ljungskile,1,2022-11-05,https://www.goal.com/en/match/aengelholm-vs-ljungskile/6v1kejzovma4vd5r9qx1uj8yc,[],{}
+Ettan,Sweden,Åtvidaberg,0,Torns,2,2022-11-05,https://www.goal.com/en/match/atvidaberg-vs-torns/6v5bttqkp4fbivlu7sgabkaok,[],{}
+Ettan,Sweden,Falkenberg,5,Lund,0,2022-11-05,https://www.goal.com/en/match/falkenberg-vs-lund/6uih3k884kktq55htsgye09hw,[],{}
+Ettan,Sweden,GAIS,4,IFK Malmö,0,2022-11-05,https://www.goal.com/en/match/gais-vs-ifk-malmoe/6um1z3mvigp952am2tjyittsk,[],{}
+Ettan,Sweden,Lindome,2,Tvååker,4,2022-11-05,https://www.goal.com/en/match/lindome-vs-tvaaker/6uteivtw53y0jftioamlzafx0,[],{}
+Ettan,Sweden,Oddevold,1,Vänersborg,0,2022-11-05,https://www.goal.com/en/match/oddevold-vs-vaenersborgs-if/6upmdkbph5iky4zbctaa0g55g,[],{}
+Ettan,Sweden,Olympic,4,Qviding,3,2022-11-05,https://www.goal.com/en/match/olympic-vs-qviding-fif/6uewefoqmoxc4ok4ydr0g83ys,[],{}
+Ettan,Sweden,Oskarshamn,0,Trollhättan,2,2022-11-05,https://www.goal.com/en/match/oskarshamns-aik-vs-trollhaettan/6ux7foxxn36xsobxr5kxb7bpw,[],{}
+Damallsvenskan,Sweden,AIK,1,Kalmar,2,2022-11-05,https://www.goal.com/en/match/aik-vs-kalmar/cqasr1r2g5kdyxfzi7m356fpw,[],{}
+Damallsvenskan,Sweden,Brommapojkarna,0,Rosengård,3,2022-11-05,https://www.goal.com/en/match/brommapojkarna-vs-rosengard/cql7s4ycphee06itv1qkfrlsk,[],{}
+Damallsvenskan,Sweden,Djurgården,1,Häcken,3,2022-11-05,https://www.goal.com/en/match/djurgarden-vs-haecken/cqe7v2o50onqg7ekrbusnkpp0,[],{}
+Damallsvenskan,Sweden,Eskilstuna,1,Piteå,3,2022-11-05,https://www.goal.com/en/match/eskilstuna-united-vs-pitea/cqht7mnsk626aplmd1n2n1vro,[],{}
+Damallsvenskan,Sweden,Kristianstad,4,Umeå,1,2022-11-05,https://www.goal.com/en/match/kristianstad-vs-umea/cqryzc9h072o22s3mxxu8h5hw,[],{}
+Damallsvenskan,Sweden,Örebro,0,Linköping,0,2022-11-05,https://www.goal.com/en/match/kif-oerebro-vs-linkoeping/cqok15asphcsowf9vlorjrs44,[],{}
+Damallsvenskan,Sweden,Vittsjö,1,Hammarby,2,2022-11-05,https://www.goal.com/en/match/vittsjoe-vs-hammarby/cqvlsq87jrthxsr233elucefo,[],{}
+Challenge League,Switzerland,Stade-Lausanne,2,Bellinzona,1,2022-11-05,https://www.goal.com/en/match/stade-lausanne-ouchy-vs-bellinzona/cbnbeotr3hdoemssi7nj0aexg,[],{}
+Thai League 1,Thailand,Chiangrai Utd,1,Chonburi,1,2022-11-05,https://www.goal.com/en/match/chiangrai-united-vs-chonburi/4y542kgnce2fj8bgt9tbv08ic,[],{}
+Thai League 1,Thailand,Lampang,0,Buriram Utd,3,2022-11-05,https://www.goal.com/en/match/lampang-vs-buriram-united/4yru8tegjsgujeh3rg7mwl8gk,[],{}
+Thai League 1,Thailand,Ratchasima,0,BGPU,4,2022-11-05,https://www.goal.com/en/match/nakhonratchasima-vs-bg-pathum-united/4yiox8krjxmon67q5ynep07bo,[],{}
+Thai League 1,Thailand,Sukhothai,1,Police Tero,0,2022-11-05,https://www.goal.com/en/match/sukhothai-vs-police-tero/4ye303zu2ce0ekgbhbf44tic4,[],{}
+Thai League 2,Thailand,Suphanburi,1,Nakhon Pathom,0,2022-11-05,https://www.goal.com/en/match/suphanburi-vs-nakhon-pathom-united/fattiogktwsxndpan7p5yb6c,[],{}
+Thai League 2,Thailand,Chainat,1,Ranong,1,2022-11-05,https://www.goal.com/en/match/chainat-hornbill-vs-ranong-united/feqfg2fr91qthvguqqxfe5g4,[],{}
+Thai League 2,Thailand,Kasetsart,5,Krabi,0,2022-11-05,https://www.goal.com/en/match/kasetsart-vs-krabi/firjgw7ne93v1mhc2so34kyc,[],{}
+Thai League 2,Thailand,Customs Utd,1,Rayong,0,2022-11-05,https://www.goal.com/en/match/customs-ladkrabang-utd-vs-rayong/fmp69v7ydeayljleey642ihg,[],{}
+Thai League 2,Thailand,Chiangmai Utd,2,Chiangmai,1,2022-11-05,https://www.goal.com/en/match/chiangmai-united-vs-chiangmai/f4yb1pw3hlla6lfsr4xv4ems,[],{}
+Ligue 1,Tunisia,ES Sahel,3,Chebba,0,2022-11-05,https://www.goal.com/en/match/etoile-du-sahel-vs-chebba/8eu3pcbpzlh51sf73ouueqihg,[],{}
+Ligue 1,Tunisia,Tunis,3,Tataouine,0,2022-11-05,https://www.goal.com/en/match/es-tunis-vs-tataouine/d23u62tl89cksqwe4a817ni1g,[],{}
+1. Lig,Turkey,Bodrumspor,1,Boluspor,0,2022-11-05,https://www.goal.com/en/match/bodrumspor-vs-boluspor/6aeqx2ozwbdx74o3pjprrpjis,[],{}
+1. Lig,Turkey,Manisa FK,2,Sakaryaspor,1,2022-11-05,https://www.goal.com/en/match/manisa-fk-vs-sakaryaspor/6atfiftrnrzo32m74s5kz2as4,[],{}
+1. Lig,Turkey,Adanaspor,3,Pendik,2,2022-11-05,https://www.goal.com/en/match/adanaspor-vs-pendikspor/6aagb5v9ulf6wl81e0gicgff8,[],{}
+1. Lig,Turkey,Yeni Malatya,2,Gençlerbirliği,2,2022-11-05,https://www.goal.com/en/match/yeni-malatyaspor-vs-genclerbirligi/6a656308gda5d6m2vmw5oqnmc,[],{}
+1. Lig,Turkey,Altay,1,Bandırma,1,2022-11-05,https://www.goal.com/en/match/altay-vs-bandirmaspor/6ap1sl3dtyqit1hvgyo4j8sno,[],{}
+2. Lig,Turkey,Amed,0,Ankaraspor,0,2022-11-05,https://www.goal.com/en/match/amed-vs-ankaraspor/562bxh25ryydosisf7o4caexg,[],{}
+2. Lig,Turkey,Afyonspor,0,24 Erzincan,0,2022-11-05,https://www.goal.com/en/match/afyonspor-vs-24-erzincanspor/55xrkydasr6m28o9tzjlb92xg,[],{}
+2. Lig,Turkey,Batman Petrol,1,İnegöl,0,2022-11-05,https://www.goal.com/en/match/batman-petrolspor-vs-inegoelspor/56ewhz1oeazdfgzl5n6src9hw,[],{}
+2. Lig,Turkey,Bursaspor,0,Düzce,0,2022-11-05,https://www.goal.com/en/match/bursaspor-vs-duezcespor/56aq2093buvzn3afhb4t6iuqc,[],{}
+2. Lig,Turkey,Çorum FK,3,Bayburt,0,2022-11-05,https://www.goal.com/en/match/corum-fk-vs-bayburt-oeis/56n50qi7i87qsu2qa2tpm0utw,[],{}
+2. Lig,Turkey,Nazilli BS,2,Menemen,0,2022-11-05,https://www.goal.com/en/match/nazilli-belediyespor-vs-menemen/56rku3cmypdi4zf6rqqbyy0pg,[],{}
+2. Lig,Turkey,Şanlıurfa,1,Arnavutköy BS,1,2022-11-05,https://www.goal.com/en/match/sanliurfaspor-vs-arnavutkoey-belediyespor/566iz91x3m67hac2kv1bpwkr8,[],{}
+2. Lig,Turkey,Sivas BS,1,Tarsus İY,0,2022-11-05,https://www.goal.com/en/match/sivas-belediyespor-vs-tarsus-idman-yurdu/56izlnxp57xqs1f9lhl0mvfh0,[],{}
+2. Lig,Turkey,Soma,2,Isparta 32,0,2022-11-05,https://www.goal.com/en/match/somaspor-vs-isparta-32-spor/55tj2x3jk945f9hmjwszejdp0,[],{}
+2. Lig,Turkey,Ankara Demir,1,İskenderunspor,1,2022-11-05,https://www.goal.com/en/match/ankara-demirspor-vs-iskenderunspor/cy844k8msmbtqdlxb5kflsqhg,[],{}
+2. Lig,Turkey,Balıkesirspor,1,Kırklareli,1,2022-11-05,https://www.goal.com/en/match/balikesirspor-vs-kirklarelispor/cyg24hrotu5ry5mqaynsuuy38,[],{}
+2. Lig,Turkey,Bucaspor 1928,3,Fethiye,1,2022-11-05,https://www.goal.com/en/match/bucaspor-1928-vs-fethiyespor/cyc5g9608juea4fvj5rjo50k4,[],{}
+2. Lig,Turkey,Etimesgut BS,2,Karacabey BS,1,2022-11-05,https://www.goal.com/en/match/etimesgut-belediyespor-vs-karacabey-belediyespor/cxgk8kqvhuktk1mhnn2uunm6s,[],{}
+2. Lig,Turkey,Kastamonuspor,2,Diyarbekirspor,1,2022-11-05,https://www.goal.com/en/match/kastamonuspor-vs-diyarbekirspor/cxog3cmsy89ed0owlllw9e49g,[],{}
+2. Lig,Turkey,Kırşehir FK,0,Zonguldak,2,2022-11-05,https://www.goal.com/en/match/kirsehir-fk-vs-zonguldak-koemuerspor/cxsb2wz1prfmhhcw32sebj5lg,[],{}
+2. Lig,Turkey,Kocaelispor,4,Vanspor,2,2022-11-05,https://www.goal.com/en/match/kocaelispor-vs-vanspor-fk/cy46f09i3ndqkb0i1b8nzjcpg,[],{}
+2. Lig,Turkey,Sarıyer,0,1461 Trabzon F,3,2022-11-05,https://www.goal.com/en/match/sariyer-vs-1461-trabzon-fk/cxw4hhc97hc5ukgcs0kmex6ok,[],{}
+2. Lig,Turkey,Serik BS,3,Adıyaman,2,2022-11-05,https://www.goal.com/en/match/serik-belediyespor-vs-adiyaman/cy03dbhrdm8y3d6kdqtqig4r8,[],{}
+2. Lig,Turkey,Uşak Spor,1,Pazar,1,2022-11-05,https://www.goal.com/en/match/usak-spor-vs-pazarspor/cxkgn4pbgjjzt01rktpro7tp0,[],{}
+3. Lig,Turkey,Ayvalıkgücü BS,0,Of,0,2022-11-05,https://www.goal.com/en/match/ayvalikguecue-belediyespor-vs-ofspor/bti609oys9yucjklodbcr4g7o,[],{}
+3. Lig,Turkey,Fatsa BS,1,Kepez BS,1,2022-11-05,https://www.goal.com/en/match/fatsa-belediyespor-vs-kepez-belediyespor/nnsa0ihwhmr2ig9fck3hqk9g,[],{}
+3. Lig,Turkey,Yeni Çarşı,2,Erbaa,0,2022-11-05,https://www.goal.com/en/match/beyoglu-yeni-carsi-vs-erbaaspor/nd75rjvv1tufalpkjt2ri6tw,[],{}
+Persha Liga,Ukraine,Chernihiv,0,Metalurh,0,2022-11-05,https://www.goal.com/en/match/chernihiv-vs-metalurh-zaporizhya/8e7yl6zf90cgb1ed3gvqkkidw,[],{}
+Persha Liga,Ukraine,FSC Mariupol,0,Epitsentr,1,2022-11-05,https://www.goal.com/en/match/fsc-mariupol-vs-epitsentr-dunayivtsi/eh69kggujqxh5bg1i64jdq8es,[],{}
+Pro League,United Arab Emirates,Al Dhafra,0,Sharjah,1,2022-11-05,https://www.goal.com/en/match/al-dhafra-vs-sharjah/8wsnzw1cwq15gm07wtb053s44,[],{}
+Pro League,United Arab Emirates,Al Wahda,3,Dibba Fujairah,0,2022-11-05,https://www.goal.com/en/match/al-wahda-vs-dibba-al-fujairah/8wk0lm0kvxw35ludpzzgabnkk,[],{}
+Pro League,United Arab Emirates,Al Wasl,2,Ajman,1,2022-11-05,https://www.goal.com/en/match/al-wasl-vs-ajman/8wh7v2f5vqsbb0qkg1hrbee50,[],{}
+Pro League,United Arab Emirates,Kalba,2,Bani Yas,1,2022-11-05,https://www.goal.com/en/match/kalba-vs-bani-yas/8wvlbmvkmb6rkzgj1mdxuwxzo,[],{}
+Premier League,Wales,Newtown,2,Airbus,1,2022-11-05,https://www.goal.com/en/match/newtown-vs-airbus-uk/7i8ecq4eur60mr2of6x063f9w,[],{}
+Premier League,Wales,Caernarfon,0,Penybont,2,2022-11-05,https://www.goal.com/en/match/caernarfon-town-vs-penybont/7i1q867filbmrupsnirki21hw,[],{}
+Premier League,Wales,Flint Town Utd,0,Haverfordwest,1,2022-11-05,https://www.goal.com/en/match/flint-town-united-vs-haverfordwest-county/7i55mn2y4qxwwclfi5la4lh5g,[],{}
+Premier League,Wales,TNS,4,Cardiff MU,0,2022-11-05,https://www.goal.com/en/match/the-new-saints-vs-cardiff-mu/7ibjnaz07dlsy3urrl52akkd0,[],{}
+Non-FIFA Friendlies,World,Qatar,2,Panama,1,2022-11-05,https://www.goal.com/en/match/qatar-vs-panama/6jpkw0q9resfstqb4ivu1u6ms,[],{}

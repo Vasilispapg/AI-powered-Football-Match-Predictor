@@ -1,0 +1,95 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date,URL,Votes,Stats
+La Liga,Spain,Real Madrid,2,Valencia,0,2023-02-02,https://www.goal.com/en/match/real-madrid-vs-valencia/9m7bxgu2djx046dxbn2bqiyok,"[['Real Madrid', 'Draw', 'Valencia'], ['4071', '1559', '967']]","{'Ball possession': ['70.5%', '29.5%'], 'Total shots': ['19', '4'], 'Corners': ['6', '6'], 'Fouls': ['12', '17']}"
+Süper Lig,Turkey,Kayseri,1,Başakşehir,0,2023-02-02,https://www.goal.com/en/match/kayserispor-vs-istanbul-basaksehir/wcpl6k81ho014xv9hpz2efx0,"[['Kayseri', 'Draw', 'Başakşehir'], ['434', '867', '983']]","{'Ball possession': ['45.8%', '54.2%'], 'Total shots': ['15', '14'], 'Corners': ['5', '4'], 'Fouls': ['13', '8']}"
+Süper Lig,Turkey,Konyaspor,0,İstanbulspor,1,2023-02-02,https://www.goal.com/en/match/konyaspor-vs-istanbulspor/wjfm4c0fx6pk6op706x80bh0,"[['Konyaspor', 'Draw', 'İstanbulspor'], ['720', '680', '366']]","{'Ball possession': ['52.1%', '47.9%'], 'Total shots': ['22', '8'], 'Corners': ['8', '3'], 'Fouls': ['15', '15']}"
+Süper Lig,Turkey,Demirspor,1,Fenerbahçe,1,2023-02-02,https://www.goal.com/en/match/adana-demirspor-vs-fenerbahce/wo83htg6qwt1ur4obj4f5e6s,"[['Demirspor', 'Draw', 'Fenerbahçe'], ['416', '1087', '1659']]","{'Ball possession': ['37.5%', '62.5%'], 'Total shots': ['20', '25'], 'Corners': ['5', '10'], 'Fouls': ['13', '18']}"
+Liga MX,Mexico,Atlas,0,Toluca,0,2023-02-02,https://www.goal.com/en/match/atlas-vs-toluca/6uo2c5uuhhjigch0s73x0uh3o,"[['Atlas', 'Draw', 'Toluca'], ['198', '187', '122']]","{'Ball possession': ['40.5%', '59.5%'], 'Total shots': ['11', '15'], 'Corners': ['5', '7'], 'Fouls': ['13', '18']}"
+Primeira Liga,Portugal,Sporting,5,Braga,0,2023-02-02,https://www.goal.com/en/match/sporting-cp-vs-sporting-braga/brqaxd7rn3jis83lbn7lgxt78,"[['Sporting', 'Draw', 'Braga'], ['669', '673', '415']]","{'Ball possession': ['64.5%', '35.5%'], 'Total shots': ['22', '4'], 'Corners': ['10', '1'], 'Fouls': ['13', '13']}"
+Coppa Italia,Italy,Juventus,1,Lazio,0,2023-02-02,https://www.goal.com/en/match/juventus-vs-lazio/f1s9fhign5thw9gf8te04whsk,"[['Juventus', 'Draw', 'Lazio'], ['2157', '1696', '1652']]","{'Ball possession': ['43.4%', '56.6%'], 'Total shots': ['12', '11'], 'Corners': ['5', '1'], 'Fouls': ['15', '9']}"
+Cup,Albania,Egnatia,1,Skënderbeu,1,2023-02-02,https://www.goal.com/en/match/egnatia-rrogozhine-vs-skenderbeu-korce/10nddt2zjqrx55h3d55fxcff8,[],{}
+Cup,Albania,Kastrioti,0,Dinamo,0,2023-02-02,https://www.goal.com/en/match/kastrioti-kruje-vs-dinamo-tirana/102f3j6yuwc9r7gj643e3xc0k,"[['Kastrioti', 'Draw', 'Dinamo'], ['55', '55', '39']]","{'Corners': ['4', '8'], 'Fouls': ['14', '21']}"
+Cup,Albania,Kukësi,5,Apolonia,0,2023-02-02,https://www.goal.com/en/match/kukesi-vs-apolonia-fier/10csfrb0fpqfouq51wf7c6qz8,"[['Kukësi', 'Draw', 'Apolonia'], ['51', '64', '18']]","{'Corners': ['7', '0'], 'Fouls': ['12', '7']}"
+Cup,Albania,Laçi,2,Tomori,1,2023-02-02,https://www.goal.com/en/match/laci-vs-tomori-berat/107k80o6b0d98ll8uawzexs0k,[],{}
+Cup,Albania,Partizani,3,Korabi,0,2023-02-02,https://www.goal.com/en/match/partizani-tirana-vs-korabi-peshkopi/zrx3cu06p3dh9647z02jgkd0,[],{}
+Cup,Albania,Tirana,1,Lushnja,0,2023-02-02,https://www.goal.com/en/match/tirana-vs-lushnja/zmmrfjrush2gvogjhlgku1as,[],{}
+Copa Argentina,Argentina,Def y Justicia,3,Ituzaingó,2,2023-02-02,https://www.goal.com/en/match/defensa-y-justicia-vs-ituzaingo/a296ohfiztwe4dn7r5ub615w4,[],{}
+Copa Argentina,Argentina,Huracán,4,Yupanqui,1,2023-02-02,https://www.goal.com/en/match/huracan-vs-yupanqui/a11po4hzmutq4z0m8uomxte6s,[],{}
+Cup,Belgium,ZW,1,Mechelen,2,2023-02-02,https://www.goal.com/en/match/zulte-waregem-vs-mechelen/4733rgkg6yqt6q8ldt9cv2hw4,"[['ZW', 'Draw', 'Mechelen'], ['628', '785', '454']]","{'Ball possession': ['57.1%', '42.9%'], 'Total shots': ['20', '6'], 'Corners': ['5', '3'], 'Fouls': ['12', '12']}"
+Paulista A1,Brazil,Mirassol,0,Palmeiras,2,2023-02-02,https://www.goal.com/en/match/mirassol-vs-palmeiras/cemo247tjxko7agzb6jfie9lg,"[['Mirassol', 'Draw', 'Palmeiras'], ['33', '110', '271']]","{'Ball possession': ['42.6%', '57.4%'], 'Total shots': ['18', '14'], 'Corners': ['5', '4'], 'Fouls': ['9', '15']}"
+Carioca Série A,Brazil,Botafogo,0,Nova Iguaçu,0,2023-02-02,https://www.goal.com/en/match/botafogo-vs-nova-iguacu/7decd8v6s6p0f4qcumbjrvifo,"[['Botafogo', 'Draw', 'Nova Iguaçu'], ['101', '61', '17']]","{'Corners': ['7', '2'], 'Fouls': ['25', '14']}"
+Carioca Série A,Brazil,Flamengo,1,Boavista,0,2023-02-02,https://www.goal.com/en/match/flamengo-vs-boavista/7d59b45vp2lej0kenmelm4d90,"[['Flamengo', 'Draw', 'Boavista'], ['178', '90', '38']]","{'Ball possession': ['100%', '0%'], 'Total shots': ['1', '0'], 'Corners': ['8', '4'], 'Fouls': ['21', '11']}"
+Carioca Série A,Brazil,Madureira,1,Portuguesa,1,2023-02-02,https://www.goal.com/en/match/madureira-vs-portuguesa-rj/7dr5t719h0fskbihreudjv2ms,"[['Madureira', 'Draw', 'Portuguesa'], ['114', '150', '60']]","{'Corners': ['2', '8'], 'Fouls': ['16', '24']}"
+Gaúcho 1,Brazil,Aimoré,0,São José RS,1,2023-02-02,https://www.goal.com/en/match/aimore-vs-sao-jose-rs/b8oqce3vnedtihcuuyucp474k,"[['Aimoré', 'Draw', 'São José RS'], ['9', '25', '8']]","{'Corners': ['13', '3'], 'Fouls': ['9', '13']}"
+Gaúcho 1,Brazil,Esportivo,0,Grêmio,2,2023-02-02,https://www.goal.com/en/match/esportivo-vs-gremio/b8w8a7svwlzitc2u12xzxz5zo,"[['Esportivo', 'Draw', 'Grêmio'], ['14', '38', '76']]","{'Ball possession': ['0%', '100%'], 'Total shots': ['0', '2'], 'Corners': ['1', '5'], 'Fouls': ['12', '8']}"
+Gaúcho 1,Brazil,Brasil Pelotas,0,Caxias,0,2023-02-02,https://www.goal.com/en/match/brasil-de-pelotas-vs-caxias/b8sihryk3xg1so4zymwfqk3ro,"[['Brasil Pelotas', 'Draw', 'Caxias'], ['21', '32', '14']]","{'Corners': ['4', '1'], 'Fouls': ['21', '16']}"
+Gaúcho 1,Brazil,Internacional,3,Erechim,0,2023-02-02,https://www.goal.com/en/match/internacional-vs-ypiranga-erechim/b8kuc9pe77rm44frmcjzyf578,"[['Internacional', 'Draw', 'Erechim'], ['179', '118', '38']]","{'Total shots': ['3', '0'], 'Corners': ['8', '5'], 'Fouls': ['13', '16']}"
+Paranaense 1,Brazil,Paranaense,5,Azuriz,0,2023-02-02,https://www.goal.com/en/match/athletico-paranaense-vs-azuriz/7p9ha64ijikxd9r6zmkfhhvdg,"[['Paranaense', 'Draw', 'Azuriz'], ['28', '28', '6']]","{'Corners': ['3', '2'], 'Fouls': ['15', '14']}"
+Paranaense 1,Brazil,Maringá,4,Cascavel,2,2023-02-02,https://www.goal.com/en/match/maringa-vs-cascavel/7p0ytrqtu4cv1bj5d0xpsbcwk,"[['Maringá', 'Draw', 'Cascavel'], ['12', '29', '13']]","{'Corners': ['5', '6'], 'Fouls': ['22', '12']}"
+Paranaense 1,Brazil,Operário,2,Aruko,1,2023-02-02,https://www.goal.com/en/match/operario-pr-vs-aruko-sports/7p3tpad93cx19aufnxz5xvfo4,"[['Operário', 'Draw', 'Aruko'], ['28', '27', '8']]","{'Corners': ['9', '4'], 'Fouls': ['15', '16']}"
+Cearense 1,Brazil,Caucaia,5,Juazeiro,0,2023-02-02,https://www.goal.com/en/match/caucaia-vs-guarani-de-juazeiro/4t8g9us2wxg2r71neze28m8t0,"[['Caucaia', 'Draw', 'Juazeiro'], ['6', '18', '5']]","{'Corners': ['6', '1'], 'Fouls': ['28', '12']}"
+Cearense 1,Brazil,Fortaleza,6,Atlético CE,1,2023-02-02,https://www.goal.com/en/match/fortaleza-vs-atletico-cearense/4te1fkxv8pntm3ln8xpkrv504,"[['Fortaleza', 'Draw', 'Atlético CE'], ['49', '24', '7']]","{'Corners': ['5', '2'], 'Fouls': ['12', '9']}"
+Goiano 1,Brazil,Vila Nova,0,G Anapolis,0,2023-02-02,https://www.goal.com/en/match/vila-nova-vs-gremio-anapolis/11y2lc7t3sixj77um4nu7j9jo,[],{}
+Goiano 1,Brazil,Anápolis,4,Goiânia,0,2023-02-02,https://www.goal.com/en/match/anapolis-vs-goiania/11mad4hipf8fqzak7zq0hhul0,[],{}
+Goiano 1,Brazil,Aparecidense,2,Morrinhos,1,2023-02-02,https://www.goal.com/en/match/aparecidense-vs-morrinhos/11q25yf7m53e71tu0u1nzdams,[],{}
+Baiano 1,Brazil,Alagoinhas,0,Itabuna,0,2023-02-02,https://www.goal.com/en/match/atletico-alagoinhas-vs-itabuna/6r9gguqcwyoe03t3ut3cmds7o,"[['Alagoinhas', 'Draw', 'Itabuna'], ['6', '14', '7']]","{'Corners': ['7', '4'], 'Fouls': ['14', '24']}"
+Baiano 1,Brazil,Barcelona,1,Bahia,2,2023-02-02,https://www.goal.com/en/match/barcelona-ba-vs-bahia/6rd1vwriq2jy6tzluybkgvwgk,[],{}
+Pernambucano 1,Brazil,Sport,4,Afogados,1,2023-02-02,https://www.goal.com/en/match/sport-recife-vs-afogados/5a11muo7cfm7jz9ylmzexzml0,[],{}
+Pernambucano 1,Brazil,Caruaru City,0,Salgueiro,2,2023-02-02,https://www.goal.com/en/match/caruaru-city-vs-salgueiro/58xbxb8w93tenvdab6itftous,[],{}
+Pernambucano 1,Brazil,Central,2,Íbis,1,2023-02-02,https://www.goal.com/en/match/central-vs-ibis/590xe063fi4lnenp1tp6ddyqc,"[['Central', 'Draw', 'Íbis'], ['5', '11', '7']]","{'Corners': ['5', '6'], 'Fouls': ['22', '19']}"
+Pernambucano 1,Brazil,Petrolina,0,Santa Cruz,0,2023-02-02,https://www.goal.com/en/match/petrolina-vs-santa-cruz/594bepdrci5y8e2iusgqrqvpw,[],{}
+Alagoano 1,Brazil,CSE,1,Murici,1,2023-02-02,https://www.goal.com/en/match/cse-vs-murici/4w3aj554cvmc6vqq063epofmc,[],{}
+Maranhense 1,Brazil,Pinheiro,2,Moto Club MA,0,2023-02-02,https://www.goal.com/en/match/pinheiro-vs-moto-club-ma/3fpmx17dsjlkhcr63ul5oq7tg,[],{}
+Maranhense 1,Brazil,Sampaio Corrêa,5,São José MA,0,2023-02-02,https://www.goal.com/en/match/sampaio-correa-vs-sao-jose-ma/3g1ajefm2r3yljg0z3uk7xmac,"[['Sampaio Corrêa', 'Draw', 'São José MA'], ['11', '7', '4']]","{'Corners': ['6', '0'], 'Fouls': ['28', '10']}"
+Paraibano 1,Brazil,CSP,1,Campinense,1,2023-02-02,https://www.goal.com/en/match/csp-vs-campinense/btdg09afmfwrdilu6yk9kou1g,"[['CSP', 'Draw', 'Campinense'], ['6', '10', '5']]","{'Corners': ['6', '13'], 'Fouls': ['12', '15']}"
+Piauiense,Brazil,FAC,0,4 de Julho,3,2023-02-02,https://www.goal.com/en/match/ferroviario-pi-vs-4-de-julho/62qca3axrodjfsffvj6ob649g,[],{}
+Piauiense,Brazil,Fluminense PI,2,Altos,1,2023-02-02,https://www.goal.com/en/match/fluminense-pi-vs-altos/62md7bibcxxfuflymouhfswes,[],{}
+Potiguar 1,Brazil,ABC,6,Globo,0,2023-02-02,https://www.goal.com/en/match/abc-vs-globo/co8ib5eff4pxxsexenlqkvklw,"[['ABC', 'Draw', 'Globo'], ['16', '17', '4']]","{'Corners': ['4', '4'], 'Fouls': ['17', '14']}"
+Paulista A2,Brazil,Novorizontino,3,Ponte Preta,0,2023-02-02,https://www.goal.com/en/match/novorizontino-vs-ponte-preta/efmx9dlfst1broevwp38xois4,"[['Novorizontino', 'Draw', 'Ponte Preta'], ['2', '11', '9']]","{'Corners': ['7', '3'], 'Fouls': ['18', '13']}"
+Paulista A2,Brazil,Oeste,0,Linense,2,2023-02-02,https://www.goal.com/en/match/oeste-vs-linense/efqepsoi1skie8z14darb0yl0,"[['Oeste', 'Draw', 'Linense'], ['5', '10', '3']]","{'Corners': ['9', '2'], 'Fouls': ['12', '22']}"
+Paulista A2,Brazil,Comercial,2,Lemense,0,2023-02-02,https://www.goal.com/en/match/comercial-vs-ec-lemense/efc34hjgav9phgzpvyda6pogk,"[['Comercial', 'Draw', 'Lemense'], ['4', '9', '9']]","{'Corners': ['10', '5'], 'Fouls': ['19', '14']}"
+Paulista A2,Brazil,Portuguesa,3,Velo,2,2023-02-02,https://www.goal.com/en/match/portuguesa-santista-vs-velo-clube/ef4w3erlt8yq6bu7fdi2blclw,"[['Portuguesa', 'Draw', 'Velo'], ['6', '12', '6']]","{'Corners': ['1', '8'], 'Fouls': ['24', '14']}"
+Paulista A2,Brazil,Taubaté,0,Noroeste,1,2023-02-02,https://www.goal.com/en/match/taubate-vs-noroeste/efjc2t3w84oshjva0gzh1bbx0,"[['Taubaté', 'Draw', 'Noroeste'], ['6', '14', '7']]","{'Corners': ['5', '6'], 'Fouls': ['17', '8']}"
+Paulista A3,Brazil,RB Brasil,1,Bandeirante,1,2023-02-02,https://www.goal.com/en/match/rb-brasil-vs-bandeirante-sp/6b00kkc49fr50sc0svyxo7yfo,"[['RB Brasil', 'Draw', 'Bandeirante'], ['2', '6', '3']]","{'Corners': ['13', '6'], 'Fouls': ['11', '12']}"
+Paulista A3,Brazil,Capivariano,2,USAC,1,2023-02-02,https://www.goal.com/en/match/capivariano-vs-uniao-suzano/6annlzusnm88412ney0tn1q8k,"[['Capivariano', 'Draw', 'USAC'], ['3', '5', '1']]","{'Corners': ['4', '7'], 'Fouls': ['14', '15']}"
+Paulista A3,Brazil,Barretos,3,São José,1,2023-02-02,https://www.goal.com/en/match/barretos-vs-sao-jose-ec/6akb7bqpnodwbd8gltyvsxm38,[],{}
+Paulista A3,Brazil,Marília,0,Osasco Audax,0,2023-02-02,https://www.goal.com/en/match/marilia-vs-osasco-audax/6awwzemt3oftfw5d61nlv77ro,[],{}
+1. Division,Cyprus,AEL,2,Akritas,1,2023-02-02,https://www.goal.com/en/match/ael-vs-akritas/28r4theed5a6kumw4o9x6a904,"[['AEL', 'Draw', 'Akritas'], ['369', '332', '93']]","{'Corners': ['6', '5'], 'Fouls': ['9', '9']}"
+1. Division,Cyprus,Anorthosis,4,Omonia,1,2023-02-02,https://www.goal.com/en/match/anorthosis-vs-omonia-nicosia/29cv3ws14e2dtlayvgslz0s9g,"[['Anorthosis', 'Draw', 'Omonia'], ['161', '443', '351']]","{'Corners': ['3', '5'], 'Fouls': ['20', '16']}"
+Primera Division,El Salvador,Águila,2,Isidro,1,2023-02-02,https://www.goal.com/en/match/aguila-vs-isidro-metapan/5ykw6dzt9vwnc9kq5ozvbdw4,"[['Águila', 'Draw', 'Isidro'], ['14', '27', '3']]","{'Corners': ['5', '3'], 'Fouls': ['12', '16']}"
+Primera Division,El Salvador,Jocoro,0,Alianza,3,2023-02-02,https://www.goal.com/en/match/jocoro-vs-alianza/62apomyeyyyspg7yxfyck104,[],{}
+Primera Division,El Salvador,Chalatenango,2,Santa Tecla,1,2023-02-02,https://www.goal.com/en/match/chalatenango-vs-santa-tecla/bcafnpusumsjpcidxxvgomxg,[],{}
+Primera Division,El Salvador,Firpo,3,Platense,1,2023-02-02,https://www.goal.com/en/match/firpo-vs-platense/5v033qrj8mcgvv7wjnvx6zh0,[],{}
+Primera Division,El Salvador,Marte,2,FAS,4,2023-02-02,https://www.goal.com/en/match/atletico-marte-vs-fas/69jusihesun7owtooiozmuc4,[],{}
+Primera Division,El Salvador,Once Deportivo,0,Dragón,0,2023-02-02,https://www.goal.com/en/match/once-deportivo-vs-dragon/65wj1bemhc6xmpkxfivuo4d0,"[['Once Deportivo', 'Draw', 'Dragón'], ['4', '17', '5']]","{'Corners': ['5', '8'], 'Fouls': ['22', '20']}"
+Liga Nacional,Guatemala,Mixco,0,Xelajú,3,2023-02-02,https://www.goal.com/en/match/mixco-vs-xelaju/9jmse5x27kdftmg1ob1dg7tp0,[],{}
+Liga Nacional,Guatemala,Antigua,6,Achuapa,1,2023-02-02,https://www.goal.com/en/match/antigua-gfc-vs-achuapa/9j6wd6yjndxzmzdhdioupw2l0,[],{}
+Liga Nacional,Guatemala,Comunicaciones,1,Cobán,0,2023-02-02,https://www.goal.com/en/match/comunicaciones-vs-coban-imperial/9jj85y4bdz57ch6j8jukc3x1w,"[['Comunicaciones', 'Draw', 'Cobán'], ['20', '24', '20']]","{'Corners': ['4', '4'], 'Fouls': ['13', '12']}"
+Liga Nacional,Honduras,Real Sociedad,3,Honduras,2,2023-02-02,https://www.goal.com/en/match/real-sociedad-vs-honduras-progreso/7ixcta17y7ovnzdhzdxomim1g,[],{}
+Liga Nacional,Honduras,UPNFM,1,Victoria,0,2023-02-02,https://www.goal.com/en/match/upnfm-vs-victoria/7iuzdcnzvzzv2dwarqtqaq0b8,[],{}
+Liga Nacional,Honduras,Motagua,0,Olancho,1,2023-02-02,https://www.goal.com/en/match/motagua-vs-olancho/7ipxupwbwplc4m2k9mr41668k,[],{}
+Liga Nacional,Honduras,Vida,0,Olimpia,2,2023-02-02,https://www.goal.com/en/match/vida-vs-olimpia/7iskowojs8zxc0m24d9u73ac4,[],{}
+Indian Super League,India,Chennaiyin,2,Odisha,2,2023-02-02,https://www.goal.com/en/match/chennaiyin-vs-odisha/dh8xypm5933hdcxdkf0vrv5sk,"[['Chennaiyin', 'Draw', 'Odisha'], ['236', '306', '121']]","{'Ball possession': ['58.2%', '41.8%'], 'Total shots': ['17', '6'], 'Corners': ['5', '5'], 'Fouls': ['12', '13']}"
+I-League,India,Rajasthan Utd,2,Sudeva,3,2023-02-02,https://www.goal.com/en/match/rajasthan-united-vs-sudeva/3fd01k8w40zep66b8ii0jwl5g,[],{}
+Liga 1,Indonesia,Dewa United,1,Madura Utd,1,2023-02-02,https://www.goal.com/en/match/dewa-united-vs-madura-united/gb4a7aqpur0xwmrghnsyawpg,[],{}
+Liga 1,Indonesia,Persikabo 1973,1,Persita,1,2023-02-02,https://www.goal.com/en/match/persikabo-1973-vs-persita/h1f591kg9my33o2d57ako0t0,[],{}
+Liga 1,Indonesia,Persis,1,Bhayangkara,3,2023-02-02,https://www.goal.com/en/match/persis-solo-vs-bhayangkara/gu08hrsiyuvu2llx9sevwqok,[],{}
+Persian Gulf Pro League,Iran,Paykan,0,Naft MIS,0,2023-02-02,https://www.goal.com/en/match/paykan-vs-naft-masjed-soleyman/2yga7fed41nqq9l2xrkeyk9as,[],{}
+Persian Gulf Pro League,Iran,Rafsanjan,0,Zob Ahan,0,2023-02-02,https://www.goal.com/en/match/mes-rafsanjan-vs-zob-ahan/2yiq74kslek2mo9rwpltv8mc4,[],{}
+Persian Gulf Pro League,Iran,Mes Kerman,2,Esteghlal,3,2023-02-02,https://www.goal.com/en/match/mes-kerman-vs-esteghlal/2ylbv50wh2uq2mekcldckvj10,[],{}
+Persian Gulf Pro League,Iran,Sanat Naft,0,Havadar,1,2023-02-02,https://www.goal.com/en/match/sanat-naft-vs-havadar/2ynp4vf64ue0zxbm6iiv1nehg,[],{}
+Serie C,Italy,Gelbison,0,Audace Cerig.,0,2023-02-02,https://www.goal.com/en/match/gelbison-vs-audace-cerignola/cn83fsu5mooxbyxumw0syeolw,"[['Gelbison', 'Draw', 'Audace Cerig.'], ['47', '116', '64']]","{'Corners': ['2', '6'], 'Fouls': ['26', '15']}"
+Serie C,Italy,Monopoli,1,Picerno,0,2023-02-02,https://www.goal.com/en/match/monopoli-vs-picerno/cnopd9u7gkhldmxklps9rl3x0,"[['Monopoli', 'Draw', 'Picerno'], ['118', '154', '63']]","{'Corners': ['4', '3'], 'Fouls': ['18', '17']}"
+Liga de Expansión MX,Mexico,Tlaxcala,3,Alebrijes,1,2023-02-02,https://www.goal.com/en/match/tlaxcala-vs-alebrijes-de-oaxaca/ccgbj86exncgjph6s6pej5btg,[],{}
+Liga de Expansión MX,Mexico,Venados FC,0,Raya2,1,2023-02-02,https://www.goal.com/en/match/venados-fc-vs-raya2/cck17ac9i0947o692gowc8qvo,[],{}
+Liga de Expansión MX,Mexico,La Paz,1,Cimarrones,2,2023-02-02,https://www.goal.com/en/match/ca-la-paz-vs-cimarrones-de-sonora/cccgcw64ofirk7ui6z9dip0r8,[],{}
+Saudi League,Saudi Arabia,Abha,2,Khaleej,0,2023-02-02,https://www.goal.com/en/match/abha-vs-al-khaleej/aq158ks2t2qvwm18le0gqnf2s,"[['Abha', 'Draw', 'Khaleej'], ['123', '174', '67']]","{'Ball possession': ['65.2%', '34.8%'], 'Total shots': ['8', '9'], 'Corners': ['4', '4'], 'Fouls': ['14', '10']}"
+Saudi League,Saudi Arabia,Al Batin,0,Taawon,1,2023-02-02,https://www.goal.com/en/match/al-batin-vs-al-taawon/apshcu674m3nd2asw94234d1w,"[['Al Batin', 'Draw', 'Taawon'], ['81', '160', '123']]","{'Ball possession': ['36%', '64%'], 'Total shots': ['16', '17'], 'Corners': ['5', '7'], 'Fouls': ['16', '15']}"
+Saudi League,Saudi Arabia,Shabab,2,Damak,1,2023-02-02,https://www.goal.com/en/match/al-shabab-vs-damak/aqjjsm7wge9s3w9glmwnytpuc,"[['Shabab', 'Draw', 'Damak'], ['221', '215', '61']]","{'Ball possession': ['52.1%', '47.9%'], 'Total shots': ['12', '10'], 'Corners': ['3', '5'], 'Fouls': ['19', '14']}"
+Ligue 1,Tunisia,EOSB,0,Monastir,0,2023-02-02,https://www.goal.com/en/match/eo-sidi-bouzid-vs-monastir/dlw33ju3slv4dhldsvsgfantg,[],{}
+Ligue 1,Tunisia,ESHS,2,Chebba,0,2023-02-02,https://www.goal.com/en/match/hammam-sousse-vs-chebba/9o1kymjr82pvfl2xltxr0fok4,[],{}
+Ligue 1,Tunisia,Rejiche,1,Olympique Béja,4,2023-02-02,https://www.goal.com/en/match/rejiche-vs-olympique-beja/dlmgbxjfkobxjafssnct5sv84,[],{}
+Ligue 1,Tunisia,Sfax,0,Tataouine,1,2023-02-02,https://www.goal.com/en/match/cs-sfaxien-vs-tataouine/9nyufeh51jv6uc4djjqvtr40k,[],{}
+Ligue 1,Tunisia,Soliman,1,Métlaoui,1,2023-02-02,https://www.goal.com/en/match/soliman-vs-metlaoui/dlqiyd3ikla88lo58kdrqfw2c,"[['Soliman', 'Draw', 'Métlaoui'], ['36', '81', '36']]","{'Corners': ['7', '1'], 'Fouls': ['14', '24']}"
+Ligue 1,Tunisia,Stade Tunisien,0,ES Sahel,2,2023-02-02,https://www.goal.com/en/match/stade-tunisien-vs-etoile-du-sahel/9o4ewhvgelx3f3ejqnstm88b8,[],{}
+Ligue 1,Tunisia,Tunis,4,Bizertin,0,2023-02-02,https://www.goal.com/en/match/es-tunis-vs-bizertin/9nv0eepwio4ho0q3ifvyvw1ec,[],{}
+Ligue 1,Tunisia,USBG,1,Club Africain,1,2023-02-02,https://www.goal.com/en/match/ben-guerdane-vs-club-africain/dltahfmm8f7u0m1xlrvk34r9w,"[['USBG', 'Draw', 'Club Africain'], ['44', '126', '50']]","{'Corners': ['3', '1'], 'Fouls': ['12', '21']}"

@@ -7,7 +7,8 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 import csv
 import os
 import json
-from concurrent.futures import ThreadPoolExecutor,wait
+from concurrent.futures import ThreadPoolExecutor
+import concurrent.futures 
 
 
 
@@ -116,7 +117,6 @@ def getVotes(driver,home,away):
     # Print the final array
     return result_array
 
-
 def importJSON(filename,data):
     with open(filename, 'w',encoding='utf-8') as f:
         json.dump(data, f)
@@ -127,23 +127,21 @@ def loadJSON(filename):
     with open(filename, 'r',encoding='utf-8') as f:
         return json.load(f)
   
-def proccess(file_path):
-    # Initialize a Firefox driver instance
-    options = webdriver.FirefoxOptions()
-    options.headless = True
-    profile=FirefoxProfile()
-    options.set_preference("network.cookie.cookieBehavior", 0)
-    driver = webdriver.Firefox(options=options, executable_path=geckodriver_path,firefox_profile=profile)
-    
+def proccess(driver,file_path):
+ 
     data=[]
+    counter=1
     # Process each URL and store additional information
     output_csv_filename = file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]
     output_csv_filepath = file_path.replace("matches_detailed","matches_detailed_processed")
     temp_file=loadJSON(temp_json_path+file_path.replace("matches_detailed","matches_detailed_processed").split('\\')[-1].split('.')[0]+'.json')
+    
+    for key,item in temp_file.items():
+        data.append(item)
 
     if(os.path.exists(output_csv_filepath)):
         return
-    counter=1
+
     with open(file_path, "r", newline="", encoding="utf-8") as csvfile:
         csv_reader = csv.DictReader(csvfile)
         for row in csv_reader:
@@ -171,10 +169,6 @@ def proccess(file_path):
             if(counter%10==0):
                 importJSON(temp_json_path+output_csv_filename+'.json',temp_file)
 
-    # Close the driver
-    driver.quit()
-    
-
     # Write the data to a new CSV file
     with open(output_csv_filepath, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ['Competition', 'Country', 'Home Team', 'Home Score', 'Away Team', 'Away Score', 'Date', 'URL', 'Votes','Stats']
@@ -187,13 +181,21 @@ def proccess(file_path):
 
     print(f"Data has been processed and saved to {output_csv_filename}")
 
-def main(file_list):
-    for file_name in file_list:
+def main(provided_file_list):
+    # Initialize a Firefox driver instance
+    options = webdriver.FirefoxOptions()
+    options.headless = True
+    profile=FirefoxProfile()
+    options.set_preference("network.cookie.cookieBehavior", 0)
+    driver = webdriver.Firefox(options=options, executable_path=geckodriver_path,firefox_profile=profile)
+    for file_name in provided_file_list:
         if file_name.endswith(".csv"):
             print(f"Processing data from: {file_name}")
             file_path = os.path.join(folder_path, file_name)
-            processed_file_path = proccess(file_path)
+            processed_file_path = proccess(driver,file_path)
             print(f"Processed data saved to: {processed_file_path}")
+    driver.quit()
+
 
 
 # Use ThreadPoolExecutor for parallel processing
@@ -202,12 +204,12 @@ os.makedirs(output_folder, exist_ok=True)
 file_list = os.listdir(folder_path)
 file_list=sorted(file_list)
 
-futures=[]
-with ThreadPoolExecutor(max_workers=8) as executor:
-    futures.append( executor.submit(main, file_list[int((len(file_list)/2)):]) )
-    futures.append(executor.submit(main, file_list[:int((len(file_list)/2))]))
-    futures.append(executor.submit(main, file_list[int((len(file_list)/4)):]))
-    futures.append(executor.submit(main, file_list[int((len(file_list)/2.5)):]))
+with ThreadPoolExecutor(max_workers=3) as executor:
+    futures1=executor.submit(main, file_list[int((len(file_list)/2)):])
+    futures2=executor.submit(main, file_list[:int((len(file_list)/2))])
+    futures3=executor.submit(main, file_list[int((len(file_list)/4)):])
     
-    # Wait for the tasks to complete
-futures.wait()
+    futures1.result()
+    futures2.result()
+    futures3.result()
+

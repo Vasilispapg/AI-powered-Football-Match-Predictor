@@ -1,0 +1,115 @@
+Competition,Country,Home Team,Home Score,Away Team,Away Score,Date,URL,Votes,Stats
+Friendlies,World,Kenya,N/A,Burundi,N/A,2023-03-28,https://www.goal.com/en/match/kenya-vs-burundi/a8kc6isgffqi042spba46nytw,[],{}
+Friendlies,World,Chile,3,Paraguay,2,2023-03-28,https://www.goal.com/en/match/chile-vs-paraguay/d2wqarwclbqcelmylvizmrl78,"[['Chile', 'Draw', 'Paraguay'], ['309', '254', '173']]","{'Ball possession': ['76.4%', '23.6%'], 'Total shots': ['14', '22'], 'Corners': ['5', '1'], 'Fouls': ['10', '14']}"
+Friendlies,World,Australia,1,Ecuador,2,2023-03-28,https://www.goal.com/en/match/australia-vs-ecuador/1udbtv2h8rnkud6yj7vhrwlxw,"[['Australia', 'Draw', 'Ecuador'], ['442', '282', '194']]","{'Ball possession': ['51.5%', '48.5%'], 'Total shots': ['7', '17'], 'Corners': ['1', '5'], 'Fouls': ['10', '13']}"
+Friendlies,World,Japan,1,Colombia,2,2023-03-28,https://www.goal.com/en/match/japan-vs-colombia/cwwk1nqm0bnnujlc0por8at5g,"[['Japan', 'Draw', 'Colombia'], ['858', '392', '368']]","{'Ball possession': ['52.2%', '47.8%'], 'Total shots': ['6', '14'], 'Corners': ['4', '8'], 'Fouls': ['16', '11']}"
+Friendlies,World,Korea Rep,1,Uruguay,2,2023-03-28,https://www.goal.com/en/match/korea-republic-vs-uruguay/8kkwxfgrxif8h9aeghyizw3ro,"[['Korea Rep', 'Draw', 'Uruguay'], ['303', '298', '347']]","{'Ball possession': ['67.8%', '32.2%'], 'Total shots': ['10', '8'], 'Corners': ['10', '3'], 'Fouls': ['10', '19']}"
+Friendlies,World,Indonesia,2,Burundi,2,2023-03-28,https://www.goal.com/en/match/indonesia-vs-burundi/vvrurzubdqzhvkycvmqgdy50,"[['Indonesia', 'Draw', 'Burundi'], ['576', '228', '72']]","{'Ball possession': ['50%', '50%'], 'Total shots': ['2', '2']}"
+Friendlies,World,Armenia,2,Cyprus,2,2023-03-28,https://www.goal.com/en/match/armenia-vs-cyprus/bjmqdacfw9sb0q9vukxv7hhjo,"[['Armenia', 'Draw', 'Cyprus'], ['134', '198', '119']]","{'Corners': ['6', '2'], 'Fouls': ['8', '14']}"
+Friendlies,World,Iran,2,Kenya,1,2023-03-28,https://www.goal.com/en/match/ir-iran-vs-kenya/6m16v9ys53h8tzf152r68yplg,"[['Iran', 'Draw', 'Kenya'], ['268', '176', '103']]","{'Ball possession': ['100%', '0%'], 'Total shots': ['2', '1']}"
+Friendlies,World,UAE,2,Thailand,0,2023-03-28,https://www.goal.com/en/match/uae-vs-thailand/1nbv97yigywiahmokswndf9ck,"[['UAE', 'Draw', 'Thailand'], ['314', '260', '354']]","{'Ball possession': ['55.1%', '44.9%'], 'Total shots': ['7', '23'], 'Corners': ['1', '7'], 'Fouls': ['14', '9']}"
+Friendlies,World,Uzbekistan,1,Venezuela,1,2023-03-28,https://www.goal.com/en/match/uzbekistan-vs-venezuela/8jc8mfb3djaqmfky2lwujslck,"[['Uzbekistan', 'Draw', 'Venezuela'], ['155', '242', '190']]","{'Ball possession': ['0%', '100%'], 'Total shots': ['2', '1'], 'Corners': ['5', '2'], 'Fouls': ['6', '14']}"
+Friendlies,World,Germany,2,Belgium,3,2023-03-28,https://www.goal.com/en/match/germany-vs-belgium/4l8r0fmmx45py7agg1s2sfac4,"[['Germany', 'Draw', 'Belgium'], ['903', '456', '390']]","{'Ball possession': ['53.8%', '46.2%'], 'Total shots': ['16', '7'], 'Corners': ['8', '3'], 'Fouls': ['13', '9']}"
+Friendlies,World,Saudi Arabia,1,Bolivia,2,2023-03-28,https://www.goal.com/en/match/saudi-arabia-vs-bolivia/5c6gnxebk4v5k4jy60xpctpg4,"[['Saudi Arabia', 'Draw', 'Bolivia'], ['215', '194', '95']]","{'Ball possession': ['72.7%', '27.3%'], 'Total shots': ['14', '8'], 'Corners': ['8', '1'], 'Fouls': ['11', '15']}"
+Friendlies,World,Morocco,0,Peru,0,2023-03-28,https://www.goal.com/en/match/morocco-vs-peru/765k0yorx64vq8sffdxr64rh0,"[['Morocco', 'Draw', 'Peru'], ['775', '356', '207']]","{'Ball possession': ['54.6%', '45.4%'], 'Total shots': ['9', '3'], 'Corners': ['4', '1'], 'Fouls': ['14', '16']}"
+Primera A,Colombia,Jaguares,0,Pasto,1,2023-03-28,https://www.goal.com/en/match/jaguares-de-cordoba-vs-deportivo-pasto/agbl8mhe4hma7keaapv7q59n8,"[['Jaguares', 'Draw', 'Pasto'], ['77', '108', '71']]","{'Ball possession': ['62.9%', '37.1%'], 'Total shots': ['14', '20'], 'Corners': ['7', '5'], 'Fouls': ['10', '12']}"
+Primera División,Uruguay,City Torque,1,Cerro Largo,2,2023-03-28,https://www.goal.com/en/match/city-torque-vs-cerro-largo/dvdogbw5k605k4zdn545d1990,"[['City Torque', 'Draw', 'Cerro Largo'], ['42', '89', '56']]","{'Corners': ['7', '1'], 'Fouls': ['13', '10']}"
+League One,England,Exeter,3,Barnsley,1,2023-03-28,https://www.goal.com/en/match/exeter-city-vs-barnsley/81wi3kk0tct1pidwvlh8apclw,"[['Exeter', 'Draw', 'Barnsley'], ['358', '815', '849']]","{'Ball possession': ['41.3%', '58.7%'], 'Total shots': ['10', '16'], 'Corners': ['4', '4'], 'Fouls': ['11', '9']}"
+League Two,England,Crawley,1,Grimsby,1,2023-03-28,https://www.goal.com/en/match/crawley-town-vs-grimsby-town/9v51y2pi9cdmkojh36knlcr9w,"[['Crawley', 'Draw', 'Grimsby'], ['218', '399', '286']]","{'Ball possession': ['48.4%', '51.6%'], 'Total shots': ['5', '15'], 'Corners': ['5', '4'], 'Fouls': ['10', '11']}"
+League Two,England,Wimbledon,2,Walsall,0,2023-03-28,https://www.goal.com/en/match/afc-wimbledon-vs-walsall/9uyhi25ozfbsn17xwwmphhtsk,"[['Wimbledon', 'Draw', 'Walsall'], ['192', '372', '258']]","{'Ball possession': ['43.7%', '56.3%'], 'Total shots': ['9', '11'], 'Corners': ['7', '3'], 'Fouls': ['12', '13']}"
+National League,England,Altrincham,0,Notts,2,2023-03-28,https://www.goal.com/en/match/altrincham-vs-notts-county/9zvuvt42v6zmkorslthv9kzkk,"[['Altrincham', 'Draw', 'Notts'], ['65', '165', '231']]","{'Corners': ['3', '10'], 'Fouls': ['8', '5']}"
+National League,England,Boreham Wood,0,Torquay,1,2023-03-28,https://www.goal.com/en/match/boreham-wood-vs-torquay-united/9jdiimrcp1gxmxgkmm0wo9dsk,"[['Boreham Wood', 'Draw', 'Torquay'], ['184', '177', '73']]","{'Corners': ['9', '1'], 'Fouls': ['14', '10']}"
+National League,England,Dorking W,1,Southend,0,2023-03-28,https://www.goal.com/en/match/dorking-wanderers-vs-southend-united/9orrqgaemynw3wq1nm6b6s7bo,"[['Dorking W', 'Draw', 'Southend'], ['89', '130', '65']]","{'Corners': ['4', '3'], 'Fouls': ['7', '8']}"
+National League,England,Gateshead,3,Dag & Red,0,2023-03-28,https://www.goal.com/en/match/gateshead-vs-dagenham-and-redbridge/9dlcikyhg01jjh8ytbwh93h1w,"[['Gateshead', 'Draw', 'Dag & Red'], ['90', '139', '72']]","{'Corners': ['4', '1'], 'Fouls': ['6', '14']}"
+National League,England,Halifax,2,Aldershot,0,2023-03-28,https://www.goal.com/en/match/halifax-town-vs-aldershot-town/9wl3wdtrfeh23evoyyzxev3mc,"[['Halifax', 'Draw', 'Aldershot'], ['87', '136', '58']]","{'Corners': ['2', '6'], 'Fouls': ['13', '9']}"
+National League,England,Maidstone Utd,2,Bromley,3,2023-03-28,https://www.goal.com/en/match/maidstone-united-vs-bromley/9wotf2ocsx1j0440em2e6itxw,"[['Maidstone Utd', 'Draw', 'Bromley'], ['52', '132', '150']]","{'Corners': ['4', '7'], 'Fouls': ['7', '6']}"
+National League,England,Wealdstone,2,Oldham,2,2023-03-28,https://www.goal.com/en/match/wealdstone-vs-oldham-athletic/9f8v1552cubxyusqedf69e5uc,"[['Wealdstone', 'Draw', 'Oldham'], ['77', '145', '76']]","{'Corners': ['4', '5'], 'Fouls': ['6', '11']}"
+National League,England,Woking,1,Barnet,1,2023-03-28,https://www.goal.com/en/match/woking-vs-barnet/9ken1jc46x1c2v8rpte2cruac,"[['Woking', 'Draw', 'Barnet'], ['142', '174', '79']]","{'Corners': ['10', '4'], 'Fouls': ['8', '11']}"
+National League,England,York,0,Scunthorpe,0,2023-03-28,https://www.goal.com/en/match/york-city-vs-scunthorpe-united/9x7hffkl13iycgvbaqxq5r9jo,"[['York', 'Draw', 'Scunthorpe'], ['95', '140', '53']]","{'Corners': ['4', '4'], 'Fouls': ['10', '14']}"
+Africa Cup of Nations Qualification,Africa,Namibia,N/A,Kenya,N/A,2023-03-28,https://www.goal.com/en/match/namibia-vs-kenya/4zqbrykziohoywfswxu9u9us4,[],{}
+Africa Cup of Nations Qualification,Africa,Zimbabwe,N/A,South Africa,N/A,2023-03-28,https://www.goal.com/en/match/zimbabwe-vs-south-africa/d9loxrkvxzmtsmsualzpueolw,[],{}
+Africa Cup of Nations Qualification,Africa,Botswana,2,Equat Guinea,3,2023-03-28,https://www.goal.com/en/match/botswana-vs-equatorial-guinea/2354w6ppyvu0twawh9yphq978,[],{}
+Africa Cup of Nations Qualification,Africa,Eswatini,0,Cabo Verde,1,2023-03-28,https://www.goal.com/en/match/eswatini-vs-cabo-verde/1s1z3d4vxf39ppi2u9qt4yuc4,[],{}
+Africa Cup of Nations Qualification,Africa,Malawi,0,Egypt,4,2023-03-28,https://www.goal.com/en/match/malawi-vs-egypt/x98ahodt01pa5bc0xiw4of10,[],{}
+Africa Cup of Nations Qualification,Africa,Namibia,2,Cameroon,1,2023-03-28,https://www.goal.com/en/match/namibia-vs-cameroon/4z82us4x86mgjraoo0qlzou8k,[],{}
+Africa Cup of Nations Qualification,Africa,Gambia,1,Mali,0,2023-03-28,https://www.goal.com/en/match/gambia-vs-mali/84g67kgjybgadwvseq8mcfmz8,[],{}
+Africa Cup of Nations Qualification,Africa,Liberia,1,South Africa,2,2023-03-28,https://www.goal.com/en/match/liberia-vs-south-africa/d99jmvjqq8i3ci4c2issl7k0k,[],{}
+Africa Cup of Nations Qualification,Africa,Mozambique,0,Senegal,1,2023-03-28,https://www.goal.com/en/match/mozambique-vs-senegal/6nqxcd19tttwvx0coc7njdk44,[],{}
+Africa Cup of Nations Qualification,Africa,Tanzania,0,Uganda,1,2023-03-28,https://www.goal.com/en/match/tanzania-vs-uganda/apscdzgwcigojqbiboszv5rmc,[],{}
+Africa Cup of Nations Qualification,Africa,Comoros,0,Côte d'Ivoire,2,2023-03-28,https://www.goal.com/en/match/comoros-vs-cote-d-ivoire/6y69vvcz0qp6alduxdg7dw45w,[],{}
+Africa Cup of Nations Qualification,Africa,Togo,1,Burkina Faso,1,2023-03-28,https://www.goal.com/en/match/togo-vs-burkina-faso/1ry3yy1nso1iugdeltayc50k4,[],{}
+Africa Cup of Nations Qualification,Africa,Libya,0,Tunisia,1,2023-03-28,https://www.goal.com/en/match/libya-vs-tunisia/2319y5f93c8o6z0qt9k7ho0lw,[],{}
+Primera Nacional,Argentina,Independiente,1,Racing Córdoba,1,2023-03-28,https://www.goal.com/en/match/independiente-rivadavia-vs-racing-cordoba/catd4v769pg77q5gb2597gkd0,[],{}
+Prim B Metro,Argentina,Ituzaingó,2,A Quilmes,0,2023-03-28,https://www.goal.com/en/match/ituzaingo-vs-argentino-quilmes/czz9j80lqxj1io6wfkxahvris,[],{}
+A-League Women,Australia,Adelaide,1,Wellington,3,2023-03-28,https://www.goal.com/en/match/adelaide-united-vs-wellington-phoenix/6xwqshuu0d8042rax35lz35lg,"[['Adelaide', 'Draw', 'Wellington'], ['64', '41', '21']]","{'Ball possession': ['58.7%', '41.3%'], 'Total shots': ['16', '11'], 'Corners': ['6', '6'], 'Fouls': ['11', '13']}"
+Carioca Série A,Brazil,Botafogo,3,Portuguesa,1,2023-03-28,https://www.goal.com/en/match/botafogo-vs-portuguesa-rj/bnclbfknfpkh1w1ff25sbfllg,[],{}
+Primera B,Chile,La Serena,1,U. Concepción,0,2023-03-28,https://www.goal.com/en/match/la-serena-vs-universidad-concepcion/31gt1m605gof9nuuvooq3do2c,[],{}
+Primera B,Chile,Rangers,4,San Marcos,2,2023-03-28,https://www.goal.com/en/match/rangers-vs-san-marcos/30ubici6d09wba00hgd5arcic,[],{}
+Primera B,Colombia,Boca,2,Atlético,2,2023-03-28,https://www.goal.com/en/match/boca-juniors-de-cali-vs-atletico/88eba4z31syvtfhth7bm787bo,[],{}
+Copa Colombia,Colombia,Orsomarso,1,Patriotas,0,2023-03-28,https://www.goal.com/en/match/orsomarso-vs-patriotas-boyaca/d78qlhe5tff8r9p02lvxst9n8,[],{}
+Liga Femenina,Colombia,Tolima,0,Bucaramanga,1,2023-03-28,https://www.goal.com/en/match/deportes-tolima-vs-atletico-bucaramanga/f5e49ojf6wmeujo5es6l59jx0,[],{}
+U18 Premier League,England,Arsenal,1,Leicester,2,2023-03-28,https://www.goal.com/en/match/arsenal-u18-vs-leicester-city-u18/aioe69x8gna05esbga75r6j9w,"[['Arsenal', 'Draw', 'Leicester'], ['10', '6', '5']]","{'Ball possession': ['61.7%', '38.3%'], 'Total shots': ['17', '9'], 'Corners': ['10', '1'], 'Fouls': ['9', '9']}"
+U18 Premier League,England,Sunderland,1,Blackburn,0,2023-03-28,https://www.goal.com/en/match/sunderland-u18-vs-blackburn-rovers-u18/7tmwrr4kp76pbnwhcst7bdfdg,"[['Sunderland', 'Draw', 'Blackburn'], ['7', '3', '5']]","{'Ball possession': ['53.8%', '46.2%'], 'Total shots': ['21', '13'], 'Corners': ['6', '6'], 'Fouls': ['18', '15']}"
+U18 Premier League,England,Fulham,3,WBA,0,2023-03-28,https://www.goal.com/en/match/fulham-u18-vs-west-bromwich-albion-u18/aiw3x3o832sej58bc7gal0kr8,"[['Fulham', 'Draw', 'WBA'], ['6', '5', '1']]","{'Ball possession': ['71.8%', '28.2%'], 'Total shots': ['15', '9'], 'Corners': ['4', '3'], 'Fouls': ['11', '17']}"
+UEFA European Championship Qualifiers,Europe,Georgia,1,Norway,1,2023-03-28,https://www.goal.com/en/match/georgia-vs-norway/19p43e90yqwmg4al6nyjzt3is,[],{}
+UEFA European Championship Qualifiers,Europe,Kosovo,1,Andorra,1,2023-03-28,https://www.goal.com/en/match/kosovo-vs-andorra/el87qrdvczw3nt275ra1xnvv8,[],{}
+UEFA European Championship Qualifiers,Europe,Romania,2,Belarus,1,2023-03-28,https://www.goal.com/en/match/romania-vs-belarus/el4urg3tv7pysdjbsuq3bhzpw,[],{}
+UEFA European Championship Qualifiers,Europe,Scotland,2,Spain,0,2023-03-28,https://www.goal.com/en/match/scotland-vs-spain/19tixzonbtc6a32z18goapfro,[],{}
+UEFA European Championship Qualifiers,Europe,Switzerland,3,Israel,0,2023-03-28,https://www.goal.com/en/match/switzerland-vs-israel/el1h0y3oefhhmxw4y5vjl1p1w,[],{}
+UEFA European Championship Qualifiers,Europe,Türkiye,0,Croatia,2,2023-03-28,https://www.goal.com/en/match/tuerkiye-vs-croatia/6o1naxxwsrfa4qf70lf8s87x0,[],{}
+UEFA European Championship Qualifiers,Europe,Wales,1,Latvia,0,2023-03-28,https://www.goal.com/en/match/wales-vs-latvia/6o60g40kg04npm2ozryahm710,[],{}
+UEFA U21 Championship Qualification,Europe,Greece,1,Belarus,1,2023-03-28,https://www.goal.com/en/match/greece-u21-vs-belarus-u21/7z9bn9blwe7emkjbwhajjgjkk,"[['Greece', 'Draw', 'Belarus'], ['26', '28', '15']]","{'Corners': ['9', '3'], 'Fouls': ['12', '14']}"
+UEFA U19 Championship Qualification,Europe,Italy,2,Belgium,2,2023-03-28,https://www.goal.com/en/match/italy-u19-vs-belgium-u19/a404v8ua2h5xmt5zm834ic844,"[['Italy', 'Draw', 'Belgium'], ['76', '69', '18']]","{'Corners': ['7', '5'], 'Fouls': ['14', '12']}"
+UEFA U19 Championship Qualification,Europe,Slovenia,0,Germany,3,2023-03-28,https://www.goal.com/en/match/slovenia-u19-vs-germany-u19/a3xj9psmvjj9z7eb39kitkdg4,"[['Slovenia', 'Draw', 'Germany'], ['26', '54', '64']]","{'Corners': ['3', '9'], 'Fouls': ['7', '16']}"
+UEFA U19 Championship Qualification,Europe,Latvia,1,Israel,1,2023-03-28,https://www.goal.com/en/match/latvia-u19-vs-israel-u19/3wbj7gulirlrpgoirl04tow7o,[],{}
+UEFA U19 Championship Qualification,Europe,Poland,2,Serbia,2,2023-03-28,https://www.goal.com/en/match/poland-u19-vs-serbia-u19/3w8jk9cctmolo3g54c5y3hyxg,[],{}
+UEFA U19 Championship Qualification,Europe,N. Ireland,2,Norway,5,2023-03-28,https://www.goal.com/en/match/northern-ireland-u19-vs-norway-u19/3hwimb5ziv467nz93thm3vkt0,[],{}
+UEFA U19 Championship Qualification,Europe,Romania,2,France,4,2023-03-28,https://www.goal.com/en/match/romania-u19-vs-france-u19/3htp70bshr6o7s96shd6j1afo,[],{}
+UEFA U19 Championship Qualification,Europe,Croatia,0,Portugal,3,2023-03-28,https://www.goal.com/en/match/croatia-u19-vs-portugal-u19/9cw99iq7ph0t66p2hc9e2jn6c,"[['Croatia', 'Draw', 'Portugal'], ['14', '46', '58']]","{'Corners': ['2', '2'], 'Fouls': ['27', '14']}"
+UEFA U19 Championship Qualification,Europe,Luxembourg,1,Denmark,4,2023-03-28,https://www.goal.com/en/match/luxembourg-u19-vs-denmark-u19/it4dke4nhfrxxhg83modwg0k,"[['Luxembourg', 'Draw', 'Denmark'], ['12', '49', '56']]","{'Corners': ['3', '3'], 'Fouls': ['5', '15']}"
+UEFA U19 Championship Qualification,Europe,Spain,4,Ukraine,0,2023-03-28,https://www.goal.com/en/match/spain-u19-vs-ukraine-u19/iqebpx2r6nccgj7eg3w37axg,"[['Spain', 'Draw', 'Ukraine'], ['64', '59', '24']]","{'Corners': ['0', '3'], 'Fouls': ['16', '15']}"
+UEFA U19 Championship Qualification,Europe,Sweden,2,Czech,3,2023-03-28,https://www.goal.com/en/match/sweden-u19-vs-czech-republic-u19/9cz1tic46l6msaachmtu54cno,"[['Sweden', 'Draw', 'Czech'], ['17', '41', '23']]","{'Corners': ['4', '7'], 'Fouls': ['8', '14']}"
+UEFA U19 Championship Qualification,Europe,Greece,1,Eire,0,2023-03-28,https://www.goal.com/en/match/greece-u19-vs-republic-of-ireland-u19/ek57j2dq07kzk93lk7s5af578,"[['Greece', 'Draw', 'Eire'], ['28', '31', '18']]",
+UEFA U19 Championship Qualification,Europe,Hungary,0,Iceland,2,2023-03-28,https://www.goal.com/en/match/hungary-u19-vs-iceland-u19/a2jo2jpj9heekaidcvh7brh1w,[],{}
+UEFA U19 Championship Qualification,Europe,Slovakia,3,Estonia,1,2023-03-28,https://www.goal.com/en/match/slovakia-u19-vs-estonia-u19/ek83cjeaq4uyx9hwgndpikw7o,"[['Slovakia', 'Draw', 'Estonia'], ['27', '18', '12']]","{'Corners': ['9', '3'], 'Fouls': ['15', '9']}"
+UEFA U19 Championship Qualification,Europe,Turkey,0,England,2,2023-03-28,https://www.goal.com/en/match/turkey-u19-vs-england-u19/a2gck5e4590kyubp43ii8r5sk,"[['Turkey', 'Draw', 'England'], ['20', '43', '44']]","{'Corners': ['1', '12'], 'Fouls': ['16', '11']}"
+UEFA U17 Championship Qualification,Europe,Finland,1,Turkey,5,2023-03-28,https://www.goal.com/en/match/finland-u17-vs-turkey-u17/db9rs2hw4kjym5ysq8ygq1gyc,[],{}
+UEFA U17 Championship Qualification,Europe,Germany,3,Spain,4,2023-03-28,https://www.goal.com/en/match/germany-u17-vs-spain-u17/db5mb1xx0ahgw042vqdw4zqqc,[],{}
+UEFA U17 Championship Qualification,Europe,Belarus,1,Bosnia,2,2023-03-28,https://www.goal.com/en/match/belarus-u17-vs-bosnia-herzegovina-u17/9omb8a6lcqb48uc1iksbqdiqc,[],{}
+UEFA U17 Championship Qualification,Europe,Iceland,0,Scotland,0,2023-03-28,https://www.goal.com/en/match/iceland-u17-vs-scotland-u17/9op2uhdf42mz7fyvgqm7jvk0k,[],{}
+UEFA U17 Championship Qualification,Europe,Israel,0,Serbia,3,2023-03-28,https://www.goal.com/en/match/israel-u17-vs-serbia-u17/9ogm4nqvaz4li1ot5jkqmshlg,[],{}
+UEFA U17 Championship Qualification,Europe,Wales,2,Montenegro,2,2023-03-28,https://www.goal.com/en/match/wales-u17-vs-montenegro-u17/9ojg80835nirk37921izb02z8,[],{}
+UEFA U17 Championship Qualification,Europe,Czech,0,Portugal,2,2023-03-28,https://www.goal.com/en/match/czech-republic-u17-vs-portugal-u17/5yz0ey6u1j2o75ffsp5fzzy1g,[],{}
+UEFA U17 Championship Qualification,Europe,Slovakia,0,Poland,5,2023-03-28,https://www.goal.com/en/match/slovakia-u17-vs-poland-u17/dbcpkw9lsbmdv0eyzxgfd3uhg,[],{}
+UEFA U17 Championship Qualification,Europe,Albania,1,Latvia,1,2023-03-28,https://www.goal.com/en/match/albania-u17-vs-latvia-u17/dbqhzltkzrblr56fzp49hkt90,[],{}
+UEFA U17 Championship Qualification,Europe,Norway,5,Belgium,0,2023-03-28,https://www.goal.com/en/match/norway-u17-vs-belgium-u17/dbfh6vrwl28q72ln40y14n5zo,[],{}
+UEFA U17 Championship Qualification,Europe,Slovenia,1,Croatia,2,2023-03-28,https://www.goal.com/en/match/slovenia-u17-vs-croatia-u17/dbigjoe3vdni6cm7yxix4yr6c,[],{}
+UEFA U17 Championship Qualification,Europe,Switzerland,1,France,2,2023-03-28,https://www.goal.com/en/match/switzerland-u17-vs-france-u17/dblc1irz7fssex1outj9e2has,[],{}
+UEFA U17 Championship Qualification,Europe,England,0,Netherlands,1,2023-03-28,https://www.goal.com/en/match/england-u17-vs-netherlands-u17/9orxb8hqcz2hlriu0bnzzih3o,[],{}
+UEFA U17 Championship Qualification,Europe,N. Ireland,1,Denmark,4,2023-03-28,https://www.goal.com/en/match/northern-ireland-u17-vs-denmark-u17/9ouq3s7fe1zubz8e2k4zcvok4,[],{}
+National 1,France,Nancy,0,Concarneau,0,2023-03-28,https://www.goal.com/en/match/nancy-vs-concarneau/68zasnq91gxrhbe5s8q9msv10,[],{}
+National 1,France,Paris 13,0,Red Star,1,2023-03-28,https://www.goal.com/en/match/paris-13-atletico-vs-red-star/6de9m670p7g47o0jclgmx7z10,[],{}
+Regionalliga,Germany,Eichstätt,4,Hankofen,0,2023-03-28,https://www.goal.com/en/match/eichstaett-vs-hankofen-hailing/89vs17x4iudm8ogayjahmdl3o,[],{}
+Regionalliga,Germany,Pipinsried,0,Nürnberg II,3,2023-03-28,https://www.goal.com/en/match/pipinsried-vs-nuernberg-ii/89rxk9ru4fas8upgl8dctmivo,[],{}
+Regionalliga,Germany,Vilzing,1,Burghausen,1,2023-03-28,https://www.goal.com/en/match/vilzing-vs-wacker-burghausen/87b9nlxrvbpxj0y8nx11e5n2s,[],{}
+Regionalliga,Germany,Erfurt,1,Luckenwalde,1,2023-03-28,https://www.goal.com/en/match/rot-weiss-erfurt-vs-luckenwalde/cy2do12np3t00pys9nu9159uc,[],{}
+Regionalliga,Germany,Steinbach,2,Wormatia,2,2023-03-28,https://www.goal.com/en/match/tsv-steinbach-vs-wormatia-worms/5rpeup34ch5e88w06s0dzlsk,[],{}
+Liga 1,Indonesia,Persita,1,Persija,0,2023-03-28,https://www.goal.com/en/match/persita-vs-persija/i32h2jac8f9vz8hfnoid15as,[],{}
+Concacaf Nations League,N/C America,Dominican Rep,2,Belize,0,2023-03-28,https://www.goal.com/en/match/dominican-republic-vs-belize/76cy5duybxzl1jdwxy8uyii38,[],{}
+Concacaf Nations League,N/C America,Trinidad,1,Nicaragua,1,2023-03-28,https://www.goal.com/en/match/trinidad-and-tobago-vs-nicaragua/9q39mw2n5v930lrcf35xi0cno,[],{}
+Concacaf Nations League,N/C America,Guatemala,4,French Guiana,0,2023-03-28,https://www.goal.com/en/match/guatemala-vs-french-guiana/76gwwr4rdc7x68rmbzgsgwc9g,[],{}
+Concacaf Nations League,N/C America,St. Kitts,2,Aruba,0,2023-03-28,https://www.goal.com/en/match/st-kitts-and-nevis-vs-aruba/cl01muwxlbde32z55bnuk2ihg,[],{}
+Concacaf Nations League,N/C America,St. Lucia,3,Dominica,1,2023-03-28,https://www.goal.com/en/match/st-lucia-vs-dominica/419wewdpmzn7vbr4eh85c0duc,[],{}
+Concacaf Nations League,N/C America,United States,1,El Salvador,0,2023-03-28,https://www.goal.com/en/match/united-states-vs-el-salvador/5uxhxiycz5jmgdida7kbl4xzo,[],{}
+Eredivisie Women,Netherlands,Zwolle,4,PSV,0,2023-03-28,https://www.goal.com/en/match/pec-zwolle-vs-psv/6g2s1iuibviqmnutguhxupkic,"[['Zwolle', 'Draw', 'PSV'], ['12', '52', '60']]","{'Corners': ['6', '4'], 'Fouls': ['5', '16']}"
+QSL Cup,Qatar,Umm Salal,0,Al Duhail,1,2023-03-28,https://www.goal.com/en/match/umm-salal-vs-al-duhail/97mvstnlm6tipjtlroehzs36c,[],{}
+1. Lig,Turkey,Boluspor,1,Samsunspor,5,2023-03-28,https://www.goal.com/en/match/boluspor-vs-samsunspor/6v36vrtz4v05e7vyw9n4p5c7o,[],{}
+1. Lig,Turkey,Altınordu,5,Denizlispor,2,2023-03-28,https://www.goal.com/en/match/altinordu-vs-denizlispor/6utz9x0ihp0727wb7dbvc3evo,[],{}
+1. Lig,Turkey,Pendik,2,Keçiörengücü,1,2023-03-28,https://www.goal.com/en/match/pendikspor-vs-ankara-kecioerenguecue/6uyjpo7d1q0z6mpyakymux9uc,[],{}
+MLS Next Pro,USA,Cincinnati II,4,TFC II,2,2023-03-28,https://www.goal.com/en/match/fc-cincinnati-ii-vs-toronto-ii/wxqocdkgvudpom07d6n6ym1g,[],{}
+U23 National Team Friendlies,World,Qatar,0,Saudi Arabia,0,2023-03-28,https://www.goal.com/en/match/qatar-u23-vs-saudi-arabia-u23/10cd4p6mts4ya7d23wuomasr8,[],{}
+U21 National Team Friendlies,World,Romania,0,Germany,0,2023-03-28,https://www.goal.com/en/match/romania-u21-vs-germany-u21/2q2h0io0w7iiuddmlm6nfgh78,"[['Romania', 'Draw', 'Germany'], ['8', '25', '49']]","{'Corners': ['2', '6'], 'Fouls': ['16', '12']}"
+U21 National Team Friendlies,World,Portugal,3,Norway,0,2023-03-28,https://www.goal.com/en/match/portugal-u21-vs-norway-u21/1a9x4r35uqvco353qu1t147x0,[],{}
+U21 National Team Friendlies,World,England,1,Croatia,2,2023-03-28,https://www.goal.com/en/match/england-u21-vs-croatia-u21/3dwwrz5fs3necdw7ncqp52sk4,"[['England', 'Draw', 'Croatia'], ['90', '42', '15']]","{'Corners': ['7', '2'], 'Fouls': ['13', '13']}"
+U20 National Team Friendlies,World,USA,0,Serbia,0,2023-03-28,https://www.goal.com/en/match/united-states-u20-vs-serbia-u21/eihfrjtcdf046qovqoi2un6dw,[],{}
+U20 National Team Friendlies,World,England,1,France,1,2023-03-28,https://www.goal.com/en/match/england-u20-vs-france-u20/d8gkefx19x2k9y7oe7teelono,"[['England', 'Draw', 'France'], ['44', '35', '16']]","{'Corners': ['5', '4'], 'Fouls': ['17', '15']}"
