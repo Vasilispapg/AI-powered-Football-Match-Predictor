@@ -16,12 +16,7 @@ def add_json_to_csv():
         writer = csv.writer(csv_file)
         writer.writerow(["Team Name", "Market Value"])
         writer.writerows(lista)
-        
-                
-    # Open the file in write mode to clear its contents
-    with open('marketValue/temp.json', "w") as json_file:
-        # Write an empty JSON object to the file
-        json_file.write("{}")
+    print("END add_json_to_csv")
          
 if __name__ == "__main__":
     add_json_to_csv()

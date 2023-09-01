@@ -11,7 +11,7 @@ def addDataIntoMV():
     '''
     data=[]
     data_filtered=[]
-    with open('marketValue/teams_market_value_fix.csv', 'r',encoding='utf-8') as csv_file:
+    with open('marketValue/teams_market_value.csv', 'r',encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file)
         next(csv_reader)
         for line in csv_reader:
@@ -43,6 +43,8 @@ def addDataIntoMV():
         csv_writer.writerow(['Competition','Country','Home Team','Home Score','Away Team','Away Score','Date','URL','Votes','Stats','Competition_type',"MV Home Team","MV Away Team"])
         for line in data_filtered:
             csv_writer.writerow(line)
+            
+    print("END addDataIntoMV")
 
-
-addDataIntoMV()
+if __name__ == "__main__":
+    addDataIntoMV()

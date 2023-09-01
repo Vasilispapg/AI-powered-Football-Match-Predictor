@@ -4,10 +4,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
 from fix_the_price import fix_the_price
 import json
 from SaveData import add_json_to_csv
+from filtered_to_mv import f_to_mv
+from AddMV_into_filter import addDataIntoMV
 from selenium.common.exceptions import TimeoutException,NoSuchElementException
 
 
@@ -88,8 +89,7 @@ def fetchMarketValues(team_list,inputFile=None):
         id+=1
         if(id%10==0):
             importJSON('marketValue/temp.json',temp_file)
-        if(str(id) in temp_file):
-            continue
+            
         if(value!='0'):            
             market_values.append([team_name,value])
             temp_file[str(id)]={team_name:value}
@@ -102,7 +102,6 @@ def fetchMarketValues(team_list,inputFile=None):
 
         try:
             # Open the search URL in the browser
-            
             driver.get(str(search_url))
 
             # Wait for search results to load
@@ -168,15 +167,18 @@ def fetchMarketValues(team_list,inputFile=None):
 def checkagain(input_file):
 
     # Read the CSV file and populate the data array
-    data_array = []
+    data_array = []    
     with open(input_file, "r", newline="", encoding="utf-8") as input_csv:
         reader = csv.reader(input_csv)
         for row in reader:
             for row in reader:
                 data_array.append(row)
         fetchMarketValues(data_array,input_file)
+    print('END checkagain')
         
 if __name__ == "__main__":
+    f_to_mv('filter/output_filtered.csv','marketValue/teams_market_value.csv')
     checkagain('marketValue/teams_market_value.csv')
     add_json_to_csv()
     fix_the_price()
+    addDataIntoMV()

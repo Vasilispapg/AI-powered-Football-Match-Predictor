@@ -23,7 +23,6 @@ def expand_number_in_k(value):
     except ValueError:
         return None  # Invalid input
     
-
 #if you find 0 make it median 2.28M
 def fix_the_price():
     """
@@ -59,9 +58,9 @@ def fix_the_price():
                 data[idx][1] = mid_value
                 
             
-    with open('marketValue/teams_market_value_fix.csv', "w", newline="", encoding="utf-8") as csv_file:
+    with open('marketValue/teams_market_value.csv', "w", newline="", encoding="utf-8") as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(["Team Name", "Market Value (M)"])
+        writer.writerow(["Team Name", "Market Value"])
         writer.writerows(data)
         
 if __name__ == "__main__":
