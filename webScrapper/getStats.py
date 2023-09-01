@@ -3,13 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 import csv
 import os
 import json
 from concurrent.futures import ThreadPoolExecutor
-import concurrent.futures 
-
 
 
 # this is a way to run the script from a batch file and from python script
@@ -160,8 +157,7 @@ def proccess(driver,file_path):
                 row['Stats']=getStats(driver)
                 row['Votes']=getVotes(driver, row['Home Team'], row['Away Team'])
             except:
-                row['Stats']={}
-                row['Votes']=[]
+                pass
                         
             data.append(row)
             temp_file[counter]=row
@@ -185,7 +181,7 @@ def main(provided_file_list):
     # Initialize a Firefox driver instance
     options = webdriver.FirefoxOptions()
     options.headless = True
-    profile=FirefoxProfile()
+    profile=webdriver.FirefoxProfile()
     options.set_preference("network.cookie.cookieBehavior", 0)
     driver = webdriver.Firefox(options=options, executable_path=geckodriver_path,firefox_profile=profile)
     for file_name in provided_file_list:
@@ -193,7 +189,6 @@ def main(provided_file_list):
             print(f"Processing data from: {file_name}")
             file_path = os.path.join(folder_path, file_name)
             processed_file_path = proccess(driver,file_path)
-            print(f"Processed data saved to: {processed_file_path}")
     driver.quit()
 
 
@@ -205,11 +200,6 @@ file_list = os.listdir(folder_path)
 file_list=sorted(file_list)
 
 with ThreadPoolExecutor(max_workers=3) as executor:
-    futures1=executor.submit(main, file_list[int((len(file_list)/2)):])
-    futures2=executor.submit(main, file_list[:int((len(file_list)/2))])
-    futures3=executor.submit(main, file_list[int((len(file_list)/4)):])
-    
+    futures1=executor.submit(main, file_list)
     futures1.result()
-    futures2.result()
-    futures3.result()
 
