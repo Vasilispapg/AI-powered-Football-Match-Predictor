@@ -16,12 +16,15 @@ def addDataIntoMV():
         next(csv_reader)
         for line in csv_reader:
             data.append(line)
-            
-    with open('filter/output_filtered.csv', 'r',encoding='utf-8') as filteredFile:
-        csv_reader = csv.reader(filteredFile)
-        next(csv_reader)
-        for line in csv_reader:
-            data_filtered.append(line[:-2])
+    
+        with open('filter/output_filtered.csv', 'r',encoding='utf-8') as filteredFile:
+            csv_reader = csv.reader(filteredFile)
+            next(csv_reader)
+            for line in csv_reader:
+                if(len(line)>11):    
+                    data_filtered.append(line[:-2])
+                else:
+                    data_filtered.append(line)
 
     for team,value in data:
         for team_filtered in data_filtered:
@@ -37,7 +40,7 @@ def addDataIntoMV():
 
     with open('filter/output_filtered.csv', 'w',encoding='utf-8',newline='') as filteredFile:
         csv_writer = csv.writer(filteredFile)
-        csv_writer.writerow(['Competition','Country',"Home Team","Home Score","Away Team","Away Score","Date","MV Home Team","MV Away Team"])
+        csv_writer.writerow(['Competition','Country','Home Team','Home Score','Away Team','Away Score','Date','URL','Votes','Stats','Competition_type',"MV Home Team","MV Away Team"])
         for line in data_filtered:
             csv_writer.writerow(line)
 
