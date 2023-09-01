@@ -11,21 +11,24 @@ Welcome to the Football Data Analysis repository! This README provides an extens
 - [Project Structure](#project-structure)
 - [Scripts Details](#scripts-details)
   - [Data Collection](#data-collection)
-    - [getStats.py](#getstatspy)
-    - [football.py](#footballpy)
+    - [`getStats.py`](#getstatspy)
+    - [`football.py`](#footballpy)
   - [Data Filtering](#data-filtering)
-    - [filterData.py](#filter-datapy)
+    - [`filterData.py`](#filter-datapy)
   - [Performance Analysis](#performance-analysis)
-    - [performance.py](#performancepy)
+    - [`performance.py`](#performancepy)
   - [Market Value Extraction](#market-value-extraction)
-    - [saveData.py](#savedatapy)
-    - [marketValue.py](#marketvaluepy)
+    - [`saveData.py`](#savedatapy)
+    - [`marketValue.py`](#marketvaluepy)
   - [Data Manipulation](#data-manipulation)
-    - [fix_the_price.py](#fix-the-pricepy)
-    - [filter_to_mv.py](#filter-to-mvpy)
-    - [addmv_to_filter.py](#addmv-to-filterpy)
+    - [`fix_the_price.py`](#fix-the-pricepy)
+    - [`filter_to_mv.py`](#filter-to-mvpy)
+    - [`addmv_to_filter.py`](#addmv-to-filterpy)
   - [Utility](#utility)
-    - [merge.py](#mergepy)
+    - [`merge.py`](#mergepy)
+- [Machine Learning Model](#machine-learning-model)
+  - [`train.py`](#train-modelpy)
+  - [`predict.py`](#predict-winnerpy)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,7 +42,7 @@ The project is organized into the following folders:
 - **performance**: Includes scripts for performance analysis.
 - **matches_detailed**: Contains raw match data.
 - **matches_detailed_processed**: Contains processed match data with statistics and votes by users.
-- **model**: Reserved for any machine learning models.
+- **model**: Reserved for the machine learning model.
 - **webScrapper**: Contains web scraping-related files.
 
 ## Scripts Overview
@@ -99,13 +102,21 @@ The project is organized into the following folders:
    - **Output**: Updated filtered dataset with appended market values.
    - **Usage**: Enhance match data with market value information.
 
-### Utility
+## Machine Learning Model
 
-10. #### `merge.py`
-    - **Description**: Merges multiple CSV files into a single CSV file, consolidating football match data.
-    - **Output**: A merged CSV file with consolidated match data.
-    - **Usage**: Combine data from multiple sources into a single dataset.
+### Training the Model
 
+10. #### `train_model.py`
+    - **Description**: Builds and trains a neural network model to predict match outcomes based on selected features.
+    - **Output**: Saves the trained model as a pickle file.
+    - **Usage**: Train the model using football match data.
+
+### Predicting Match Outcomes
+
+11. #### `predict_winner.py`
+    - **Description**: Loads a trained model and uses it to predict the winner of a match based on provided input data.
+    - **Output**: Prints the predicted winner of the match.
+    - **Usage**: Make predictions using the loaded model.
 
 ## Usage Instructions
 
