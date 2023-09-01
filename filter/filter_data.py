@@ -1,10 +1,10 @@
 import csv
 
 # Path to the input CSV file
-input_csv_file = "merged/merged_output.csv"
+input_csv_file = "merged/merged_output_detailed.csv"
 
 # Path to the output CSV file
-output_csv_file = "output_filtered.csv"
+output_csv_file = "filter/output_filtered.csv"
 
 # Read the input CSV and filter rows
 filtered_rows = []
