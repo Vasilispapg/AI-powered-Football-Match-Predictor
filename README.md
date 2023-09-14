@@ -2,7 +2,7 @@
 
 ![Football Data Analysis](https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Welcome to the Football Data Analysis repository! This README provides an extensive overview of a powerful set of Python scripts for football data analysis. These versatile scripts allow you to collect, filter, and analyze football match data, including statistics, market values, and performance metrics. Whether you're a data enthusiast, a sports analyst, or a football fan, this repository provides valuable tools to gain insights from football match data.
+Welcome to the AI Powered Football Match Predictor repository! This README provides an extensive overview of a powerful set of Python scripts for football data analysis. These versatile scripts allow you to collect, filter, and analyze football match data, including statistics, market values, and performance metrics. Whether you're a data enthusiast, a sports analyst, or a football fan, this repository provides valuable tools to gain insights from football match data.
 
 ## Table of Contents
 
