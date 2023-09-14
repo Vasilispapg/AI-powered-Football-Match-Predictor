@@ -1,4 +1,4 @@
-# AI Powered Football Match Predictor README
+# AI Powered Football Match Predictor
 
 ![Football Data Analysis](https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
