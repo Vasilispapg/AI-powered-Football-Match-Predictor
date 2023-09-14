@@ -1,4 +1,4 @@
-# Football Data Analysis README
+# AI Powered Football Match Predictor README
 
 ![Football Data Analysis](https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
@@ -26,9 +26,9 @@ Welcome to the Football Data Analysis repository! This README provides an extens
     - [`addmv_to_filter.py`](#addmv-to-filterpy)
   - [Utility](#utility)
     - [`merge.py`](#mergepy)
-- [Machine Learning Model](#machine-learning-model)
-  - [`train.py`](#train-modelpy)
-  - [`predict.py`](#predict-winnerpy)
+  - [Machine Learning Model](#machine-learning-model)
+    - [`train.py`](#train-modelpy)
+    - [`predict.py`](#predict-winnerpy)
 - [Contributing](#contributing)
 - [License](#license)
 
