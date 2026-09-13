@@ -1,5 +1,34 @@
-matches
+# --- Scraper artefacts ---
 geckodriver.exe
 geckodriver.log
+*.log
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# --- Generated data ---
+# data/ is 118 MB and fully reproducible: `python -m football.run_all` rebuilds
+# it from matches_detailed_processed/ plus a download. models/ and reports/ are
+# likewise outputs, not sources.
+# Leading slash matters: a bare `data/` also matches football/data/, which is
+# the merge/filter/audit package, and would silently drop it from the repo.
+/data/
+/models/
+/reports/
+
+# The scraped match CSVs under matches_detailed/ and matches_detailed_processed/
+# ARE tracked, deliberately. They cannot be regenerated -- the goal.com scrapers
+# stopped matching the site's markup -- so they are the one irreplaceable thing
+# in this repository. The same goes for the derived CSVs in filter/, merged/ and
+# performance/, kept because they are cheap relative to losing them.
+
+# --- Personal notes ---
 thimisou.txt
-__pycache__

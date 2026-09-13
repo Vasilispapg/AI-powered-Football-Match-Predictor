@@ -1,0 +1,71 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "football"
+version = "0.1.0"
+description = "Pre-match football outcome prediction from market values, form and crowd votes"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "scikit-learn>=1.5",
+    "joblib>=1.4",
+    "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+# Only needed to collect new data (Phase 6). Kept out of the default install so
+# the modelling pipeline does not drag in a browser automation stack.
+scrape = [
+    "selenium>=4.20",
+    "rapidfuzz>=3.9",
+]
+dev = [
+    "pytest>=8",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+football = "football.run_all:main"
+football-pipeline = "football.pipeline:main"
+football-audit = "football.data.audit:main"
+football-features = "football.features:main"
+football-train = "football.train:main"
+football-predict = "football.predict:main"
+
+[tool.setuptools.packages.find]
+include = ["football*"]
+
+[tool.setuptools.package-data]
+"football.teams" = ["aliases.csv"]
+"football.scrape" = ["selectors.json"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4", "SIM", "RUF", "BLE", "S"]
+ignore = [
+    "E501",    # line length is handled by the formatter
+    "S101",    # assert is the point of a test suite
+    "SIM108",  # ternaries are not always clearer
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Selenium raises a wide, version-dependent set of exceptions and third-party
+# markup changes without notice, so catching broadly is correct here. The
+# original's failing was not the breadth of its `except` blocks but that they
+# were `except: pass` -- every catch in this package records the failure, and
+# `Failures.report()` prints the tally at the end of a run.
+"football/scrape/*.py" = ["BLE001"]
+# Tests reach into private state to build fixtures.
+"tests/*.py" = ["SLF001"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

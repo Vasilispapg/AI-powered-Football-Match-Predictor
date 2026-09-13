@@ -1,0 +1,51 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install
+        run: pip install -e ".[dev]"
+
+      - name: Lint
+        run: ruff check football tests
+
+      - name: Format check
+        run: ruff format --check football tests
+
+      # The full suite. Two of these matter more than the rest:
+      #   test_no_leakage.py  -- a feature for a match on date D may only use
+      #                          data from before D. This is the property the
+      #                          old model violated, and it fails silently:
+      #                          a leaky model does not crash, it just reports
+      #                          a flattering number.
+      #   test_predict.py     -- training and prediction must produce identical
+      #                          features for the same fixture (train/serve
+      #                          skew).
+      - name: Tests
+        run: pytest -q
+
+      # Named separately so a regression in either shows up as its own red
+      # check rather than one line in a 123-test summary.
+      - name: Leakage guarantee
+        run: pytest tests/test_no_leakage.py -q
+
+      - name: Train/serve consistency
+        run: pytest tests/test_predict.py::TestRoundTrip -q

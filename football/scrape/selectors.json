@@ -1,0 +1,33 @@
+{
+  "_comment": [
+    "Selectors for the scraped sites, kept out of the Python so they can be",
+    "repaired without a code change. The goal.com values are hashed CSS-module",
+    "class names captured in 2023; they are regenerated on every frontend",
+    "deploy and have very likely changed. Verify with",
+    "`python -m football.scrape.goal --check` before a run."
+  ],
+  "goal": {
+    "results_url": "https://www.goal.com/en/results/{date}",
+    "cookie_accept": "//div[@id='onetrust-button-group']//button",
+    "competition_block": ".competition_competition__s2ULZ",
+    "competition_name": "a.competition_name__YEMb_",
+    "match_row": ".row_row__UQmGm",
+    "home_team": "div.team_team-a__2YS_9 h4.name_name__YzgHa",
+    "away_team": "div.team_team-b__YaeU1 h4.name_name__YzgHa",
+    "score": ".result_score__Dh4zx",
+    "match_link": ".row_match-link__cmwZt",
+    "stats_group": ".stats_stats__JdhGQ",
+    "stats_heading": "h4",
+    "stats_value": ".stats-group-row_data__iIVZq",
+    "predictor": ".predictor_predictor__dAM6K",
+    "vote_wrapper": ".results_result-wrapper__O6nyX",
+    "vote_count": ".results_votes__aFpgS"
+  },
+  "transfermarkt": {
+    "search_url": "https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query={query}",
+    "results_main": "main",
+    "section_heading": "h2.content-box-headline",
+    "club_section_text": "club",
+    "market_value": ".rechts"
+  }
+}
